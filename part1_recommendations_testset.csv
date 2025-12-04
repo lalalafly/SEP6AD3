@@ -1,0 +1,781 @@
+Age,Purchase Amount (USD),Previous Purchases,Category,Location,Season,Subscription Status,Shipping Type,Payment Method,Frequency of Purchases,coupon_prob,recommend_send_coupon,true_coupon_user
+70,88,43,Clothing,Arizona,Fall,No,Express,Cash,Bi-Weekly,10.73,0,0
+68,47,13,Accessories,Hawaii,Fall,Yes,2-Day Shipping,Bank Transfer,Monthly,99.57,1,1
+30,87,40,Clothing,Montana,Fall,No,Next Day Air,Venmo,Quarterly,23.5,0,0
+38,30,45,Outerwear,Iowa,Winter,Yes,Express,Cash,Weekly,99.76,1,1
+54,94,41,Accessories,North Carolina,Fall,Yes,Free Shipping,PayPal,Every 3 Months,99.66,1,1
+20,35,18,Footwear,Maine,Winter,No,Express,Venmo,Fortnightly,12.44,0,1
+22,39,47,Clothing,Nevada,Spring,No,Standard,Credit Card,Monthly,23.84,0,0
+29,47,17,Accessories,South Dakota,Fall,No,Free Shipping,Debit Card,Bi-Weekly,17.03,0,0
+49,82,14,Clothing,Delaware,Fall,No,Next Day Air,PayPal,Monthly,15.69,0,0
+52,100,8,Clothing,Delaware,Spring,Yes,Store Pickup,PayPal,Monthly,99.4,1,1
+53,27,14,Outerwear,South Dakota,Winter,No,Next Day Air,PayPal,Every 3 Months,28.1,0,0
+37,90,47,Accessories,Wyoming,Fall,Yes,Store Pickup,Debit Card,Annually,99.3,1,1
+62,97,2,Clothing,California,Winter,No,2-Day Shipping,PayPal,Quarterly,13.24,0,1
+41,92,35,Accessories,New Jersey,Fall,No,Free Shipping,Debit Card,Weekly,17.08,0,0
+55,22,27,Accessories,Louisiana,Winter,No,Next Day Air,Venmo,Quarterly,25.52,0,0
+70,57,42,Accessories,Kentucky,Spring,No,Store Pickup,PayPal,Annually,13.9,0,1
+45,24,15,Clothing,Missouri,Summer,No,Express,Venmo,Bi-Weekly,23.7,0,0
+27,22,21,Footwear,Wyoming,Winter,No,2-Day Shipping,Debit Card,Weekly,13.11,0,0
+24,73,31,Clothing,Utah,Summer,No,Standard,Credit Card,Annually,25.27,0,0
+57,65,24,Footwear,New Jersey,Spring,No,Free Shipping,PayPal,Annually,12.26,0,1
+19,26,33,Outerwear,Oklahoma,Fall,Yes,Free Shipping,PayPal,Weekly,99.67,1,1
+54,98,42,Accessories,West Virginia,Fall,Yes,Free Shipping,Bank Transfer,Quarterly,99.65,1,1
+36,82,3,Clothing,Texas,Fall,No,Free Shipping,Debit Card,Quarterly,17.83,0,0
+48,68,4,Accessories,Kentucky,Summer,No,Standard,PayPal,Every 3 Months,23.88,0,0
+30,91,2,Clothing,Delaware,Summer,No,Free Shipping,Venmo,Every 3 Months,20.39,0,0
+59,70,17,Footwear,Louisiana,Spring,No,Free Shipping,Cash,Bi-Weekly,13.41,0,0
+44,93,35,Clothing,Utah,Spring,No,Next Day Air,Debit Card,Monthly,31.68,0,0
+30,88,13,Accessories,North Dakota,Winter,No,2-Day Shipping,Bank Transfer,Bi-Weekly,19.96,0,1
+54,67,42,Accessories,Nebraska,Summer,Yes,Next Day Air,Credit Card,Bi-Weekly,99.67,1,1
+43,57,26,Clothing,Alabama,Fall,No,Standard,Credit Card,Quarterly,16.43,0,1
+20,100,15,Outerwear,Tennessee,Spring,Yes,Free Shipping,PayPal,Annually,99.59,1,1
+43,28,45,Clothing,Maryland,Spring,No,Free Shipping,Venmo,Weekly,32.36,0,0
+63,22,42,Clothing,Mississippi,Summer,Yes,Next Day Air,Venmo,Bi-Weekly,99.85,1,1
+60,63,18,Accessories,Virginia,Fall,No,Next Day Air,Credit Card,Quarterly,13.26,0,0
+57,67,48,Clothing,North Carolina,Summer,Yes,Next Day Air,Bank Transfer,Quarterly,99.76,1,1
+69,62,3,Accessories,Pennsylvania,Fall,No,Express,Credit Card,Annually,15.25,0,0
+68,23,43,Footwear,Nevada,Winter,No,Standard,PayPal,Quarterly,18.67,0,1
+53,93,33,Clothing,Delaware,Spring,Yes,Store Pickup,PayPal,Every 3 Months,99.55,1,1
+26,28,17,Clothing,Florida,Winter,No,Express,Debit Card,Weekly,20.03,0,0
+25,95,33,Accessories,Texas,Winter,No,2-Day Shipping,Venmo,Monthly,22.09,0,1
+52,73,15,Footwear,Oklahoma,Winter,Yes,2-Day Shipping,Bank Transfer,Bi-Weekly,99.54,1,1
+42,25,10,Accessories,Connecticut,Fall,No,Express,Debit Card,Bi-Weekly,11.76,0,0
+36,39,38,Accessories,Montana,Summer,No,Store Pickup,Venmo,Monthly,19.28,0,0
+25,87,15,Clothing,Vermont,Fall,No,2-Day Shipping,Debit Card,Weekly,16.66,0,0
+22,84,40,Footwear,Pennsylvania,Winter,No,Next Day Air,Debit Card,Monthly,24.24,0,1
+40,50,17,Footwear,Texas,Spring,No,Free Shipping,Cash,Monthly,16.34,0,1
+42,36,47,Clothing,Virginia,Fall,No,Free Shipping,Credit Card,Fortnightly,9.96,0,0
+41,80,17,Clothing,Delaware,Summer,Yes,Free Shipping,Debit Card,Weekly,99.46,1,1
+22,79,23,Clothing,West Virginia,Summer,Yes,Free Shipping,Bank Transfer,Every 3 Months,99.71,1,1
+67,73,20,Clothing,Illinois,Spring,No,Express,Bank Transfer,Monthly,15.94,0,1
+62,50,40,Clothing,Louisiana,Fall,No,Free Shipping,Bank Transfer,Bi-Weekly,12.59,0,0
+42,96,41,Accessories,Alabama,Summer,No,2-Day Shipping,Credit Card,Every 3 Months,19.02,0,0
+28,95,14,Clothing,Colorado,Winter,No,Next Day Air,Bank Transfer,Monthly,16.26,0,1
+39,25,21,Clothing,Ohio,Fall,No,Standard,PayPal,Every 3 Months,27.06,0,0
+60,41,2,Clothing,Washington,Spring,No,Express,Debit Card,Monthly,18.9,0,0
+60,25,13,Accessories,Alabama,Summer,No,Store Pickup,Venmo,Bi-Weekly,15.74,0,0
+52,88,30,Clothing,Montana,Fall,No,Standard,Venmo,Monthly,18.64,0,0
+27,52,28,Accessories,Illinois,Summer,No,Standard,Venmo,Monthly,26.86,0,0
+19,97,5,Clothing,Rhode Island,Spring,No,Express,Venmo,Quarterly,18.12,0,1
+19,52,41,Clothing,Montana,Spring,Yes,Free Shipping,Bank Transfer,Quarterly,99.6,1,1
+27,42,47,Accessories,Maryland,Spring,Yes,Next Day Air,Credit Card,Quarterly,99.87,1,1
+28,26,18,Clothing,Tennessee,Spring,Yes,2-Day Shipping,Debit Card,Every 3 Months,99.72,1,1
+18,100,24,Clothing,South Dakota,Winter,No,Next Day Air,PayPal,Annually,18.59,0,1
+40,61,36,Clothing,Illinois,Summer,No,Next Day Air,Cash,Quarterly,27.31,0,0
+55,96,7,Accessories,Washington,Summer,No,Next Day Air,Bank Transfer,Bi-Weekly,26.24,0,0
+62,39,31,Clothing,Vermont,Spring,Yes,Standard,Credit Card,Bi-Weekly,99.65,1,1
+68,46,38,Accessories,Ohio,Summer,No,2-Day Shipping,Debit Card,Fortnightly,28.19,0,1
+54,44,11,Clothing,Kentucky,Winter,No,Express,Credit Card,Weekly,12.89,0,0
+43,29,7,Accessories,North Dakota,Spring,Yes,Store Pickup,Debit Card,Bi-Weekly,99.64,1,1
+58,80,28,Outerwear,California,Fall,Yes,Express,Cash,Bi-Weekly,99.29,1,1
+18,73,27,Clothing,Illinois,Spring,Yes,Standard,Venmo,Bi-Weekly,99.73,1,1
+27,71,29,Clothing,Maine,Spring,No,Free Shipping,Credit Card,Every 3 Months,16.62,0,0
+19,94,31,Clothing,Washington,Fall,No,Express,PayPal,Monthly,16.03,0,0
+55,20,43,Clothing,Montana,Winter,No,Next Day Air,Bank Transfer,Weekly,19.23,0,0
+62,45,37,Accessories,Oklahoma,Spring,No,Express,PayPal,Weekly,23.3,0,0
+55,67,33,Accessories,Massachusetts,Summer,No,Store Pickup,PayPal,Annually,16.72,0,1
+34,41,19,Clothing,West Virginia,Fall,Yes,2-Day Shipping,Debit Card,Bi-Weekly,99.59,1,1
+59,75,9,Outerwear,Texas,Summer,No,Next Day Air,PayPal,Quarterly,28.43,0,0
+38,96,10,Accessories,Alabama,Summer,Yes,Store Pickup,Debit Card,Annually,99.31,1,1
+25,78,38,Clothing,California,Spring,Yes,Store Pickup,PayPal,Monthly,99.37,1,1
+68,57,8,Clothing,Mississippi,Fall,No,2-Day Shipping,Bank Transfer,Monthly,23.8,0,0
+26,82,38,Clothing,Idaho,Spring,Yes,Next Day Air,Credit Card,Annually,99.71,1,1
+67,81,25,Clothing,South Carolina,Spring,No,Free Shipping,Cash,Bi-Weekly,20.42,0,0
+26,73,33,Accessories,Connecticut,Fall,No,Next Day Air,Debit Card,Monthly,17.58,0,0
+31,21,30,Accessories,Michigan,Winter,Yes,Standard,Venmo,Monthly,99.68,1,1
+21,24,32,Accessories,Alaska,Fall,No,Standard,Venmo,Fortnightly,32.76,0,0
+60,62,41,Clothing,Washington,Summer,Yes,Express,PayPal,Annually,99.46,1,1
+53,74,6,Accessories,New Jersey,Winter,No,Free Shipping,Venmo,Bi-Weekly,19.08,0,0
+26,48,25,Clothing,South Carolina,Fall,No,Express,Cash,Every 3 Months,20.31,0,0
+33,77,1,Clothing,Kansas,Spring,No,Next Day Air,PayPal,Every 3 Months,20.61,0,0
+25,56,18,Accessories,Alabama,Summer,No,Next Day Air,Credit Card,Quarterly,22.3,0,0
+57,23,31,Accessories,New York,Summer,No,Free Shipping,Debit Card,Every 3 Months,27.06,0,1
+18,32,10,Accessories,Nebraska,Fall,No,Express,Cash,Fortnightly,17.82,0,0
+23,76,19,Clothing,North Carolina,Fall,No,Store Pickup,Bank Transfer,Quarterly,19.65,0,0
+21,81,25,Accessories,Kansas,Spring,No,Free Shipping,Debit Card,Quarterly,17.64,0,0
+60,68,34,Accessories,Missouri,Summer,Yes,2-Day Shipping,Cash,Monthly,99.72,1,1
+24,100,16,Clothing,Oregon,Fall,Yes,Next Day Air,Venmo,Every 3 Months,99.87,1,1
+66,78,44,Clothing,Connecticut,Spring,No,2-Day Shipping,Credit Card,Every 3 Months,17.87,0,0
+26,20,20,Accessories,Georgia,Spring,No,Store Pickup,Credit Card,Bi-Weekly,15.99,0,1
+40,74,42,Accessories,Washington,Summer,No,Next Day Air,Credit Card,Fortnightly,31.94,0,0
+63,30,27,Accessories,Maryland,Winter,Yes,Standard,PayPal,Fortnightly,99.82,1,1
+63,65,38,Clothing,Louisiana,Winter,Yes,Next Day Air,PayPal,Fortnightly,99.63,1,1
+52,26,24,Clothing,New Hampshire,Winter,No,Free Shipping,Cash,Monthly,21.62,0,1
+47,25,24,Clothing,Rhode Island,Summer,No,Express,Venmo,Every 3 Months,18.18,0,0
+58,99,34,Footwear,Texas,Winter,No,Next Day Air,PayPal,Quarterly,20.08,0,0
+64,22,40,Clothing,Missouri,Fall,No,Standard,Debit Card,Weekly,24.8,0,0
+59,38,16,Accessories,Alabama,Winter,No,Store Pickup,Cash,Bi-Weekly,13.36,0,0
+58,51,34,Clothing,Hawaii,Winter,No,Express,Credit Card,Weekly,17.57,0,1
+47,93,25,Accessories,New York,Summer,No,Standard,Bank Transfer,Fortnightly,30.47,0,0
+42,35,21,Clothing,Indiana,Spring,No,Standard,Cash,Every 3 Months,51.08,0,0
+45,60,44,Clothing,Indiana,Winter,No,Express,Debit Card,Annually,29.03,0,0
+66,77,43,Clothing,Massachusetts,Winter,No,2-Day Shipping,Cash,Monthly,19.0,0,0
+27,42,28,Footwear,Virginia,Spring,Yes,Standard,Bank Transfer,Monthly,99.2,1,1
+19,74,15,Clothing,West Virginia,Summer,Yes,Store Pickup,Venmo,Monthly,99.68,1,1
+27,73,3,Footwear,Utah,Spring,No,Express,Debit Card,Quarterly,22.35,0,0
+37,51,12,Clothing,Vermont,Winter,No,Standard,Debit Card,Annually,17.72,0,0
+45,57,5,Accessories,New York,Winter,No,Next Day Air,PayPal,Monthly,25.19,0,0
+65,76,48,Clothing,South Carolina,Spring,No,Standard,Bank Transfer,Every 3 Months,29.32,0,0
+60,26,13,Outerwear,Oklahoma,Winter,No,Store Pickup,Credit Card,Monthly,22.32,0,0
+46,88,10,Accessories,Wisconsin,Fall,Yes,2-Day Shipping,PayPal,Fortnightly,99.83,1,1
+62,71,5,Clothing,Maine,Summer,No,Free Shipping,Bank Transfer,Every 3 Months,14.49,0,0
+57,66,27,Accessories,Minnesota,Winter,No,Standard,Credit Card,Quarterly,26.16,0,0
+25,98,28,Clothing,Massachusetts,Spring,No,Free Shipping,Debit Card,Weekly,21.55,0,0
+27,90,10,Footwear,North Dakota,Summer,No,2-Day Shipping,Bank Transfer,Weekly,16.99,0,1
+51,60,12,Footwear,Michigan,Fall,No,Free Shipping,Venmo,Every 3 Months,15.75,0,1
+63,48,29,Footwear,New Jersey,Summer,No,Store Pickup,Venmo,Every 3 Months,19.27,0,1
+66,23,42,Clothing,Illinois,Winter,Yes,Standard,PayPal,Fortnightly,99.66,1,1
+49,32,39,Clothing,Alabama,Fall,No,Next Day Air,Debit Card,Monthly,15.74,0,1
+60,49,25,Footwear,Pennsylvania,Spring,No,Store Pickup,Cash,Every 3 Months,23.69,0,0
+21,94,5,Accessories,Tennessee,Spring,No,Express,Cash,Weekly,21.33,0,0
+28,41,39,Accessories,Hawaii,Spring,No,Next Day Air,Cash,Monthly,31.6,0,1
+42,70,34,Footwear,New Hampshire,Summer,No,2-Day Shipping,Venmo,Monthly,22.71,0,0
+31,72,41,Clothing,Alabama,Winter,Yes,Store Pickup,Bank Transfer,Every 3 Months,99.46,1,1
+53,44,3,Clothing,Connecticut,Summer,No,Express,Cash,Weekly,12.92,0,0
+39,24,9,Clothing,Minnesota,Summer,No,Free Shipping,Venmo,Quarterly,24.53,0,0
+62,98,31,Accessories,South Dakota,Fall,Yes,Express,Cash,Fortnightly,99.56,1,1
+50,66,1,Outerwear,Montana,Spring,No,Store Pickup,Venmo,Weekly,20.59,0,0
+70,62,12,Accessories,North Carolina,Spring,No,2-Day Shipping,Credit Card,Annually,19.34,0,1
+60,35,10,Accessories,Idaho,Fall,Yes,2-Day Shipping,Debit Card,Monthly,99.61,1,1
+46,44,31,Clothing,Idaho,Winter,No,Free Shipping,Bank Transfer,Monthly,19.38,0,0
+29,24,12,Footwear,Maine,Spring,No,Express,Venmo,Bi-Weekly,11.75,0,0
+33,32,48,Outerwear,Alabama,Summer,Yes,2-Day Shipping,Debit Card,Annually,99.45,1,1
+42,58,3,Accessories,Florida,Fall,No,Standard,Debit Card,Annually,21.41,0,0
+41,93,32,Clothing,Nevada,Spring,No,2-Day Shipping,Venmo,Fortnightly,25.53,0,0
+30,42,39,Clothing,Louisiana,Winter,No,Next Day Air,Credit Card,Weekly,19.5,0,0
+60,75,45,Clothing,California,Spring,No,Express,PayPal,Annually,10.36,0,0
+33,80,39,Clothing,Alaska,Winter,No,Store Pickup,Credit Card,Every 3 Months,24.05,0,0
+53,68,20,Footwear,New York,Fall,Yes,Express,Debit Card,Monthly,99.37,1,1
+70,37,20,Clothing,Oklahoma,Winter,No,Express,Credit Card,Fortnightly,21.51,0,0
+66,29,14,Footwear,Connecticut,Spring,No,Free Shipping,Venmo,Quarterly,14.8,0,0
+18,63,9,Accessories,Kentucky,Summer,No,Standard,PayPal,Monthly,20.68,0,0
+32,59,17,Accessories,Michigan,Spring,Yes,2-Day Shipping,Bank Transfer,Bi-Weekly,99.59,1,1
+44,45,34,Accessories,Ohio,Winter,No,Free Shipping,Credit Card,Fortnightly,25.04,0,0
+38,65,7,Clothing,Alaska,Spring,No,2-Day Shipping,Credit Card,Monthly,22.83,0,0
+58,91,6,Accessories,Illinois,Winter,Yes,Store Pickup,Credit Card,Quarterly,99.56,1,1
+19,94,11,Accessories,California,Winter,No,Free Shipping,Credit Card,Weekly,13.34,0,0
+54,57,41,Footwear,Mississippi,Fall,No,Free Shipping,Venmo,Quarterly,26.49,0,0
+68,51,18,Outerwear,Tennessee,Spring,No,Free Shipping,Venmo,Weekly,24.86,0,1
+36,58,4,Accessories,Wisconsin,Spring,No,Express,Venmo,Monthly,39.66,0,1
+36,50,44,Clothing,Tennessee,Fall,No,Standard,Bank Transfer,Bi-Weekly,20.41,0,0
+55,33,47,Clothing,Alaska,Summer,Yes,Express,Debit Card,Fortnightly,99.69,1,1
+39,22,12,Accessories,California,Spring,No,Next Day Air,Bank Transfer,Annually,16.36,0,0
+63,72,23,Accessories,Rhode Island,Winter,No,Next Day Air,Credit Card,Annually,15.06,0,0
+28,70,40,Clothing,Minnesota,Fall,Yes,2-Day Shipping,PayPal,Annually,99.44,1,1
+36,59,12,Outerwear,Utah,Winter,No,Next Day Air,PayPal,Annually,26.79,0,0
+56,25,17,Accessories,Georgia,Spring,No,2-Day Shipping,Debit Card,Weekly,17.3,0,0
+24,26,42,Accessories,Missouri,Summer,No,Next Day Air,Venmo,Quarterly,39.92,0,1
+68,76,7,Clothing,North Carolina,Fall,No,Standard,Venmo,Quarterly,26.08,0,0
+25,58,39,Accessories,Georgia,Spring,No,Store Pickup,Debit Card,Fortnightly,19.88,0,0
+57,58,40,Clothing,Pennsylvania,Summer,No,Express,PayPal,Every 3 Months,24.59,0,0
+35,95,24,Clothing,North Dakota,Fall,No,Free Shipping,Cash,Fortnightly,20.2,0,0
+41,95,46,Clothing,Hawaii,Spring,No,Store Pickup,Credit Card,Quarterly,24.08,0,1
+55,46,29,Accessories,Minnesota,Spring,No,2-Day Shipping,PayPal,Monthly,21.8,0,0
+37,97,14,Outerwear,New Jersey,Summer,Yes,Next Day Air,Cash,Bi-Weekly,99.73,1,1
+53,66,48,Footwear,Arkansas,Fall,No,Next Day Air,Venmo,Bi-Weekly,28.31,0,0
+51,85,33,Clothing,Colorado,Summer,No,Next Day Air,Cash,Monthly,18.44,0,0
+28,37,27,Footwear,New Mexico,Summer,Yes,Express,Credit Card,Annually,99.41,1,1
+25,41,46,Accessories,Iowa,Winter,No,Standard,Bank Transfer,Quarterly,37.09,0,0
+33,50,6,Accessories,Minnesota,Fall,Yes,Free Shipping,Cash,Annually,99.48,1,1
+29,86,45,Outerwear,Maryland,Summer,No,Store Pickup,Credit Card,Fortnightly,34.85,0,0
+47,34,28,Outerwear,New Jersey,Summer,No,Next Day Air,Bank Transfer,Monthly,25.59,0,0
+52,77,44,Clothing,Arizona,Summer,No,Store Pickup,Credit Card,Every 3 Months,16.06,0,0
+49,85,40,Clothing,South Dakota,Summer,Yes,Standard,PayPal,Annually,99.57,1,1
+27,71,12,Clothing,Texas,Fall,Yes,Next Day Air,Cash,Every 3 Months,99.72,1,1
+57,68,39,Clothing,Iowa,Fall,Yes,Store Pickup,Credit Card,Quarterly,99.71,1,1
+63,73,19,Accessories,South Carolina,Fall,No,Express,Credit Card,Annually,13.49,0,1
+41,74,15,Clothing,South Carolina,Summer,Yes,Standard,Cash,Annually,99.64,1,1
+19,91,35,Clothing,Pennsylvania,Summer,Yes,Express,Credit Card,Every 3 Months,99.72,1,1
+54,70,19,Accessories,Nevada,Spring,Yes,2-Day Shipping,Bank Transfer,Every 3 Months,99.69,1,1
+37,56,18,Clothing,Connecticut,Fall,No,2-Day Shipping,Venmo,Monthly,13.76,0,0
+30,79,36,Accessories,Mississippi,Fall,No,Next Day Air,Bank Transfer,Every 3 Months,39.45,0,0
+62,37,32,Outerwear,New Jersey,Spring,No,Standard,Debit Card,Every 3 Months,31.12,0,1
+50,32,1,Clothing,Colorado,Summer,No,Free Shipping,Bank Transfer,Every 3 Months,15.72,0,1
+70,82,47,Clothing,Nevada,Fall,No,Free Shipping,Venmo,Weekly,17.06,0,0
+58,77,20,Accessories,Nebraska,Summer,No,Standard,Bank Transfer,Every 3 Months,25.62,0,1
+70,81,44,Accessories,Vermont,Summer,No,Store Pickup,Venmo,Monthly,20.47,0,0
+43,89,45,Outerwear,Illinois,Spring,Yes,Free Shipping,Venmo,Bi-Weekly,99.69,1,1
+37,58,33,Outerwear,Nebraska,Fall,Yes,Free Shipping,Credit Card,Fortnightly,99.59,1,1
+19,76,20,Clothing,Iowa,Fall,No,Free Shipping,Cash,Fortnightly,28.35,0,0
+63,59,15,Accessories,Florida,Winter,Yes,Express,Credit Card,Quarterly,99.65,1,1
+58,27,39,Accessories,New Hampshire,Fall,Yes,Store Pickup,Bank Transfer,Every 3 Months,99.7,1,1
+46,72,42,Accessories,Nebraska,Winter,No,Store Pickup,Cash,Bi-Weekly,17.13,0,1
+29,55,42,Clothing,Idaho,Summer,No,Express,Credit Card,Every 3 Months,24.74,0,0
+21,98,10,Accessories,Arkansas,Winter,No,Next Day Air,Credit Card,Annually,29.55,0,0
+29,71,14,Footwear,Arkansas,Spring,No,Next Day Air,PayPal,Quarterly,33.14,0,0
+48,82,35,Clothing,New Mexico,Winter,No,Store Pickup,Credit Card,Weekly,19.33,0,0
+36,53,10,Accessories,South Carolina,Fall,No,Store Pickup,Venmo,Monthly,19.68,0,0
+26,90,11,Footwear,Vermont,Spring,Yes,Standard,Debit Card,Annually,99.52,1,1
+55,75,4,Clothing,Mississippi,Summer,Yes,Free Shipping,PayPal,Monthly,99.73,1,1
+19,33,14,Clothing,Illinois,Summer,No,Standard,Venmo,Monthly,24.95,0,0
+51,26,41,Clothing,Ohio,Summer,No,Store Pickup,Venmo,Weekly,24.51,0,0
+34,32,10,Clothing,New York,Summer,No,Next Day Air,Credit Card,Annually,22.7,0,1
+45,38,47,Accessories,Wyoming,Winter,No,Standard,Bank Transfer,Annually,16.44,0,0
+55,50,35,Outerwear,Connecticut,Summer,No,Standard,Credit Card,Monthly,19.28,0,0
+45,39,50,Clothing,South Carolina,Spring,No,Standard,Credit Card,Annually,22.0,0,0
+25,92,29,Footwear,Mississippi,Winter,No,Express,PayPal,Fortnightly,24.36,0,0
+49,53,8,Accessories,Kentucky,Winter,Yes,Store Pickup,PayPal,Monthly,99.41,1,1
+65,89,37,Accessories,Indiana,Spring,No,Next Day Air,Credit Card,Bi-Weekly,46.51,0,1
+27,72,28,Clothing,New Jersey,Spring,No,Express,Credit Card,Annually,14.78,0,0
+57,72,40,Clothing,Massachusetts,Summer,No,2-Day Shipping,Credit Card,Annually,16.89,0,0
+20,32,21,Accessories,California,Spring,Yes,Standard,Credit Card,Fortnightly,99.65,1,1
+53,65,12,Clothing,Rhode Island,Winter,No,Standard,Cash,Monthly,16.36,0,0
+42,37,45,Accessories,Alaska,Spring,No,Free Shipping,PayPal,Bi-Weekly,24.24,0,0
+68,24,40,Accessories,North Carolina,Summer,No,Standard,Cash,Annually,23.98,0,1
+68,61,36,Accessories,Missouri,Winter,No,Store Pickup,Credit Card,Quarterly,24.33,0,0
+43,76,23,Clothing,Montana,Spring,No,Next Day Air,Bank Transfer,Fortnightly,24.46,0,1
+29,94,46,Clothing,Minnesota,Winter,No,2-Day Shipping,Credit Card,Monthly,19.17,0,0
+48,37,25,Outerwear,Montana,Winter,Yes,Store Pickup,Credit Card,Bi-Weekly,99.49,1,1
+26,94,22,Footwear,Virginia,Fall,No,Free Shipping,Debit Card,Monthly,7.03,0,0
+34,53,4,Clothing,Virginia,Winter,No,Express,Credit Card,Weekly,8.28,0,0
+42,59,22,Clothing,Wisconsin,Winter,No,Store Pickup,Bank Transfer,Quarterly,35.47,0,1
+69,62,28,Accessories,North Carolina,Winter,No,2-Day Shipping,Bank Transfer,Annually,17.4,0,0
+18,94,10,Accessories,Pennsylvania,Spring,No,Store Pickup,Bank Transfer,Every 3 Months,29.54,0,0
+36,41,43,Footwear,Oregon,Fall,Yes,Store Pickup,PayPal,Fortnightly,99.72,1,1
+58,76,28,Clothing,Nevada,Spring,Yes,Free Shipping,Credit Card,Weekly,99.56,1,1
+43,28,7,Footwear,Texas,Summer,No,Free Shipping,Cash,Every 3 Months,18.91,0,0
+70,76,2,Clothing,Indiana,Summer,No,2-Day Shipping,Cash,Monthly,36.28,0,1
+57,99,34,Footwear,Tennessee,Summer,No,Store Pickup,Credit Card,Weekly,15.18,0,0
+38,47,20,Clothing,Washington,Winter,No,Standard,Venmo,Annually,22.33,0,0
+32,69,20,Accessories,Washington,Fall,No,Next Day Air,Venmo,Monthly,27.02,0,0
+45,45,39,Clothing,Missouri,Summer,Yes,Express,PayPal,Fortnightly,99.69,1,1
+43,25,48,Clothing,Nebraska,Winter,No,2-Day Shipping,Cash,Monthly,17.19,0,0
+52,73,2,Clothing,Louisiana,Summer,No,Next Day Air,Cash,Quarterly,22.98,0,0
+26,25,8,Clothing,Virginia,Summer,No,2-Day Shipping,PayPal,Quarterly,11.77,0,0
+34,100,38,Accessories,Michigan,Summer,No,2-Day Shipping,PayPal,Every 3 Months,22.67,0,0
+43,65,9,Clothing,Utah,Fall,No,Express,Cash,Weekly,19.46,0,0
+68,30,34,Clothing,New Jersey,Spring,Yes,Next Day Air,Debit Card,Bi-Weekly,99.69,1,1
+35,94,31,Clothing,Kentucky,Fall,No,Free Shipping,PayPal,Annually,10.97,0,0
+63,29,39,Footwear,North Carolina,Spring,No,Standard,Credit Card,Fortnightly,25.05,0,0
+27,30,15,Clothing,Arizona,Summer,No,Next Day Air,Bank Transfer,Bi-Weekly,17.81,0,0
+49,72,43,Clothing,Vermont,Fall,No,Free Shipping,Debit Card,Quarterly,17.81,0,1
+54,90,12,Accessories,Illinois,Winter,No,Free Shipping,Credit Card,Every 3 Months,20.32,0,1
+61,29,48,Clothing,Kentucky,Summer,No,Standard,Bank Transfer,Quarterly,21.78,0,0
+32,95,15,Accessories,Connecticut,Spring,No,2-Day Shipping,PayPal,Annually,13.5,0,0
+67,33,14,Clothing,Indiana,Fall,No,Free Shipping,Cash,Weekly,31.88,0,0
+59,83,23,Clothing,Alaska,Fall,Yes,Express,Credit Card,Monthly,99.5,1,1
+32,59,16,Clothing,New Mexico,Winter,Yes,2-Day Shipping,Bank Transfer,Annually,99.54,1,1
+49,35,39,Clothing,Indiana,Summer,No,2-Day Shipping,Venmo,Fortnightly,45.88,0,0
+45,50,39,Clothing,Vermont,Summer,No,2-Day Shipping,Debit Card,Quarterly,21.9,0,0
+41,98,21,Clothing,Oklahoma,Fall,Yes,Next Day Air,Venmo,Quarterly,99.79,1,1
+54,56,2,Footwear,California,Spring,No,2-Day Shipping,Credit Card,Bi-Weekly,11.12,0,1
+62,60,4,Accessories,Mississippi,Winter,No,Free Shipping,PayPal,Quarterly,29.72,0,0
+57,89,46,Clothing,Louisiana,Fall,Yes,Free Shipping,Cash,Weekly,99.39,1,1
+47,43,4,Clothing,Missouri,Fall,No,Standard,Cash,Fortnightly,28.05,0,0
+30,33,9,Accessories,Minnesota,Spring,No,Standard,Cash,Monthly,27.71,0,1
+51,30,18,Clothing,Rhode Island,Summer,Yes,Standard,Debit Card,Fortnightly,99.62,1,1
+35,27,42,Accessories,Indiana,Fall,No,Store Pickup,Bank Transfer,Fortnightly,37.96,0,0
+29,35,47,Clothing,Wyoming,Fall,No,Standard,PayPal,Quarterly,19.04,0,0
+24,95,5,Clothing,Nevada,Spring,No,Free Shipping,Bank Transfer,Weekly,18.59,0,0
+55,32,37,Clothing,Wyoming,Spring,Yes,Express,Venmo,Weekly,99.53,1,1
+31,72,6,Clothing,Ohio,Summer,No,2-Day Shipping,Venmo,Fortnightly,29.17,0,0
+36,82,4,Clothing,West Virginia,Fall,Yes,Next Day Air,Credit Card,Weekly,99.67,1,1
+38,28,9,Accessories,Texas,Summer,No,Free Shipping,PayPal,Quarterly,21.57,0,0
+55,36,28,Accessories,Colorado,Winter,Yes,Next Day Air,Debit Card,Quarterly,99.62,1,1
+42,29,18,Footwear,Iowa,Fall,Yes,Standard,Venmo,Annually,99.67,1,1
+61,74,30,Clothing,Idaho,Summer,No,2-Day Shipping,Credit Card,Monthly,21.36,0,0
+59,33,46,Clothing,Hawaii,Fall,No,Standard,Venmo,Quarterly,27.72,0,0
+58,34,1,Footwear,Hawaii,Summer,No,2-Day Shipping,Bank Transfer,Annually,14.31,0,0
+29,39,3,Accessories,Kentucky,Summer,Yes,Express,Debit Card,Bi-Weekly,99.49,1,1
+68,56,34,Footwear,Florida,Spring,No,Standard,Bank Transfer,Monthly,22.44,0,1
+39,28,31,Accessories,Illinois,Spring,No,Free Shipping,Credit Card,Weekly,20.2,0,0
+47,97,16,Outerwear,Mississippi,Summer,No,2-Day Shipping,Cash,Weekly,34.49,0,0
+31,69,7,Accessories,West Virginia,Spring,No,Free Shipping,Credit Card,Bi-Weekly,23.19,0,0
+63,34,2,Accessories,Nebraska,Fall,No,Free Shipping,Bank Transfer,Monthly,14.03,0,0
+66,72,28,Accessories,Kansas,Summer,Yes,Standard,Debit Card,Quarterly,99.6,1,1
+46,88,24,Clothing,South Carolina,Fall,Yes,Standard,Bank Transfer,Annually,99.53,1,1
+40,45,42,Outerwear,Alabama,Spring,No,Free Shipping,PayPal,Fortnightly,19.32,0,0
+27,41,24,Clothing,Virginia,Fall,No,Standard,Credit Card,Monthly,10.58,0,0
+59,38,21,Clothing,Louisiana,Spring,Yes,Next Day Air,Venmo,Annually,99.61,1,1
+26,31,6,Accessories,Illinois,Summer,No,Next Day Air,Credit Card,Fortnightly,28.08,0,1
+43,67,27,Clothing,Washington,Summer,Yes,Standard,Venmo,Every 3 Months,99.8,1,1
+19,53,31,Accessories,Iowa,Spring,No,Standard,Debit Card,Weekly,38.22,0,0
+60,82,28,Footwear,Louisiana,Summer,No,Express,Credit Card,Fortnightly,13.33,0,0
+61,89,32,Clothing,Georgia,Fall,Yes,Express,Venmo,Annually,99.17,1,1
+70,69,19,Accessories,Alaska,Summer,Yes,Standard,Bank Transfer,Fortnightly,99.78,1,1
+54,21,24,Clothing,Iowa,Spring,No,Standard,Debit Card,Monthly,33.61,0,1
+68,94,9,Accessories,Alaska,Summer,No,Standard,Venmo,Quarterly,33.59,0,0
+31,22,21,Footwear,New Mexico,Spring,No,Store Pickup,Venmo,Monthly,20.81,0,0
+27,79,35,Footwear,Illinois,Spring,Yes,Next Day Air,Cash,Bi-Weekly,99.64,1,1
+28,23,13,Accessories,Washington,Summer,No,Free Shipping,Venmo,Bi-Weekly,24.55,0,1
+66,52,26,Clothing,North Carolina,Spring,No,Store Pickup,Cash,Weekly,21.42,0,0
+22,59,16,Accessories,Mississippi,Fall,No,Free Shipping,Venmo,Every 3 Months,35.47,0,1
+55,88,42,Clothing,Florida,Winter,Yes,Free Shipping,Bank Transfer,Fortnightly,99.67,1,1
+60,44,1,Clothing,West Virginia,Winter,No,2-Day Shipping,Credit Card,Quarterly,21.69,0,0
+32,41,33,Clothing,Delaware,Summer,Yes,Free Shipping,Venmo,Fortnightly,99.61,1,1
+47,78,23,Clothing,Alaska,Winter,Yes,2-Day Shipping,Credit Card,Every 3 Months,99.7,1,1
+34,29,5,Clothing,Oklahoma,Summer,No,Store Pickup,Credit Card,Monthly,21.58,0,0
+23,21,14,Accessories,Minnesota,Fall,No,Store Pickup,Bank Transfer,Fortnightly,20.4,0,0
+54,53,4,Clothing,Virginia,Winter,No,Next Day Air,Venmo,Annually,11.23,0,0
+39,56,18,Accessories,Wyoming,Fall,No,Next Day Air,Credit Card,Monthly,18.12,0,1
+67,39,40,Accessories,Alaska,Spring,Yes,Standard,Venmo,Annually,99.75,1,1
+50,57,2,Accessories,Colorado,Fall,Yes,Standard,Bank Transfer,Quarterly,99.52,1,1
+60,26,50,Accessories,Wisconsin,Winter,No,Free Shipping,Venmo,Every 3 Months,44.73,0,0
+46,21,28,Outerwear,Maryland,Summer,No,Standard,Credit Card,Monthly,36.01,0,0
+68,99,11,Footwear,South Carolina,Summer,No,Free Shipping,Cash,Weekly,16.26,0,0
+64,62,47,Clothing,Indiana,Winter,Yes,Standard,PayPal,Quarterly,99.87,1,1
+27,41,6,Clothing,Idaho,Summer,No,Free Shipping,Bank Transfer,Quarterly,23.93,0,1
+26,44,39,Outerwear,Illinois,Summer,No,2-Day Shipping,Venmo,Annually,21.46,0,0
+32,94,43,Clothing,Vermont,Summer,No,Standard,Bank Transfer,Quarterly,25.25,0,0
+21,63,14,Footwear,South Carolina,Spring,Yes,2-Day Shipping,Credit Card,Weekly,99.56,1,1
+68,59,42,Footwear,Washington,Summer,No,Free Shipping,Cash,Every 3 Months,20.82,0,0
+23,22,26,Clothing,Alabama,Fall,No,Free Shipping,Credit Card,Weekly,11.95,0,0
+31,76,28,Outerwear,Kentucky,Spring,No,Standard,Venmo,Every 3 Months,31.69,0,0
+22,33,30,Accessories,California,Summer,No,Next Day Air,Debit Card,Every 3 Months,24.18,0,1
+69,55,31,Clothing,Nevada,Spring,No,2-Day Shipping,Debit Card,Monthly,19.13,0,0
+47,73,26,Accessories,Utah,Summer,No,Next Day Air,Venmo,Every 3 Months,40.82,0,0
+51,26,47,Clothing,Wisconsin,Summer,No,Standard,PayPal,Bi-Weekly,41.05,0,0
+53,93,38,Clothing,Texas,Spring,No,Standard,Credit Card,Quarterly,26.13,0,0
+50,62,11,Clothing,Michigan,Fall,Yes,Standard,Debit Card,Weekly,99.55,1,1
+24,42,11,Accessories,New Jersey,Summer,No,Free Shipping,Debit Card,Quarterly,22.49,0,0
+50,53,22,Clothing,Delaware,Spring,No,Store Pickup,Debit Card,Monthly,15.27,0,1
+47,32,40,Accessories,West Virginia,Spring,No,Next Day Air,PayPal,Bi-Weekly,29.72,0,1
+60,88,33,Clothing,Illinois,Spring,No,Store Pickup,Debit Card,Bi-Weekly,17.98,0,0
+47,31,17,Accessories,Minnesota,Spring,No,Next Day Air,PayPal,Monthly,26.83,0,0
+65,87,9,Clothing,Illinois,Fall,No,2-Day Shipping,Cash,Fortnightly,18.02,0,0
+20,20,34,Accessories,Washington,Spring,Yes,Express,Cash,Bi-Weekly,99.67,1,1
+69,77,46,Accessories,Ohio,Fall,No,Free Shipping,Cash,Quarterly,23.4,0,1
+35,62,37,Outerwear,Texas,Summer,Yes,Standard,PayPal,Monthly,99.71,1,1
+38,68,39,Outerwear,North Dakota,Winter,Yes,Next Day Air,PayPal,Fortnightly,99.77,1,1
+65,59,49,Accessories,Florida,Summer,No,Express,Credit Card,Weekly,21.85,0,0
+20,33,44,Clothing,Indiana,Summer,No,Free Shipping,Bank Transfer,Annually,32.88,0,1
+69,68,39,Accessories,Nevada,Spring,No,2-Day Shipping,Debit Card,Fortnightly,24.28,0,0
+50,76,38,Footwear,Ohio,Summer,No,Free Shipping,Bank Transfer,Bi-Weekly,17.92,0,0
+40,55,36,Clothing,Montana,Winter,No,Standard,Debit Card,Annually,16.2,0,0
+46,99,50,Outerwear,Louisiana,Winter,Yes,Express,Debit Card,Weekly,99.5,1,1
+47,30,8,Accessories,South Carolina,Fall,No,Standard,Bank Transfer,Quarterly,24.4,0,0
+43,94,5,Accessories,New York,Winter,Yes,Store Pickup,Debit Card,Bi-Weekly,99.61,1,1
+42,20,40,Clothing,Iowa,Spring,No,Express,Cash,Quarterly,31.11,0,1
+30,96,50,Accessories,Oregon,Spring,No,2-Day Shipping,Credit Card,Quarterly,40.12,0,0
+57,71,18,Footwear,California,Winter,No,Next Day Air,Debit Card,Every 3 Months,16.17,0,0
+50,63,20,Clothing,North Dakota,Summer,No,Free Shipping,Credit Card,Monthly,18.59,0,0
+21,67,10,Footwear,North Carolina,Winter,No,Free Shipping,Bank Transfer,Quarterly,18.1,0,0
+39,69,19,Accessories,New Hampshire,Fall,Yes,Store Pickup,Bank Transfer,Weekly,99.62,1,1
+33,72,28,Footwear,Wisconsin,Fall,No,Store Pickup,Bank Transfer,Quarterly,29.03,0,0
+56,28,13,Footwear,West Virginia,Spring,No,Standard,Cash,Annually,19.77,0,0
+54,88,35,Clothing,Georgia,Summer,No,2-Day Shipping,Debit Card,Annually,12.94,0,1
+39,85,18,Clothing,Illinois,Winter,No,Next Day Air,Cash,Weekly,22.35,0,0
+59,53,29,Clothing,Washington,Winter,Yes,2-Day Shipping,Cash,Quarterly,99.66,1,1
+62,35,34,Clothing,South Carolina,Spring,No,Store Pickup,Venmo,Weekly,22.5,0,0
+31,51,27,Outerwear,Montana,Summer,No,Free Shipping,PayPal,Every 3 Months,22.0,0,0
+20,97,42,Clothing,North Dakota,Summer,No,Express,PayPal,Quarterly,21.1,0,1
+58,71,3,Clothing,Alabama,Summer,No,Store Pickup,PayPal,Annually,10.28,0,1
+56,33,46,Clothing,Tennessee,Spring,No,Express,Cash,Bi-Weekly,19.37,0,0
+24,95,44,Accessories,Missouri,Fall,Yes,Standard,Debit Card,Quarterly,99.78,1,1
+18,39,38,Outerwear,Massachusetts,Fall,No,Next Day Air,Cash,Fortnightly,30.81,0,0
+42,23,6,Clothing,Pennsylvania,Summer,Yes,Standard,PayPal,Quarterly,99.77,1,1
+51,45,39,Outerwear,New York,Fall,No,Free Shipping,Bank Transfer,Every 3 Months,24.3,0,0
+25,100,4,Accessories,Kentucky,Winter,Yes,2-Day Shipping,Debit Card,Monthly,99.51,1,1
+44,37,21,Clothing,Nebraska,Fall,No,Next Day Air,Venmo,Annually,17.91,0,0
+20,89,34,Clothing,Oklahoma,Winter,Yes,Store Pickup,Debit Card,Fortnightly,99.71,1,1
+39,25,10,Clothing,Ohio,Spring,No,2-Day Shipping,Venmo,Annually,22.86,0,0
+52,83,24,Clothing,Texas,Fall,No,Express,Cash,Fortnightly,17.24,0,1
+37,25,40,Clothing,Alabama,Fall,No,Next Day Air,Debit Card,Fortnightly,18.93,0,1
+31,79,10,Accessories,New Hampshire,Spring,Yes,Standard,Venmo,Annually,99.77,1,1
+67,93,12,Clothing,West Virginia,Fall,Yes,Next Day Air,Credit Card,Bi-Weekly,99.65,1,1
+65,21,6,Clothing,Connecticut,Winter,No,2-Day Shipping,Venmo,Weekly,14.49,0,0
+31,44,9,Clothing,Alaska,Winter,No,Standard,Credit Card,Fortnightly,28.05,0,0
+22,34,35,Clothing,Hawaii,Spring,No,Store Pickup,Credit Card,Annually,18.6,0,0
+51,68,37,Footwear,Wyoming,Spring,No,Next Day Air,Bank Transfer,Weekly,17.56,0,1
+25,36,44,Accessories,Alabama,Spring,Yes,Next Day Air,Debit Card,Bi-Weekly,99.65,1,1
+35,51,19,Accessories,Wyoming,Winter,Yes,Next Day Air,Venmo,Fortnightly,99.72,1,1
+25,47,27,Accessories,Virginia,Winter,No,2-Day Shipping,PayPal,Every 3 Months,12.93,0,1
+46,41,12,Clothing,Wisconsin,Fall,No,Store Pickup,Credit Card,Annually,25.52,0,0
+23,25,37,Footwear,Idaho,Fall,No,Next Day Air,Credit Card,Monthly,20.52,0,1
+25,21,39,Footwear,Connecticut,Spring,No,2-Day Shipping,Debit Card,Monthly,13.36,0,0
+18,50,18,Clothing,Montana,Winter,No,2-Day Shipping,Cash,Monthly,16.33,0,0
+50,24,5,Accessories,Alabama,Spring,No,Next Day Air,Debit Card,Monthly,20.1,0,0
+34,78,8,Footwear,Hawaii,Summer,No,Store Pickup,Debit Card,Quarterly,19.53,0,1
+41,77,8,Accessories,Montana,Winter,No,Free Shipping,Venmo,Monthly,17.42,0,0
+52,81,7,Clothing,Texas,Summer,No,Express,Credit Card,Fortnightly,18.73,0,0
+67,81,49,Accessories,North Dakota,Summer,No,Next Day Air,Credit Card,Weekly,26.66,0,0
+21,64,17,Outerwear,West Virginia,Summer,Yes,Store Pickup,Debit Card,Fortnightly,99.75,1,1
+24,50,10,Clothing,Nevada,Winter,No,Store Pickup,Venmo,Every 3 Months,22.3,0,0
+44,25,45,Clothing,Montana,Spring,No,Store Pickup,Credit Card,Annually,13.82,0,0
+57,66,35,Accessories,California,Summer,No,Free Shipping,Venmo,Annually,13.55,0,0
+34,35,2,Clothing,Nebraska,Spring,No,Express,Bank Transfer,Weekly,16.0,0,0
+57,52,30,Clothing,Missouri,Fall,No,Standard,Debit Card,Bi-Weekly,24.3,0,0
+59,40,16,Accessories,Maine,Winter,No,Express,PayPal,Monthly,10.93,0,0
+61,96,43,Clothing,New York,Summer,No,Free Shipping,Bank Transfer,Quarterly,22.84,0,1
+44,84,16,Outerwear,Illinois,Fall,Yes,Store Pickup,Debit Card,Every 3 Months,99.63,1,1
+57,92,23,Outerwear,New Mexico,Fall,No,Free Shipping,Debit Card,Bi-Weekly,20.88,0,0
+65,81,1,Outerwear,Washington,Spring,No,Store Pickup,Credit Card,Bi-Weekly,21.74,0,0
+18,66,5,Clothing,Nevada,Spring,No,Next Day Air,Credit Card,Bi-Weekly,24.07,0,0
+48,23,45,Accessories,Utah,Summer,No,Standard,PayPal,Every 3 Months,35.66,0,0
+28,23,30,Outerwear,South Carolina,Summer,No,Store Pickup,Cash,Every 3 Months,28.25,0,1
+28,32,14,Accessories,Arkansas,Spring,No,Standard,Debit Card,Bi-Weekly,36.76,0,1
+18,26,21,Clothing,Georgia,Winter,Yes,Store Pickup,Bank Transfer,Every 3 Months,99.49,1,1
+41,40,6,Outerwear,Utah,Winter,No,Store Pickup,Venmo,Annually,23.22,0,0
+69,46,32,Clothing,Washington,Summer,No,Next Day Air,PayPal,Fortnightly,28.14,0,0
+69,62,26,Footwear,Texas,Fall,No,Store Pickup,Bank Transfer,Weekly,11.9,0,1
+40,57,12,Clothing,Minnesota,Fall,No,Store Pickup,PayPal,Every 3 Months,18.89,0,0
+23,89,9,Clothing,Maine,Spring,No,Free Shipping,Bank Transfer,Every 3 Months,16.26,0,0
+70,58,18,Clothing,Vermont,Fall,No,2-Day Shipping,Venmo,Monthly,16.83,0,0
+55,70,46,Footwear,Hawaii,Summer,No,Standard,Cash,Quarterly,25.31,0,0
+44,54,20,Accessories,New Jersey,Winter,Yes,Next Day Air,PayPal,Quarterly,99.71,1,1
+18,33,48,Outerwear,Oklahoma,Summer,No,Free Shipping,Bank Transfer,Monthly,27.01,0,1
+53,92,42,Clothing,Idaho,Spring,No,2-Day Shipping,Credit Card,Annually,19.79,0,1
+69,59,48,Accessories,Rhode Island,Spring,No,Next Day Air,PayPal,Quarterly,22.93,0,0
+27,77,11,Outerwear,Pennsylvania,Fall,Yes,Next Day Air,Cash,Annually,99.72,1,1
+29,63,17,Clothing,Pennsylvania,Summer,No,Store Pickup,Cash,Every 3 Months,27.74,0,0
+61,51,46,Outerwear,Pennsylvania,Fall,Yes,Standard,Cash,Bi-Weekly,99.75,1,1
+49,87,31,Footwear,Arizona,Spring,No,Express,Debit Card,Every 3 Months,13.7,0,0
+37,81,37,Accessories,Arkansas,Summer,Yes,Free Shipping,Cash,Weekly,99.78,1,1
+39,90,49,Accessories,Utah,Fall,No,Free Shipping,Debit Card,Quarterly,25.87,0,0
+60,51,17,Footwear,Oregon,Summer,No,Express,Bank Transfer,Annually,20.14,0,1
+28,97,16,Accessories,North Carolina,Fall,No,Free Shipping,Debit Card,Weekly,19.91,0,1
+48,47,19,Accessories,Massachusetts,Summer,No,Store Pickup,PayPal,Monthly,19.36,0,0
+47,91,48,Clothing,Arkansas,Winter,Yes,2-Day Shipping,PayPal,Monthly,99.71,1,1
+26,78,20,Clothing,Hawaii,Fall,Yes,Store Pickup,Credit Card,Bi-Weekly,99.53,1,1
+22,90,34,Accessories,Montana,Fall,No,Free Shipping,Cash,Annually,13.39,0,0
+70,80,30,Accessories,South Dakota,Summer,No,Store Pickup,Bank Transfer,Monthly,17.65,0,0
+24,81,43,Outerwear,Washington,Winter,No,2-Day Shipping,Venmo,Weekly,26.67,0,0
+36,56,5,Accessories,Indiana,Winter,No,Next Day Air,Bank Transfer,Every 3 Months,49.12,0,1
+24,71,46,Clothing,Virginia,Winter,Yes,Standard,Debit Card,Monthly,99.31,1,1
+45,78,1,Accessories,Massachusetts,Spring,No,Store Pickup,Cash,Quarterly,24.31,0,0
+64,48,18,Clothing,Utah,Winter,No,Standard,Cash,Bi-Weekly,26.6,0,1
+35,38,9,Clothing,Georgia,Winter,No,2-Day Shipping,Credit Card,Every 3 Months,16.65,0,0
+35,39,8,Accessories,South Dakota,Fall,Yes,Free Shipping,Bank Transfer,Quarterly,99.56,1,1
+52,65,25,Clothing,Montana,Winter,Yes,Next Day Air,Venmo,Annually,99.56,1,1
+24,74,23,Clothing,Idaho,Fall,No,Standard,Credit Card,Weekly,23.23,0,0
+44,55,47,Footwear,New York,Summer,No,2-Day Shipping,Cash,Weekly,19.66,0,0
+50,38,36,Footwear,California,Summer,No,2-Day Shipping,Cash,Weekly,12.1,0,0
+28,86,19,Accessories,Pennsylvania,Summer,No,Next Day Air,Credit Card,Weekly,31.23,0,0
+49,53,45,Footwear,Rhode Island,Summer,Yes,Next Day Air,Venmo,Fortnightly,99.63,1,1
+62,91,17,Accessories,Rhode Island,Summer,Yes,Express,Bank Transfer,Bi-Weekly,99.36,1,1
+67,84,7,Accessories,Virginia,Fall,Yes,Express,Debit Card,Annually,98.64,1,1
+63,90,13,Clothing,Oregon,Spring,No,Store Pickup,Venmo,Every 3 Months,38.9,0,0
+50,84,47,Clothing,Ohio,Winter,Yes,2-Day Shipping,PayPal,Fortnightly,99.69,1,1
+53,68,7,Clothing,Montana,Spring,No,Express,Debit Card,Quarterly,17.37,0,0
+56,85,50,Clothing,Montana,Winter,Yes,Standard,Cash,Fortnightly,99.65,1,1
+24,89,26,Clothing,Mississippi,Winter,Yes,Next Day Air,Credit Card,Weekly,99.81,1,1
+31,88,50,Outerwear,New Jersey,Spring,No,Express,Credit Card,Bi-Weekly,20.39,0,0
+39,38,22,Footwear,Idaho,Summer,No,Free Shipping,PayPal,Monthly,17.32,0,0
+63,88,45,Outerwear,Tennessee,Fall,No,Standard,Bank Transfer,Fortnightly,25.96,0,0
+39,23,49,Footwear,Montana,Winter,No,Express,PayPal,Annually,9.45,0,1
+35,97,43,Accessories,Washington,Summer,No,Store Pickup,Cash,Weekly,23.01,0,1
+31,37,10,Outerwear,Idaho,Summer,No,Store Pickup,Venmo,Fortnightly,30.77,0,0
+50,90,36,Clothing,Iowa,Summer,Yes,Store Pickup,Debit Card,Fortnightly,99.78,1,1
+54,90,21,Clothing,Utah,Winter,No,Standard,PayPal,Every 3 Months,30.23,0,0
+23,30,24,Accessories,Vermont,Spring,No,2-Day Shipping,PayPal,Fortnightly,24.3,0,0
+49,74,33,Outerwear,Alabama,Winter,No,Next Day Air,Bank Transfer,Weekly,19.2,0,0
+44,49,30,Outerwear,Maine,Summer,No,2-Day Shipping,PayPal,Fortnightly,17.75,0,0
+53,62,27,Accessories,Alaska,Winter,No,Free Shipping,PayPal,Bi-Weekly,20.73,0,1
+53,91,14,Clothing,Utah,Winter,Yes,Free Shipping,Credit Card,Every 3 Months,99.71,1,1
+42,23,33,Clothing,Wisconsin,Winter,No,Store Pickup,Debit Card,Fortnightly,37.71,0,0
+43,58,45,Clothing,Tennessee,Fall,No,Express,Credit Card,Every 3 Months,18.54,0,0
+49,34,16,Clothing,Illinois,Spring,Yes,Standard,Venmo,Monthly,99.7,1,1
+69,94,23,Clothing,Oregon,Winter,No,2-Day Shipping,Debit Card,Every 3 Months,34.61,0,1
+41,70,33,Accessories,Georgia,Spring,No,Express,Bank Transfer,Monthly,14.93,0,0
+69,91,42,Footwear,Michigan,Summer,No,Express,PayPal,Quarterly,13.85,0,0
+56,37,18,Accessories,Delaware,Spring,Yes,2-Day Shipping,Venmo,Fortnightly,99.66,1,1
+69,25,28,Accessories,Vermont,Summer,No,Store Pickup,Venmo,Every 3 Months,24.59,0,0
+50,100,20,Accessories,Idaho,Fall,No,Standard,Debit Card,Weekly,24.82,0,0
+65,20,40,Clothing,Minnesota,Summer,No,Express,Venmo,Weekly,20.46,0,0
+65,83,18,Footwear,Alabama,Fall,Yes,Standard,Debit Card,Fortnightly,99.39,1,1
+19,28,21,Clothing,Georgia,Spring,Yes,2-Day Shipping,Credit Card,Every 3 Months,99.6,1,1
+69,81,21,Accessories,Mississippi,Summer,No,2-Day Shipping,Credit Card,Every 3 Months,35.36,0,0
+51,90,32,Accessories,Alaska,Fall,No,Next Day Air,Credit Card,Fortnightly,29.06,0,0
+28,72,18,Clothing,Mississippi,Fall,No,Standard,PayPal,Fortnightly,33.69,0,0
+70,22,2,Accessories,Missouri,Spring,No,Free Shipping,Cash,Weekly,25.39,0,0
+19,23,43,Accessories,Kentucky,Winter,No,Free Shipping,PayPal,Bi-Weekly,16.09,0,0
+23,97,36,Accessories,Delaware,Summer,No,2-Day Shipping,Venmo,Quarterly,22.73,0,0
+30,100,9,Accessories,Utah,Fall,No,Next Day Air,PayPal,Every 3 Months,32.13,0,0
+18,71,1,Clothing,Montana,Winter,Yes,Store Pickup,Cash,Weekly,99.45,1,1
+23,28,25,Clothing,Rhode Island,Spring,No,Standard,Credit Card,Monthly,18.73,0,0
+47,85,36,Accessories,Idaho,Fall,No,Next Day Air,Debit Card,Every 3 Months,31.18,0,0
+37,24,11,Accessories,Vermont,Fall,No,Next Day Air,Credit Card,Quarterly,23.75,0,0
+50,79,39,Outerwear,Montana,Fall,Yes,2-Day Shipping,Credit Card,Quarterly,99.57,1,1
+58,47,2,Footwear,Idaho,Fall,No,Next Day Air,Cash,Monthly,19.68,0,1
+27,45,31,Accessories,Alaska,Summer,No,Standard,Credit Card,Weekly,29.35,0,0
+66,25,3,Accessories,Maine,Winter,Yes,Store Pickup,Credit Card,Every 3 Months,99.4,1,1
+69,28,30,Clothing,Wyoming,Spring,No,Store Pickup,Credit Card,Annually,12.6,0,0
+31,94,3,Clothing,Pennsylvania,Winter,Yes,2-Day Shipping,Venmo,Every 3 Months,99.76,1,1
+23,52,45,Accessories,Alabama,Winter,Yes,Next Day Air,PayPal,Monthly,99.56,1,1
+23,39,4,Clothing,Louisiana,Spring,No,2-Day Shipping,Credit Card,Weekly,17.11,0,1
+39,55,23,Clothing,North Dakota,Winter,No,Free Shipping,Credit Card,Monthly,17.57,0,0
+36,52,49,Footwear,California,Winter,No,Free Shipping,PayPal,Monthly,9.92,0,0
+37,75,23,Accessories,Alabama,Winter,No,Next Day Air,Venmo,Bi-Weekly,20.46,0,1
+24,95,14,Footwear,Virginia,Winter,No,2-Day Shipping,Credit Card,Bi-Weekly,7.76,0,0
+32,23,35,Accessories,Missouri,Summer,Yes,Next Day Air,Bank Transfer,Fortnightly,99.82,1,1
+47,54,6,Clothing,Colorado,Spring,No,Store Pickup,Debit Card,Weekly,14.04,0,0
+66,54,27,Outerwear,Maryland,Fall,No,Free Shipping,Credit Card,Monthly,25.28,0,0
+24,23,4,Clothing,Kansas,Fall,No,Store Pickup,Bank Transfer,Bi-Weekly,10.29,0,0
+65,92,45,Accessories,Iowa,Fall,No,Store Pickup,Cash,Every 3 Months,29.73,0,0
+19,23,35,Clothing,Vermont,Winter,No,Next Day Air,Credit Card,Bi-Weekly,22.11,0,1
+29,62,44,Footwear,Tennessee,Winter,No,Store Pickup,Venmo,Monthly,16.79,0,1
+19,30,19,Clothing,Vermont,Summer,No,Free Shipping,Cash,Every 3 Months,23.04,0,0
+70,80,3,Accessories,Virginia,Winter,No,Express,Bank Transfer,Monthly,8.21,0,0
+59,32,46,Clothing,Illinois,Summer,No,Standard,Venmo,Fortnightly,28.18,0,1
+20,23,2,Clothing,Alabama,Spring,No,Store Pickup,PayPal,Annually,11.58,0,0
+50,96,33,Clothing,North Carolina,Fall,Yes,2-Day Shipping,Credit Card,Quarterly,99.62,1,1
+38,48,38,Clothing,Oregon,Fall,No,Next Day Air,Debit Card,Fortnightly,39.47,0,0
+55,23,6,Footwear,New Mexico,Winter,No,Next Day Air,PayPal,Every 3 Months,24.39,0,0
+54,70,23,Clothing,Mississippi,Summer,Yes,Express,Credit Card,Fortnightly,99.77,1,1
+70,54,33,Clothing,Nevada,Summer,No,2-Day Shipping,Credit Card,Bi-Weekly,17.67,0,0
+53,94,48,Clothing,Wyoming,Spring,Yes,Standard,Debit Card,Every 3 Months,99.7,1,1
+68,67,45,Clothing,New York,Winter,No,Express,Bank Transfer,Every 3 Months,20.98,0,0
+46,20,14,Clothing,Oklahoma,Spring,No,Store Pickup,Cash,Fortnightly,27.34,0,0
+45,41,11,Clothing,Rhode Island,Winter,No,Express,PayPal,Bi-Weekly,11.41,0,0
+30,65,5,Footwear,Kansas,Fall,No,Next Day Air,PayPal,Quarterly,13.17,0,0
+49,59,7,Outerwear,North Dakota,Fall,No,Store Pickup,Venmo,Bi-Weekly,20.39,0,0
+60,79,1,Clothing,Alabama,Fall,No,Express,PayPal,Every 3 Months,12.02,0,1
+31,39,6,Clothing,Maryland,Winter,No,Store Pickup,Credit Card,Every 3 Months,28.92,0,1
+50,97,30,Clothing,Colorado,Spring,No,Standard,PayPal,Quarterly,19.61,0,0
+70,35,33,Clothing,Indiana,Fall,Yes,2-Day Shipping,Venmo,Fortnightly,99.85,1,1
+40,24,50,Clothing,Colorado,Fall,No,2-Day Shipping,Bank Transfer,Every 3 Months,15.13,0,0
+59,61,21,Accessories,New Jersey,Summer,No,Free Shipping,Venmo,Bi-Weekly,20.79,0,0
+19,70,48,Footwear,Nevada,Fall,Yes,Standard,PayPal,Bi-Weekly,99.49,1,1
+38,22,41,Accessories,Idaho,Fall,No,Next Day Air,Bank Transfer,Quarterly,29.1,0,0
+69,33,16,Outerwear,Michigan,Spring,No,2-Day Shipping,Debit Card,Every 3 Months,24.64,0,1
+50,31,4,Accessories,Indiana,Summer,No,Express,PayPal,Quarterly,38.33,0,0
+51,98,8,Footwear,Connecticut,Fall,No,Express,Credit Card,Annually,6.91,0,0
+29,97,16,Footwear,Alaska,Fall,No,2-Day Shipping,Venmo,Monthly,18.36,0,0
+54,67,8,Clothing,Virginia,Summer,Yes,Standard,Debit Card,Weekly,99.32,1,1
+62,45,31,Clothing,South Carolina,Winter,No,Next Day Air,Credit Card,Weekly,23.09,0,1
+21,51,50,Clothing,Louisiana,Winter,Yes,Express,Cash,Every 3 Months,99.56,1,1
+54,76,37,Outerwear,Kentucky,Spring,Yes,Free Shipping,Venmo,Weekly,99.64,1,1
+40,47,39,Clothing,New Jersey,Summer,Yes,Express,Venmo,Every 3 Months,99.67,1,1
+22,56,3,Accessories,Nebraska,Spring,No,Standard,Cash,Fortnightly,28.02,0,1
+56,94,31,Clothing,Rhode Island,Winter,No,Store Pickup,Cash,Bi-Weekly,12.95,0,0
+29,32,3,Accessories,Florida,Winter,Yes,Free Shipping,Credit Card,Every 3 Months,99.72,1,1
+31,42,32,Outerwear,Florida,Fall,No,Next Day Air,Bank Transfer,Bi-Weekly,27.83,0,0
+43,47,28,Footwear,Mississippi,Summer,Yes,Store Pickup,Venmo,Quarterly,99.77,1,1
+30,31,46,Accessories,Illinois,Summer,No,Store Pickup,Cash,Fortnightly,23.47,0,0
+28,33,28,Accessories,Texas,Fall,No,2-Day Shipping,Bank Transfer,Weekly,18.07,0,0
+70,23,17,Clothing,Oklahoma,Spring,No,Standard,PayPal,Fortnightly,30.84,0,0
+27,20,31,Accessories,Illinois,Winter,Yes,Store Pickup,PayPal,Quarterly,99.6,1,1
+29,52,18,Accessories,Florida,Summer,No,Express,Bank Transfer,Annually,18.79,0,0
+69,85,29,Clothing,Massachusetts,Fall,Yes,2-Day Shipping,Credit Card,Monthly,99.49,1,1
+66,79,19,Clothing,Missouri,Winter,No,Store Pickup,Bank Transfer,Monthly,19.31,0,1
+51,68,49,Accessories,Kansas,Summer,No,Store Pickup,Debit Card,Bi-Weekly,14.02,0,0
+49,53,19,Clothing,Virginia,Spring,No,Express,PayPal,Monthly,9.06,0,0
+50,61,48,Accessories,Tennessee,Summer,No,Next Day Air,Venmo,Fortnightly,33.97,0,0
+44,26,35,Clothing,New Hampshire,Fall,No,Next Day Air,Cash,Annually,23.03,0,0
+57,20,12,Outerwear,South Dakota,Spring,No,Free Shipping,Debit Card,Monthly,21.14,0,0
+62,47,48,Accessories,West Virginia,Summer,Yes,Express,PayPal,Weekly,99.63,1,1
+23,98,17,Clothing,Iowa,Summer,No,Next Day Air,Debit Card,Bi-Weekly,34.85,0,1
+63,69,22,Clothing,Alabama,Summer,No,Next Day Air,Debit Card,Monthly,17.67,0,1
+23,83,22,Accessories,Maine,Spring,No,2-Day Shipping,PayPal,Fortnightly,17.76,0,0
+20,20,40,Accessories,Utah,Summer,Yes,Store Pickup,Debit Card,Bi-Weekly,99.73,1,1
+47,85,21,Accessories,California,Fall,No,Express,Venmo,Bi-Weekly,12.5,0,1
+30,71,15,Clothing,South Dakota,Summer,No,Standard,Cash,Monthly,23.0,0,0
+48,24,13,Clothing,Louisiana,Summer,No,Store Pickup,Venmo,Quarterly,19.15,0,1
+60,63,47,Accessories,Arizona,Summer,No,Store Pickup,PayPal,Every 3 Months,17.03,0,0
+40,82,23,Footwear,Minnesota,Winter,No,Free Shipping,Bank Transfer,Annually,12.37,0,1
+58,62,17,Footwear,California,Spring,No,Next Day Air,Debit Card,Bi-Weekly,14.91,0,0
+66,91,1,Clothing,North Dakota,Fall,No,Store Pickup,Credit Card,Every 3 Months,18.08,0,0
+34,46,37,Footwear,Vermont,Summer,No,Standard,Venmo,Fortnightly,24.69,0,0
+24,27,14,Accessories,Alaska,Fall,No,Next Day Air,Cash,Annually,23.68,0,0
+35,21,32,Clothing,Massachusetts,Spring,No,Next Day Air,Venmo,Fortnightly,33.75,0,1
+49,57,28,Accessories,Delaware,Winter,No,Next Day Air,Bank Transfer,Bi-Weekly,19.11,0,0
+58,89,37,Outerwear,Kentucky,Winter,Yes,Next Day Air,Debit Card,Quarterly,99.7,1,1
+30,68,10,Clothing,Hawaii,Winter,Yes,Store Pickup,Bank Transfer,Fortnightly,99.64,1,1
+40,42,48,Outerwear,South Dakota,Winter,No,Standard,Credit Card,Weekly,24.32,0,0
+38,40,48,Clothing,Kentucky,Winter,Yes,Standard,Cash,Bi-Weekly,99.59,1,1
+25,48,12,Accessories,Louisiana,Fall,Yes,Free Shipping,Debit Card,Annually,99.31,1,1
+48,24,3,Accessories,Vermont,Winter,No,Next Day Air,Venmo,Monthly,24.94,0,1
+56,65,22,Clothing,Illinois,Fall,No,Standard,Venmo,Bi-Weekly,20.52,0,1
+70,46,15,Accessories,Connecticut,Winter,No,Next Day Air,Credit Card,Bi-Weekly,16.84,0,1
+19,37,21,Clothing,Texas,Winter,No,Express,Credit Card,Every 3 Months,19.49,0,0
+44,40,42,Accessories,Indiana,Winter,No,Store Pickup,Cash,Quarterly,41.03,0,0
+28,94,4,Accessories,Maryland,Spring,No,Next Day Air,Credit Card,Bi-Weekly,36.85,0,0
+52,31,23,Accessories,Pennsylvania,Summer,No,Standard,Credit Card,Annually,24.98,0,0
+40,77,22,Accessories,South Dakota,Spring,No,2-Day Shipping,Debit Card,Monthly,21.45,0,0
+61,50,6,Clothing,North Carolina,Spring,Yes,2-Day Shipping,Credit Card,Monthly,99.63,1,1
+20,67,25,Footwear,Montana,Winter,Yes,Free Shipping,Debit Card,Every 3 Months,99.47,1,1
+24,28,20,Clothing,Utah,Winter,No,Standard,PayPal,Monthly,26.43,0,1
+47,24,28,Accessories,Nebraska,Spring,Yes,Store Pickup,PayPal,Annually,99.45,1,1
+55,57,34,Clothing,Virginia,Summer,No,Store Pickup,Venmo,Quarterly,12.61,0,0
+41,51,20,Clothing,Delaware,Winter,No,Next Day Air,Bank Transfer,Monthly,17.64,0,0
+68,34,7,Footwear,Delaware,Spring,No,Standard,Venmo,Fortnightly,20.23,0,1
+55,70,29,Clothing,Utah,Fall,No,Express,Cash,Monthly,19.09,0,0
+58,23,46,Clothing,California,Winter,No,Next Day Air,Bank Transfer,Bi-Weekly,15.74,0,0
+28,83,44,Clothing,South Carolina,Spring,No,Standard,Cash,Fortnightly,31.09,0,0
+48,65,48,Accessories,South Dakota,Fall,No,Standard,Bank Transfer,Annually,17.52,0,0
+30,77,19,Clothing,Maine,Fall,Yes,Standard,Venmo,Fortnightly,99.56,1,1
+41,54,9,Outerwear,California,Winter,No,Next Day Air,Credit Card,Weekly,18.26,0,0
+24,98,39,Accessories,Illinois,Fall,Yes,Express,Venmo,Bi-Weekly,99.55,1,1
+33,84,7,Clothing,Vermont,Winter,No,Free Shipping,Venmo,Annually,15.63,0,0
+36,88,43,Clothing,Delaware,Winter,Yes,Free Shipping,Venmo,Bi-Weekly,99.49,1,1
+59,69,31,Accessories,South Carolina,Summer,Yes,2-Day Shipping,Venmo,Bi-Weekly,99.69,1,1
+44,64,30,Accessories,Alabama,Spring,No,2-Day Shipping,Credit Card,Every 3 Months,19.64,0,0
+19,52,41,Clothing,Alabama,Fall,Yes,Store Pickup,Venmo,Annually,99.25,1,1
+65,35,1,Clothing,New Mexico,Summer,No,Next Day Air,Bank Transfer,Fortnightly,29.23,0,1
+36,63,1,Clothing,New Mexico,Fall,No,Store Pickup,Bank Transfer,Fortnightly,19.99,0,0
+22,52,14,Accessories,Missouri,Summer,No,Standard,Bank Transfer,Bi-Weekly,29.91,0,0
+21,84,36,Accessories,North Carolina,Fall,Yes,Free Shipping,Cash,Weekly,99.63,1,1
+63,35,6,Clothing,Wyoming,Summer,No,Express,Credit Card,Quarterly,15.23,0,1
+57,79,24,Clothing,Nebraska,Spring,No,Store Pickup,Venmo,Quarterly,21.38,0,0
+20,99,35,Accessories,Nebraska,Fall,No,Store Pickup,Cash,Fortnightly,19.04,0,0
+33,66,24,Accessories,Nevada,Fall,No,Next Day Air,Credit Card,Weekly,21.72,0,0
+32,48,47,Clothing,California,Fall,No,Express,Venmo,Weekly,12.47,0,0
+35,23,8,Clothing,Tennessee,Spring,No,Free Shipping,Debit Card,Bi-Weekly,20.18,0,1
+41,25,21,Accessories,Delaware,Fall,Yes,Next Day Air,Venmo,Every 3 Months,99.7,1,1
+32,44,12,Accessories,Maine,Fall,No,Express,Venmo,Fortnightly,14.59,0,0
+46,56,41,Clothing,New York,Summer,No,Standard,Cash,Monthly,26.57,0,0
+53,91,12,Accessories,Arkansas,Summer,No,Express,PayPal,Fortnightly,29.2,0,0
+67,35,9,Outerwear,Alaska,Winter,Yes,Store Pickup,PayPal,Every 3 Months,99.71,1,1
+55,30,45,Accessories,Kansas,Fall,No,Express,Credit Card,Monthly,10.63,0,0
+35,33,33,Clothing,Idaho,Summer,No,Standard,Debit Card,Monthly,27.23,0,0
+28,38,49,Clothing,Rhode Island,Spring,No,Next Day Air,Bank Transfer,Weekly,20.5,0,0
+27,51,6,Accessories,Nebraska,Summer,Yes,Store Pickup,Debit Card,Annually,99.46,1,1
+51,84,14,Clothing,Illinois,Spring,No,Next Day Air,PayPal,Bi-Weekly,22.6,0,0
+54,100,50,Clothing,Utah,Fall,Yes,Store Pickup,Debit Card,Fortnightly,99.68,1,1
+25,40,29,Accessories,California,Spring,No,2-Day Shipping,PayPal,Weekly,16.01,0,0
+47,29,3,Footwear,Maryland,Fall,No,Express,PayPal,Weekly,17.51,0,0
+55,87,21,Clothing,South Carolina,Fall,Yes,Express,PayPal,Annually,99.31,1,1
+21,42,41,Clothing,Indiana,Spring,No,2-Day Shipping,PayPal,Every 3 Months,45.39,0,1
+26,89,5,Accessories,Vermont,Summer,No,Free Shipping,Cash,Bi-Weekly,19.85,0,0
+68,88,30,Clothing,Vermont,Summer,Yes,Standard,Debit Card,Bi-Weekly,99.64,1,1
+54,90,1,Clothing,New Mexico,Summer,No,Store Pickup,Bank Transfer,Annually,16.65,0,0
+35,93,11,Clothing,Delaware,Spring,Yes,Store Pickup,Credit Card,Monthly,99.43,1,1
+33,80,45,Outerwear,New Hampshire,Spring,No,Express,Cash,Every 3 Months,32.51,0,0
+23,20,46,Clothing,Maryland,Summer,No,2-Day Shipping,Credit Card,Monthly,29.05,0,0
+70,20,39,Accessories,New York,Spring,No,Standard,PayPal,Annually,23.52,0,0
+48,30,3,Footwear,Michigan,Summer,No,Free Shipping,Credit Card,Fortnightly,15.3,0,1
+32,98,8,Clothing,Illinois,Summer,No,Standard,Bank Transfer,Bi-Weekly,21.24,0,0
+36,36,29,Footwear,Connecticut,Winter,No,2-Day Shipping,Cash,Weekly,11.83,0,1
+64,53,15,Outerwear,Vermont,Spring,No,Standard,Bank Transfer,Annually,21.3,0,0
+20,30,15,Accessories,Idaho,Summer,Yes,Express,Bank Transfer,Every 3 Months,99.72,1,1
+66,85,28,Footwear,Wisconsin,Winter,No,Standard,Bank Transfer,Quarterly,36.31,0,0
+50,95,4,Footwear,New York,Summer,No,Free Shipping,Venmo,Every 3 Months,22.79,0,0
+55,97,20,Clothing,Minnesota,Fall,No,2-Day Shipping,Bank Transfer,Every 3 Months,20.11,0,0
+47,94,35,Outerwear,New Mexico,Summer,Yes,Next Day Air,Debit Card,Bi-Weekly,99.79,1,1
+59,83,5,Clothing,Nebraska,Winter,No,2-Day Shipping,PayPal,Monthly,14.7,0,0
+28,39,7,Footwear,Montana,Winter,No,Standard,Debit Card,Annually,13.22,0,0
+63,40,11,Clothing,Kansas,Spring,No,Express,Cash,Weekly,12.53,0,0
+70,42,26,Outerwear,Florida,Fall,No,Free Shipping,Debit Card,Every 3 Months,25.48,0,0
+66,44,45,Clothing,Illinois,Fall,No,2-Day Shipping,Cash,Every 3 Months,19.69,0,0
+64,76,29,Accessories,Utah,Fall,Yes,Free Shipping,Cash,Every 3 Months,99.72,1,1
+68,55,16,Outerwear,Michigan,Winter,No,Express,Bank Transfer,Quarterly,17.6,0,1
+55,52,31,Accessories,Missouri,Fall,No,Standard,Credit Card,Monthly,25.17,0,0
+43,22,1,Clothing,Maine,Summer,No,Standard,Cash,Bi-Weekly,16.23,0,1
+64,57,49,Outerwear,Wyoming,Spring,No,Standard,Credit Card,Monthly,22.39,0,0
+18,71,41,Footwear,Missouri,Spring,No,Standard,PayPal,Weekly,25.76,0,0
+67,20,39,Outerwear,Minnesota,Spring,No,Next Day Air,Credit Card,Fortnightly,32.86,0,0
+34,44,28,Clothing,Arkansas,Summer,No,Next Day Air,Bank Transfer,Every 3 Months,39.38,0,0
+22,36,30,Accessories,Iowa,Winter,No,Standard,Debit Card,Quarterly,37.91,0,0
+18,47,12,Outerwear,Iowa,Spring,No,2-Day Shipping,Cash,Bi-Weekly,34.57,0,0
+60,48,46,Footwear,Delaware,Winter,No,2-Day Shipping,Venmo,Every 3 Months,16.66,0,1
+24,30,24,Accessories,South Dakota,Spring,No,2-Day Shipping,Bank Transfer,Bi-Weekly,21.34,0,0
+55,55,31,Accessories,Nevada,Summer,Yes,Free Shipping,PayPal,Annually,99.47,1,1
+64,58,50,Accessories,Indiana,Summer,No,Next Day Air,Debit Card,Annually,42.25,0,1
+42,68,35,Accessories,New Mexico,Summer,No,Store Pickup,Debit Card,Every 3 Months,27.85,0,1
+31,22,25,Clothing,Utah,Winter,No,Free Shipping,Bank Transfer,Weekly,22.15,0,1
+57,32,6,Clothing,Indiana,Winter,Yes,Store Pickup,Cash,Every 3 Months,99.84,1,1
+49,96,39,Outerwear,Hawaii,Fall,No,Store Pickup,PayPal,Every 3 Months,23.41,0,0
+24,67,49,Clothing,Pennsylvania,Summer,Yes,2-Day Shipping,PayPal,Bi-Weekly,99.69,1,1
+52,91,8,Accessories,West Virginia,Spring,No,Next Day Air,Cash,Monthly,30.08,0,0
+26,53,9,Accessories,South Dakota,Fall,No,Free Shipping,Bank Transfer,Bi-Weekly,16.22,0,0
+21,77,21,Clothing,California,Winter,Yes,Standard,Credit Card,Annually,99.35,1,1
+65,84,5,Clothing,New Mexico,Spring,No,2-Day Shipping,Bank Transfer,Fortnightly,24.93,0,0
+30,42,5,Clothing,Idaho,Spring,No,Express,Venmo,Fortnightly,27.0,0,0
+40,28,3,Clothing,Delaware,Spring,No,Store Pickup,Bank Transfer,Bi-Weekly,14.62,0,0
+58,36,32,Footwear,Louisiana,Fall,No,Store Pickup,Credit Card,Every 3 Months,12.55,0,0
+52,54,14,Accessories,Utah,Fall,No,Next Day Air,Bank Transfer,Bi-Weekly,26.69,0,0
+35,93,36,Accessories,Maryland,Winter,No,Express,Credit Card,Monthly,25.33,0,0
+38,90,2,Footwear,Utah,Summer,No,2-Day Shipping,Venmo,Quarterly,25.7,0,1
+20,96,11,Clothing,Wisconsin,Fall,No,Next Day Air,Bank Transfer,Bi-Weekly,38.22,0,0
+28,47,3,Accessories,North Dakota,Fall,Yes,Next Day Air,Venmo,Annually,99.66,1,1
+51,90,48,Footwear,Connecticut,Spring,Yes,Next Day Air,Bank Transfer,Bi-Weekly,99.47,1,1
+33,89,10,Accessories,Rhode Island,Fall,Yes,2-Day Shipping,Venmo,Every 3 Months,99.58,1,1
+19,53,35,Accessories,Minnesota,Spring,No,Next Day Air,PayPal,Weekly,28.99,0,1
+63,48,5,Accessories,Connecticut,Fall,No,Next Day Air,Cash,Annually,13.97,0,0
+49,80,27,Accessories,New York,Fall,No,2-Day Shipping,Venmo,Every 3 Months,26.84,0,0
+20,36,31,Clothing,Vermont,Spring,No,2-Day Shipping,Bank Transfer,Weekly,20.22,0,0
+50,93,20,Accessories,New Mexico,Fall,No,Standard,Venmo,Bi-Weekly,26.66,0,0
+43,66,31,Footwear,North Carolina,Spring,No,Store Pickup,Cash,Bi-Weekly,18.35,0,0
+22,66,3,Accessories,Kentucky,Winter,No,Next Day Air,PayPal,Quarterly,22.77,0,0
+53,98,38,Accessories,Missouri,Fall,No,Next Day Air,PayPal,Quarterly,29.71,0,0
+60,25,11,Outerwear,Colorado,Spring,No,2-Day Shipping,Bank Transfer,Quarterly,18.68,0,1
+45,64,7,Clothing,Massachusetts,Winter,No,Next Day Air,Cash,Monthly,23.42,0,1
+57,83,48,Accessories,Alaska,Winter,No,Standard,PayPal,Fortnightly,29.73,0,0
+41,94,3,Outerwear,New Hampshire,Spring,No,Standard,Cash,Monthly,33.06,0,0
+70,52,12,Footwear,Minnesota,Spring,No,Store Pickup,Debit Card,Every 3 Months,19.47,0,0
+53,91,5,Outerwear,Idaho,Summer,No,Store Pickup,Cash,Bi-Weekly,23.88,0,0
+19,60,35,Accessories,Kentucky,Winter,No,Express,PayPal,Bi-Weekly,14.78,0,0
+33,72,3,Accessories,Texas,Spring,No,Free Shipping,Debit Card,Bi-Weekly,20.75,0,0
+31,83,46,Accessories,North Carolina,Summer,No,Express,PayPal,Annually,17.95,0,0
+62,89,4,Accessories,Louisiana,Winter,No,Store Pickup,Bank Transfer,Quarterly,15.97,0,0
+46,95,25,Clothing,Pennsylvania,Spring,Yes,Standard,Credit Card,Every 3 Months,99.8,1,1
+63,24,37,Clothing,Delaware,Summer,No,Standard,Credit Card,Fortnightly,21.02,0,0
+32,78,20,Clothing,North Dakota,Summer,Yes,Next Day Air,Bank Transfer,Every 3 Months,99.77,1,1
+54,24,37,Clothing,South Dakota,Spring,Yes,2-Day Shipping,Credit Card,Fortnightly,99.66,1,1
+34,45,45,Footwear,New Jersey,Spring,Yes,Next Day Air,Venmo,Weekly,99.69,1,1
+50,83,24,Accessories,Montana,Summer,No,Free Shipping,Debit Card,Annually,14.66,0,0
+52,89,18,Accessories,Nevada,Summer,Yes,Free Shipping,Credit Card,Weekly,99.57,1,1
+21,93,19,Clothing,North Carolina,Spring,No,Express,Credit Card,Monthly,20.08,0,0
+50,75,7,Clothing,Michigan,Spring,No,Next Day Air,Bank Transfer,Every 3 Months,25.86,0,0
+38,58,27,Accessories,Connecticut,Spring,No,Store Pickup,Cash,Fortnightly,18.73,0,1
+43,74,29,Accessories,New Hampshire,Fall,No,Next Day Air,Debit Card,Monthly,27.71,0,0
+33,48,43,Clothing,Minnesota,Winter,No,Standard,PayPal,Bi-Weekly,22.36,0,0
+24,68,20,Clothing,New Hampshire,Winter,No,Free Shipping,Venmo,Monthly,24.19,0,1
+48,43,49,Accessories,Delaware,Winter,No,Store Pickup,Bank Transfer,Annually,12.35,0,1
+42,63,34,Accessories,Texas,Winter,No,Standard,Credit Card,Monthly,22.31,0,0
+46,76,32,Clothing,Louisiana,Fall,No,Store Pickup,Debit Card,Fortnightly,15.36,0,0
+56,25,14,Clothing,Pennsylvania,Winter,No,Free Shipping,Credit Card,Every 3 Months,24.11,0,0
+50,46,5,Accessories,Connecticut,Fall,Yes,2-Day Shipping,PayPal,Weekly,99.32,1,1
+65,59,33,Clothing,Indiana,Spring,No,Store Pickup,Credit Card,Monthly,35.3,0,1
+20,85,44,Clothing,Oregon,Spring,Yes,Standard,Venmo,Every 3 Months,99.9,1,1
+48,92,34,Clothing,Idaho,Fall,No,Express,Debit Card,Fortnightly,20.33,0,1
+42,52,36,Outerwear,Delaware,Winter,No,Standard,Bank Transfer,Quarterly,22.57,0,0
+57,76,35,Accessories,North Carolina,Spring,No,Free Shipping,Cash,Every 3 Months,28.41,0,0
+41,30,14,Accessories,Wisconsin,Summer,Yes,Store Pickup,Bank Transfer,Every 3 Months,99.86,1,1
+50,28,2,Clothing,Nevada,Spring,No,Express,Credit Card,Weekly,16.71,0,1
+27,56,30,Accessories,West Virginia,Spring,No,Next Day Air,PayPal,Bi-Weekly,30.18,0,0
+38,24,25,Clothing,Vermont,Winter,Yes,Free Shipping,PayPal,Weekly,99.5,1,1
+56,86,29,Clothing,Montana,Summer,No,Standard,Bank Transfer,Monthly,18.83,0,0
+68,91,50,Clothing,Montana,Summer,No,2-Day Shipping,Debit Card,Bi-Weekly,16.68,0,0
+34,52,39,Accessories,Kansas,Winter,No,Express,Bank Transfer,Annually,10.09,0,1
+64,34,26,Accessories,Nebraska,Fall,No,Free Shipping,Bank Transfer,Annually,12.31,0,0
+41,71,30,Clothing,Ohio,Summer,No,2-Day Shipping,Venmo,Fortnightly,29.49,0,0
+36,53,44,Accessories,Florida,Summer,No,Free Shipping,Debit Card,Fortnightly,28.44,0,0
+37,40,6,Clothing,Hawaii,Summer,Yes,Next Day Air,Debit Card,Annually,99.68,1,1
+65,79,19,Accessories,Mississippi,Fall,No,2-Day Shipping,PayPal,Weekly,26.27,0,0
+56,100,10,Clothing,Maryland,Spring,No,2-Day Shipping,Debit Card,Fortnightly,32.81,0,0
+50,89,48,Accessories,Alaska,Fall,No,2-Day Shipping,PayPal,Fortnightly,23.9,0,0
+31,90,47,Clothing,Indiana,Spring,No,Standard,Bank Transfer,Annually,39.86,0,0
+54,60,44,Clothing,Montana,Winter,No,Standard,Cash,Fortnightly,22.12,0,0
+59,23,22,Accessories,Florida,Fall,No,Free Shipping,Debit Card,Bi-Weekly,20.07,0,0
+31,53,30,Clothing,Alaska,Summer,No,Express,Debit Card,Quarterly,24.1,0,0
+54,33,48,Clothing,Massachusetts,Summer,Yes,2-Day Shipping,Credit Card,Bi-Weekly,99.61,1,1
+45,52,20,Clothing,Delaware,Fall,No,2-Day Shipping,Venmo,Quarterly,17.13,0,0
+29,56,45,Footwear,New York,Winter,No,2-Day Shipping,Cash,Weekly,18.6,0,0
+51,90,25,Footwear,Iowa,Winter,Yes,Store Pickup,Cash,Weekly,99.64,1,1
+49,80,10,Clothing,Iowa,Spring,Yes,Free Shipping,PayPal,Weekly,99.73,1,1
+18,88,38,Outerwear,Pennsylvania,Summer,No,2-Day Shipping,Credit Card,Monthly,27.59,0,0
+47,36,7,Footwear,Maryland,Winter,No,Free Shipping,Bank Transfer,Weekly,20.63,0,0
+64,33,34,Accessories,New Hampshire,Fall,Yes,Store Pickup,Debit Card,Monthly,99.62,1,1
+50,96,34,Accessories,South Dakota,Summer,No,Next Day Air,Bank Transfer,Bi-Weekly,24.42,0,0
+38,31,43,Accessories,Idaho,Fall,No,Free Shipping,Credit Card,Weekly,20.39,0,0
+50,51,18,Clothing,Rhode Island,Summer,Yes,Store Pickup,Bank Transfer,Quarterly,99.45,1,1
+56,67,47,Accessories,Arizona,Fall,No,Next Day Air,Cash,Weekly,17.56,0,0
+41,42,11,Accessories,Connecticut,Winter,Yes,2-Day Shipping,Venmo,Annually,99.38,1,1
+21,27,29,Footwear,Hawaii,Fall,No,Free Shipping,Cash,Bi-Weekly,15.89,0,0
+44,99,18,Accessories,South Carolina,Winter,Yes,Standard,Credit Card,Every 3 Months,99.75,1,1
+31,51,33,Footwear,Colorado,Fall,Yes,Free Shipping,Bank Transfer,Fortnightly,99.23,1,1
+66,57,20,Accessories,Ohio,Winter,No,Store Pickup,PayPal,Every 3 Months,24.02,0,0
+57,83,41,Accessories,Nebraska,Winter,No,2-Day Shipping,Bank Transfer,Monthly,16.9,0,0
+30,71,18,Accessories,Colorado,Winter,No,Express,Bank Transfer,Annually,10.54,0,0
+34,45,48,Clothing,Delaware,Spring,No,Free Shipping,Cash,Fortnightly,19.82,0,0
+40,60,41,Accessories,Utah,Summer,No,Next Day Air,Bank Transfer,Bi-Weekly,32.0,0,0
+58,63,7,Clothing,Oregon,Winter,No,Free Shipping,Debit Card,Bi-Weekly,28.13,0,0
+26,73,9,Clothing,Louisiana,Winter,No,Free Shipping,Debit Card,Fortnightly,17.18,0,0
+39,32,30,Clothing,Oklahoma,Winter,No,Free Shipping,Cash,Every 3 Months,26.69,0,0
+63,64,35,Footwear,Missouri,Fall,Yes,Store Pickup,Debit Card,Monthly,99.48,1,1
+30,63,31,Clothing,California,Fall,Yes,Express,Venmo,Fortnightly,99.41,1,1
+62,73,47,Accessories,Montana,Summer,No,Standard,Cash,Fortnightly,25.36,0,0
+45,79,23,Clothing,Arizona,Winter,No,Store Pickup,Venmo,Fortnightly,16.11,0,0
+53,74,2,Clothing,Vermont,Winter,Yes,2-Day Shipping,Bank Transfer,Quarterly,99.56,1,1
+62,50,48,Footwear,Oregon,Winter,No,Express,Venmo,Fortnightly,29.38,0,1
+26,30,39,Clothing,Oregon,Fall,No,Express,Debit Card,Bi-Weekly,26.71,0,0
+41,94,33,Accessories,Mississippi,Fall,Yes,2-Day Shipping,Debit Card,Annually,99.7,1,1
+50,35,37,Footwear,Virginia,Fall,Yes,Next Day Air,Cash,Every 3 Months,99.28,1,1
+38,21,1,Footwear,Hawaii,Winter,No,Standard,Bank Transfer,Weekly,19.46,0,0
+55,24,1,Accessories,New Hampshire,Spring,Yes,2-Day Shipping,PayPal,Monthly,99.7,1,1
+57,78,50,Accessories,Hawaii,Winter,No,Store Pickup,Venmo,Bi-Weekly,22.75,0,1
+45,52,35,Clothing,Oklahoma,Winter,No,Store Pickup,PayPal,Monthly,20.06,0,0
+20,67,20,Clothing,Mississippi,Summer,No,Express,Debit Card,Fortnightly,32.03,0,0
+23,45,34,Clothing,Georgia,Fall,No,Express,Credit Card,Fortnightly,13.61,0,0

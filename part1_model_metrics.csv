@@ -1,0 +1,7 @@
+metric,value
+AUC,0.806
+Precision,0.995
+Recall,0.615
+F1-Score,0.76
+Total_Test_Samples,780.0
+Recommended_Count,206.0

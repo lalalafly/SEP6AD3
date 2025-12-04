@@ -1,0 +1,79 @@
+attribute,value,count,percentage
+Gender,Male,1677,100.0
+Location,Indiana,45,2.68
+Location,Nevada,41,2.44
+Location,West Virginia,40,2.39
+Location,California,40,2.39
+Location,Missouri,40,2.39
+Location,Minnesota,39,2.33
+Location,Delaware,39,2.33
+Location,South Carolina,38,2.27
+Location,Idaho,38,2.27
+Location,Mississippi,38,2.27
+Location,Oregon,38,2.27
+Location,Maryland,38,2.27
+Location,North Dakota,38,2.27
+Location,Arkansas,37,2.21
+Location,Illinois,37,2.21
+Location,Nebraska,37,2.21
+Location,New York,36,2.15
+Location,Alabama,36,2.15
+Location,Iowa,36,2.15
+Location,Oklahoma,36,2.15
+Location,Montana,36,2.15
+Location,Wisconsin,36,2.15
+Location,New Mexico,36,2.15
+Location,Louisiana,35,2.09
+Location,Massachusetts,35,2.09
+Location,North Carolina,35,2.09
+Location,Ohio,34,2.03
+Location,Kentucky,34,2.03
+Location,Utah,33,1.97
+Location,Vermont,33,1.97
+Location,Pennsylvania,33,1.97
+Location,Hawaii,32,1.91
+Location,Georgia,32,1.91
+Location,Washington,32,1.91
+Location,New Hampshire,31,1.85
+Location,Colorado,31,1.85
+Location,Florida,31,1.85
+Location,Wyoming,30,1.79
+Location,Virginia,29,1.73
+Location,Michigan,29,1.73
+Location,Alaska,29,1.73
+Location,Tennessee,28,1.67
+Location,Texas,28,1.67
+Location,New Jersey,27,1.61
+Location,Maine,27,1.61
+Location,Connecticut,26,1.55
+Location,South Dakota,26,1.55
+Location,Rhode Island,25,1.49
+Location,Arizona,22,1.31
+Location,Kansas,15,0.89
+Season,Spring,440,26.24
+Season,Summer,423,25.22
+Season,Winter,417,24.87
+Season,Fall,397,23.67
+Category,Clothing,731,43.59
+Category,Accessories,543,32.38
+Category,Footwear,259,15.44
+Category,Outerwear,144,8.59
+Frequency of Purchases,Every 3 Months,258,15.38
+Frequency of Purchases,Fortnightly,243,14.49
+Frequency of Purchases,Quarterly,241,14.37
+Frequency of Purchases,Annually,238,14.19
+Frequency of Purchases,Monthly,237,14.13
+Frequency of Purchases,Weekly,234,13.95
+Frequency of Purchases,Bi-Weekly,226,13.48
+Payment Method,Debit Card,289,17.23
+Payment Method,Venmo,286,17.05
+Payment Method,Cash,283,16.88
+Payment Method,Credit Card,280,16.7
+Payment Method,PayPal,280,16.7
+Payment Method,Bank Transfer,259,15.44
+Shipping Type,Next Day Air,295,17.59
+Shipping Type,Standard,285,16.99
+Shipping Type,Store Pickup,285,16.99
+Shipping Type,Express,279,16.64
+Shipping Type,Free Shipping,278,16.58
+Shipping Type,2-Day Shipping,255,15.21

@@ -1,0 +1,9 @@
+attribute,most_common_value,count,ratio
+Gender,Male,1677,1.0
+AgeGroup,46-55,326,0.194
+Location,Indiana,45,0.027
+Season,Spring,440,0.262
+Category,Clothing,731,0.436
+Frequency of Purchases,Every 3 Months,258,0.154
+Payment Method,Debit Card,289,0.172
+Shipping Type,Next Day Air,295,0.176
