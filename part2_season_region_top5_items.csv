@@ -1,0 +1,2722 @@
+Season,Location,Item Purchased,sales_count,total_revenue,avg_revenue,rank_in_season_region,sales_share_in_season_region_%
+Fall,Alabama,Skirt,4,220,55.0,1.0,16.67
+Fall,Alabama,Jewelry,3,175,58.333333333333336,2.0,12.5
+Fall,Alabama,Dress,2,100,50.0,3.0,8.33
+Fall,Alabama,Hoodie,2,130,65.0,3.0,8.33
+Fall,Alabama,Pants,2,107,53.5,3.0,8.33
+Fall,Alabama,Backpack,1,74,74.0,4.0,4.17
+Fall,Alabama,Belt,1,29,29.0,4.0,4.17
+Fall,Alabama,Boots,1,83,83.0,4.0,4.17
+Fall,Alabama,Coat,1,56,56.0,4.0,4.17
+Fall,Alabama,Jacket,1,65,65.0,4.0,4.17
+Fall,Alabama,Jeans,1,41,41.0,4.0,4.17
+Fall,Alabama,Shirt,1,22,22.0,4.0,4.17
+Fall,Alabama,Shoes,1,26,26.0,4.0,4.17
+Fall,Alabama,Shorts,1,46,46.0,4.0,4.17
+Fall,Alabama,Socks,1,88,88.0,4.0,4.17
+Fall,Alabama,Sweater,1,25,25.0,4.0,4.17
+Fall,Alaska,Backpack,2,123,61.5,1.0,13.33
+Fall,Alaska,Sandals,2,191,95.5,1.0,13.33
+Fall,Alaska,Scarf,2,96,48.0,1.0,13.33
+Fall,Alaska,Belt,1,39,39.0,2.0,6.67
+Fall,Alaska,Dress,1,83,83.0,2.0,6.67
+Fall,Alaska,Handbag,1,47,47.0,2.0,6.67
+Fall,Alaska,Hat,1,89,89.0,2.0,6.67
+Fall,Alaska,Jacket,1,55,55.0,2.0,6.67
+Fall,Alaska,Shorts,1,97,97.0,2.0,6.67
+Fall,Alaska,Skirt,1,82,82.0,2.0,6.67
+Fall,Alaska,Sneakers,1,96,96.0,2.0,6.67
+Fall,Alaska,Sunglasses,1,90,90.0,2.0,6.67
+Fall,Arizona,Sweater,3,230,76.66666666666667,1.0,16.67
+Fall,Arizona,Hoodie,2,178,89.0,2.0,11.11
+Fall,Arizona,Scarf,2,107,53.5,2.0,11.11
+Fall,Arizona,Backpack,1,29,29.0,3.0,5.56
+Fall,Arizona,Belt,1,84,84.0,3.0,5.56
+Fall,Arizona,Blouse,1,72,72.0,3.0,5.56
+Fall,Arizona,Coat,1,100,100.0,3.0,5.56
+Fall,Arizona,Dress,1,90,90.0,3.0,5.56
+Fall,Arizona,Handbag,1,57,57.0,3.0,5.56
+Fall,Arizona,Jewelry,1,67,67.0,3.0,5.56
+Fall,Arizona,Skirt,1,96,96.0,3.0,5.56
+Fall,Arizona,Sneakers,1,100,100.0,3.0,5.56
+Fall,Arizona,Socks,1,78,78.0,3.0,5.56
+Fall,Arizona,T-shirt,1,62,62.0,3.0,5.56
+Fall,Arkansas,Gloves,2,66,33.0,1.0,10.53
+Fall,Arkansas,Jeans,2,137,68.5,1.0,10.53
+Fall,Arkansas,Sandals,2,124,62.0,1.0,10.53
+Fall,Arkansas,Shoes,2,65,32.5,1.0,10.53
+Fall,Arkansas,Sweater,2,113,56.5,1.0,10.53
+Fall,Arkansas,Backpack,1,97,97.0,2.0,5.26
+Fall,Arkansas,Belt,1,51,51.0,2.0,5.26
+Fall,Arkansas,Dress,1,97,97.0,2.0,5.26
+Fall,Arkansas,Jacket,1,32,32.0,2.0,5.26
+Fall,Arkansas,Pants,1,59,59.0,2.0,5.26
+Fall,Arkansas,Scarf,1,99,99.0,2.0,5.26
+Fall,Arkansas,Shirt,1,76,76.0,2.0,5.26
+Fall,Arkansas,Socks,1,23,23.0,2.0,5.26
+Fall,Arkansas,T-shirt,1,36,36.0,2.0,5.26
+Fall,California,Jewelry,4,243,60.75,1.0,14.81
+Fall,California,Jacket,3,193,64.33333333333333,2.0,11.11
+Fall,California,Backpack,2,174,87.0,3.0,7.41
+Fall,California,Hoodie,2,80,40.0,3.0,7.41
+Fall,California,Jeans,2,175,87.5,3.0,7.41
+Fall,California,Shorts,2,157,78.5,3.0,7.41
+Fall,California,Skirt,2,141,70.5,3.0,7.41
+Fall,California,Belt,1,64,64.0,4.0,3.7
+Fall,California,Blouse,1,22,22.0,4.0,3.7
+Fall,California,Boots,1,96,96.0,4.0,3.7
+Fall,California,Coat,1,31,31.0,4.0,3.7
+Fall,California,Dress,1,63,63.0,4.0,3.7
+Fall,California,Handbag,1,22,22.0,4.0,3.7
+Fall,California,Hat,1,31,31.0,4.0,3.7
+Fall,California,Pants,1,40,40.0,4.0,3.7
+Fall,California,Sweater,1,33,33.0,4.0,3.7
+Fall,California,T-shirt,1,94,94.0,4.0,3.7
+Fall,Colorado,Pants,2,114,57.0,1.0,16.67
+Fall,Colorado,Shoes,2,141,70.5,1.0,16.67
+Fall,Colorado,Skirt,2,57,28.5,1.0,16.67
+Fall,Colorado,Backpack,1,57,57.0,2.0,8.33
+Fall,Colorado,Coat,1,46,46.0,2.0,8.33
+Fall,Colorado,Hoodie,1,24,24.0,2.0,8.33
+Fall,Colorado,Jacket,1,75,75.0,2.0,8.33
+Fall,Colorado,Sandals,1,32,32.0,2.0,8.33
+Fall,Colorado,Sunglasses,1,32,32.0,2.0,8.33
+Fall,Connecticut,Handbag,2,95,47.5,1.0,10.0
+Fall,Connecticut,Jacket,2,50,25.0,1.0,10.0
+Fall,Connecticut,Pants,2,135,67.5,1.0,10.0
+Fall,Connecticut,Socks,2,122,61.0,1.0,10.0
+Fall,Connecticut,T-shirt,2,80,40.0,1.0,10.0
+Fall,Connecticut,Backpack,1,25,25.0,2.0,5.0
+Fall,Connecticut,Blouse,1,48,48.0,2.0,5.0
+Fall,Connecticut,Boots,1,98,98.0,2.0,5.0
+Fall,Connecticut,Coat,1,60,60.0,2.0,5.0
+Fall,Connecticut,Dress,1,95,95.0,2.0,5.0
+Fall,Connecticut,Gloves,1,73,73.0,2.0,5.0
+Fall,Connecticut,Jeans,1,67,67.0,2.0,5.0
+Fall,Connecticut,Jewelry,1,48,48.0,2.0,5.0
+Fall,Connecticut,Sandals,1,47,47.0,2.0,5.0
+Fall,Connecticut,Shirt,1,73,73.0,2.0,5.0
+Fall,Delaware,Hat,3,201,67.0,1.0,12.5
+Fall,Delaware,Backpack,2,50,25.0,2.0,8.33
+Fall,Delaware,Dress,2,101,50.5,2.0,8.33
+Fall,Delaware,Sandals,2,101,50.5,2.0,8.33
+Fall,Delaware,Shoes,2,116,58.0,2.0,8.33
+Fall,Delaware,Skirt,2,132,66.0,2.0,8.33
+Fall,Delaware,Socks,2,172,86.0,2.0,8.33
+Fall,Delaware,Sunglasses,2,91,45.5,2.0,8.33
+Fall,Delaware,Coat,1,43,43.0,3.0,4.17
+Fall,Delaware,Gloves,1,76,76.0,3.0,4.17
+Fall,Delaware,Handbag,1,37,37.0,3.0,4.17
+Fall,Delaware,Jewelry,1,79,79.0,3.0,4.17
+Fall,Delaware,Scarf,1,95,95.0,3.0,4.17
+Fall,Delaware,Sneakers,1,31,31.0,3.0,4.17
+Fall,Delaware,Sweater,1,34,34.0,3.0,4.17
+Fall,Florida,Coat,3,187,62.333333333333336,1.0,15.0
+Fall,Florida,Hat,3,176,58.666666666666664,1.0,15.0
+Fall,Florida,Gloves,2,95,47.5,2.0,10.0
+Fall,Florida,Jacket,2,64,32.0,2.0,10.0
+Fall,Florida,Skirt,2,67,33.5,2.0,10.0
+Fall,Florida,Sweater,2,136,68.0,2.0,10.0
+Fall,Florida,T-shirt,2,148,74.0,2.0,10.0
+Fall,Florida,Handbag,1,43,43.0,3.0,5.0
+Fall,Florida,Hoodie,1,50,50.0,3.0,5.0
+Fall,Florida,Shirt,1,98,98.0,3.0,5.0
+Fall,Florida,Sneakers,1,52,52.0,3.0,5.0
+Fall,Georgia,Dress,2,176,88.0,1.0,11.11
+Fall,Georgia,Jewelry,2,99,49.5,1.0,11.11
+Fall,Georgia,Sneakers,2,128,64.0,1.0,11.11
+Fall,Georgia,Socks,2,89,44.5,1.0,11.11
+Fall,Georgia,T-shirt,2,100,50.0,1.0,11.11
+Fall,Georgia,Backpack,1,38,38.0,2.0,5.56
+Fall,Georgia,Blouse,1,89,89.0,2.0,5.56
+Fall,Georgia,Boots,1,85,85.0,2.0,5.56
+Fall,Georgia,Sandals,1,26,26.0,2.0,5.56
+Fall,Georgia,Scarf,1,40,40.0,2.0,5.56
+Fall,Georgia,Shoes,1,70,70.0,2.0,5.56
+Fall,Georgia,Sunglasses,1,97,97.0,2.0,5.56
+Fall,Georgia,Sweater,1,68,68.0,2.0,5.56
+Fall,Hawaii,Handbag,4,202,50.5,1.0,20.0
+Fall,Hawaii,Hat,3,171,57.0,2.0,15.0
+Fall,Hawaii,Coat,2,134,67.0,3.0,10.0
+Fall,Hawaii,Sneakers,2,82,41.0,3.0,10.0
+Fall,Hawaii,T-shirt,2,163,81.5,3.0,10.0
+Fall,Hawaii,Blouse,1,62,62.0,4.0,5.0
+Fall,Hawaii,Hoodie,1,95,95.0,4.0,5.0
+Fall,Hawaii,Jacket,1,96,96.0,4.0,5.0
+Fall,Hawaii,Jeans,1,33,33.0,4.0,5.0
+Fall,Hawaii,Shirt,1,46,46.0,4.0,5.0
+Fall,Hawaii,Shorts,1,35,35.0,4.0,5.0
+Fall,Hawaii,Sweater,1,68,68.0,4.0,5.0
+Fall,Idaho,Belt,4,322,80.5,1.0,16.0
+Fall,Idaho,Backpack,2,130,65.0,2.0,8.0
+Fall,Idaho,Blouse,2,91,45.5,2.0,8.0
+Fall,Idaho,Coat,2,148,74.0,2.0,8.0
+Fall,Idaho,Pants,2,102,51.0,2.0,8.0
+Fall,Idaho,Sneakers,2,122,61.0,2.0,8.0
+Fall,Idaho,Sunglasses,2,124,62.0,2.0,8.0
+Fall,Idaho,Boots,1,90,90.0,3.0,4.0
+Fall,Idaho,Gloves,1,22,22.0,3.0,4.0
+Fall,Idaho,Handbag,1,84,84.0,3.0,4.0
+Fall,Idaho,Hat,1,71,71.0,3.0,4.0
+Fall,Idaho,Sandals,1,47,47.0,3.0,4.0
+Fall,Idaho,Scarf,1,35,35.0,3.0,4.0
+Fall,Idaho,Shoes,1,99,99.0,3.0,4.0
+Fall,Idaho,Shorts,1,92,92.0,3.0,4.0
+Fall,Idaho,Skirt,1,43,43.0,3.0,4.0
+Fall,Illinois,Gloves,3,252,84.0,1.0,13.64
+Fall,Illinois,Jacket,3,242,80.66666666666667,1.0,13.64
+Fall,Illinois,Dress,2,140,70.0,2.0,9.09
+Fall,Illinois,Jeans,2,118,59.0,2.0,9.09
+Fall,Illinois,Belt,1,98,98.0,3.0,4.55
+Fall,Illinois,Blouse,1,44,44.0,3.0,4.55
+Fall,Illinois,Boots,1,31,31.0,3.0,4.55
+Fall,Illinois,Pants,1,36,36.0,3.0,4.55
+Fall,Illinois,Sandals,1,77,77.0,3.0,4.55
+Fall,Illinois,Scarf,1,72,72.0,3.0,4.55
+Fall,Illinois,Shirt,1,91,91.0,3.0,4.55
+Fall,Illinois,Skirt,1,36,36.0,3.0,4.55
+Fall,Illinois,Sneakers,1,92,92.0,3.0,4.55
+Fall,Illinois,Socks,1,58,58.0,3.0,4.55
+Fall,Illinois,Sweater,1,43,43.0,3.0,4.55
+Fall,Illinois,T-shirt,1,87,87.0,3.0,4.55
+Fall,Indiana,Jeans,2,162,81.0,1.0,12.5
+Fall,Indiana,Sandals,2,142,71.0,1.0,12.5
+Fall,Indiana,Shirt,2,168,84.0,1.0,12.5
+Fall,Indiana,Sweater,2,125,62.5,1.0,12.5
+Fall,Indiana,Belt,1,74,74.0,2.0,6.25
+Fall,Indiana,Coat,1,70,70.0,2.0,6.25
+Fall,Indiana,Hat,1,68,68.0,2.0,6.25
+Fall,Indiana,Hoodie,1,23,23.0,2.0,6.25
+Fall,Indiana,Jewelry,1,27,27.0,2.0,6.25
+Fall,Indiana,Pants,1,33,33.0,2.0,6.25
+Fall,Indiana,Scarf,1,38,38.0,2.0,6.25
+Fall,Indiana,Shorts,1,86,86.0,2.0,6.25
+Fall,Iowa,Hat,3,226,75.33333333333333,1.0,17.65
+Fall,Iowa,Belt,2,103,51.5,2.0,11.76
+Fall,Iowa,Gloves,2,89,44.5,2.0,11.76
+Fall,Iowa,Sneakers,2,136,68.0,2.0,11.76
+Fall,Iowa,T-shirt,2,132,66.0,2.0,11.76
+Fall,Iowa,Blouse,1,63,63.0,3.0,5.88
+Fall,Iowa,Boots,1,29,29.0,3.0,5.88
+Fall,Iowa,Coat,1,43,43.0,3.0,5.88
+Fall,Iowa,Handbag,1,77,77.0,3.0,5.88
+Fall,Iowa,Shirt,1,68,68.0,3.0,5.88
+Fall,Iowa,Sweater,1,76,76.0,3.0,5.88
+Fall,Kansas,Sandals,3,168,56.0,1.0,21.43
+Fall,Kansas,Blouse,2,69,34.5,2.0,14.29
+Fall,Kansas,Pants,2,120,60.0,2.0,14.29
+Fall,Kansas,Dress,1,98,98.0,3.0,7.14
+Fall,Kansas,Gloves,1,50,50.0,3.0,7.14
+Fall,Kansas,Hat,1,30,30.0,3.0,7.14
+Fall,Kansas,Hoodie,1,42,42.0,3.0,7.14
+Fall,Kansas,Shorts,1,88,88.0,3.0,7.14
+Fall,Kansas,Socks,1,96,96.0,3.0,7.14
+Fall,Kansas,Sunglasses,1,27,27.0,3.0,7.14
+Fall,Kentucky,Jacket,3,159,53.0,1.0,17.65
+Fall,Kentucky,Shirt,3,211,70.33333333333333,1.0,17.65
+Fall,Kentucky,Scarf,2,114,57.0,2.0,11.76
+Fall,Kentucky,Backpack,1,37,37.0,3.0,5.88
+Fall,Kentucky,Belt,1,47,47.0,3.0,5.88
+Fall,Kentucky,Blouse,1,95,95.0,3.0,5.88
+Fall,Kentucky,Coat,1,95,95.0,3.0,5.88
+Fall,Kentucky,Dress,1,21,21.0,3.0,5.88
+Fall,Kentucky,Handbag,1,29,29.0,3.0,5.88
+Fall,Kentucky,Pants,1,81,81.0,3.0,5.88
+Fall,Kentucky,Skirt,1,38,38.0,3.0,5.88
+Fall,Kentucky,Sweater,1,45,45.0,3.0,5.88
+Fall,Louisiana,Belt,3,108,36.0,1.0,15.79
+Fall,Louisiana,Hoodie,3,206,68.66666666666667,1.0,15.79
+Fall,Louisiana,Handbag,2,148,74.0,2.0,10.53
+Fall,Louisiana,Jeans,2,148,74.0,2.0,10.53
+Fall,Louisiana,Jewelry,2,77,38.5,2.0,10.53
+Fall,Louisiana,Shirt,2,134,67.0,2.0,10.53
+Fall,Louisiana,Backpack,1,37,37.0,3.0,5.26
+Fall,Louisiana,Hat,1,74,74.0,3.0,5.26
+Fall,Louisiana,Shoes,1,36,36.0,3.0,5.26
+Fall,Louisiana,Socks,1,50,50.0,3.0,5.26
+Fall,Louisiana,Sweater,1,89,89.0,3.0,5.26
+Fall,Maine,Boots,2,87,43.5,1.0,12.5
+Fall,Maine,Jacket,2,115,57.5,1.0,12.5
+Fall,Maine,Socks,2,100,50.0,1.0,12.5
+Fall,Maine,Belt,1,34,34.0,2.0,6.25
+Fall,Maine,Blouse,1,74,74.0,2.0,6.25
+Fall,Maine,Dress,1,81,81.0,2.0,6.25
+Fall,Maine,Gloves,1,57,57.0,2.0,6.25
+Fall,Maine,Hat,1,44,44.0,2.0,6.25
+Fall,Maine,Jewelry,1,27,27.0,2.0,6.25
+Fall,Maine,Sandals,1,90,90.0,2.0,6.25
+Fall,Maine,Shirt,1,54,54.0,2.0,6.25
+Fall,Maine,Sneakers,1,79,79.0,2.0,6.25
+Fall,Maine,Sunglasses,1,53,53.0,2.0,6.25
+Fall,Maryland,Skirt,4,184,46.0,1.0,20.0
+Fall,Maryland,Sandals,3,210,70.0,2.0,15.0
+Fall,Maryland,Coat,2,136,68.0,3.0,10.0
+Fall,Maryland,Handbag,2,92,46.0,3.0,10.0
+Fall,Maryland,Belt,1,66,66.0,4.0,5.0
+Fall,Maryland,Blouse,1,30,30.0,4.0,5.0
+Fall,Maryland,Gloves,1,25,25.0,4.0,5.0
+Fall,Maryland,Hoodie,1,56,56.0,4.0,5.0
+Fall,Maryland,Jeans,1,28,28.0,4.0,5.0
+Fall,Maryland,Pants,1,21,21.0,4.0,5.0
+Fall,Maryland,Shirt,1,80,80.0,4.0,5.0
+Fall,Maryland,Socks,1,29,29.0,4.0,5.0
+Fall,Maryland,T-shirt,1,95,95.0,4.0,5.0
+Fall,Massachusetts,Dress,2,145,72.5,1.0,16.67
+Fall,Massachusetts,Hat,2,131,65.5,1.0,16.67
+Fall,Massachusetts,Sandals,2,114,57.0,1.0,16.67
+Fall,Massachusetts,Backpack,1,62,62.0,2.0,8.33
+Fall,Massachusetts,Boots,1,54,54.0,2.0,8.33
+Fall,Massachusetts,Coat,1,39,39.0,2.0,8.33
+Fall,Massachusetts,Gloves,1,84,84.0,2.0,8.33
+Fall,Massachusetts,Shoes,1,76,76.0,2.0,8.33
+Fall,Massachusetts,Sweater,1,85,85.0,2.0,8.33
+Fall,Michigan,Shirt,4,263,65.75,1.0,18.18
+Fall,Michigan,Jacket,3,192,64.0,2.0,13.64
+Fall,Michigan,Sandals,3,238,79.33333333333333,2.0,13.64
+Fall,Michigan,Backpack,2,52,26.0,3.0,9.09
+Fall,Michigan,T-shirt,2,154,77.0,3.0,9.09
+Fall,Michigan,Belt,1,46,46.0,4.0,4.55
+Fall,Michigan,Blouse,1,61,61.0,4.0,4.55
+Fall,Michigan,Boots,1,96,96.0,4.0,4.55
+Fall,Michigan,Dress,1,94,94.0,4.0,4.55
+Fall,Michigan,Handbag,1,36,36.0,4.0,4.55
+Fall,Michigan,Pants,1,69,69.0,4.0,4.55
+Fall,Michigan,Sneakers,1,82,82.0,4.0,4.55
+Fall,Michigan,Sunglasses,1,69,69.0,4.0,4.55
+Fall,Minnesota,Skirt,4,210,52.5,1.0,16.0
+Fall,Minnesota,Gloves,2,71,35.5,2.0,8.0
+Fall,Minnesota,Hat,2,80,40.0,2.0,8.0
+Fall,Minnesota,Pants,2,156,78.0,2.0,8.0
+Fall,Minnesota,Sandals,2,135,67.5,2.0,8.0
+Fall,Minnesota,Shirt,2,168,84.0,2.0,8.0
+Fall,Minnesota,Shorts,2,171,85.5,2.0,8.0
+Fall,Minnesota,T-shirt,2,161,80.5,2.0,8.0
+Fall,Minnesota,Blouse,1,91,91.0,3.0,4.0
+Fall,Minnesota,Dress,1,52,52.0,3.0,4.0
+Fall,Minnesota,Handbag,1,33,33.0,3.0,4.0
+Fall,Minnesota,Hoodie,1,32,32.0,3.0,4.0
+Fall,Minnesota,Jewelry,1,89,89.0,3.0,4.0
+Fall,Minnesota,Socks,1,39,39.0,3.0,4.0
+Fall,Minnesota,Sunglasses,1,43,43.0,3.0,4.0
+Fall,Mississippi,Handbag,4,207,51.75,1.0,20.0
+Fall,Mississippi,Jewelry,3,188,62.666666666666664,2.0,15.0
+Fall,Mississippi,Belt,1,46,46.0,3.0,5.0
+Fall,Mississippi,Blouse,1,98,98.0,3.0,5.0
+Fall,Mississippi,Coat,1,57,57.0,3.0,5.0
+Fall,Mississippi,Hat,1,79,79.0,3.0,5.0
+Fall,Mississippi,Jacket,1,68,68.0,3.0,5.0
+Fall,Mississippi,Jeans,1,57,57.0,3.0,5.0
+Fall,Mississippi,Sandals,1,81,81.0,3.0,5.0
+Fall,Mississippi,Scarf,1,59,59.0,3.0,5.0
+Fall,Mississippi,Shorts,1,88,88.0,3.0,5.0
+Fall,Mississippi,Skirt,1,25,25.0,3.0,5.0
+Fall,Mississippi,Sneakers,1,57,57.0,3.0,5.0
+Fall,Mississippi,Sweater,1,42,42.0,3.0,5.0
+Fall,Mississippi,T-shirt,1,72,72.0,3.0,5.0
+Fall,Missouri,Scarf,3,271,90.33333333333333,1.0,12.0
+Fall,Missouri,Shorts,3,108,36.0,1.0,12.0
+Fall,Missouri,Jewelry,2,148,74.0,2.0,8.0
+Fall,Missouri,Skirt,2,139,69.5,2.0,8.0
+Fall,Missouri,Sneakers,2,164,82.0,2.0,8.0
+Fall,Missouri,Socks,2,88,44.0,2.0,8.0
+Fall,Missouri,Sunglasses,2,163,81.5,2.0,8.0
+Fall,Missouri,T-shirt,2,126,63.0,2.0,8.0
+Fall,Missouri,Belt,1,52,52.0,3.0,4.0
+Fall,Missouri,Blouse,1,22,22.0,3.0,4.0
+Fall,Missouri,Coat,1,48,48.0,3.0,4.0
+Fall,Missouri,Dress,1,44,44.0,3.0,4.0
+Fall,Missouri,Handbag,1,38,38.0,3.0,4.0
+Fall,Missouri,Jacket,1,68,68.0,3.0,4.0
+Fall,Missouri,Shirt,1,26,26.0,3.0,4.0
+Fall,Montana,Handbag,3,249,83.0,1.0,15.0
+Fall,Montana,Coat,2,173,86.5,2.0,10.0
+Fall,Montana,Shorts,2,139,69.5,2.0,10.0
+Fall,Montana,Sweater,2,68,34.0,2.0,10.0
+Fall,Montana,T-shirt,2,117,58.5,2.0,10.0
+Fall,Montana,Blouse,1,45,45.0,3.0,5.0
+Fall,Montana,Dress,1,88,88.0,3.0,5.0
+Fall,Montana,Hoodie,1,57,57.0,3.0,5.0
+Fall,Montana,Jacket,1,59,59.0,3.0,5.0
+Fall,Montana,Sandals,1,69,69.0,3.0,5.0
+Fall,Montana,Shirt,1,85,85.0,3.0,5.0
+Fall,Montana,Skirt,1,81,81.0,3.0,5.0
+Fall,Montana,Socks,1,25,25.0,3.0,5.0
+Fall,Montana,Sunglasses,1,48,48.0,3.0,5.0
+Fall,Nebraska,Boots,4,247,61.75,1.0,18.18
+Fall,Nebraska,Backpack,3,235,78.33333333333333,2.0,13.64
+Fall,Nebraska,Shoes,2,160,80.0,3.0,9.09
+Fall,Nebraska,Belt,1,94,94.0,4.0,4.55
+Fall,Nebraska,Dress,1,21,21.0,4.0,4.55
+Fall,Nebraska,Gloves,1,99,99.0,4.0,4.55
+Fall,Nebraska,Handbag,1,32,32.0,4.0,4.55
+Fall,Nebraska,Hat,1,95,95.0,4.0,4.55
+Fall,Nebraska,Jacket,1,58,58.0,4.0,4.55
+Fall,Nebraska,Jeans,1,86,86.0,4.0,4.55
+Fall,Nebraska,Pants,1,74,74.0,4.0,4.55
+Fall,Nebraska,Sandals,1,58,58.0,4.0,4.55
+Fall,Nebraska,Scarf,1,34,34.0,4.0,4.55
+Fall,Nebraska,Shorts,1,25,25.0,4.0,4.55
+Fall,Nebraska,Socks,1,37,37.0,4.0,4.55
+Fall,Nebraska,Sunglasses,1,34,34.0,4.0,4.55
+Fall,Nevada,Sunglasses,3,214,71.33333333333333,1.0,17.65
+Fall,Nevada,Backpack,2,109,54.5,2.0,11.76
+Fall,Nevada,Shorts,2,163,81.5,2.0,11.76
+Fall,Nevada,Blouse,1,73,73.0,3.0,5.88
+Fall,Nevada,Boots,1,49,49.0,3.0,5.88
+Fall,Nevada,Gloves,1,67,67.0,3.0,5.88
+Fall,Nevada,Handbag,1,93,93.0,3.0,5.88
+Fall,Nevada,Jeans,1,53,53.0,3.0,5.88
+Fall,Nevada,Jewelry,1,91,91.0,3.0,5.88
+Fall,Nevada,Sandals,1,51,51.0,3.0,5.88
+Fall,Nevada,Shirt,1,93,93.0,3.0,5.88
+Fall,Nevada,Shoes,1,70,70.0,3.0,5.88
+Fall,Nevada,Socks,1,62,62.0,3.0,5.88
+Fall,New Hampshire,Blouse,2,177,88.5,1.0,10.53
+Fall,New Hampshire,Coat,2,133,66.5,1.0,10.53
+Fall,New Hampshire,Hat,2,76,38.0,1.0,10.53
+Fall,New Hampshire,Jewelry,2,129,64.5,1.0,10.53
+Fall,New Hampshire,Backpack,1,69,69.0,2.0,5.26
+Fall,New Hampshire,Boots,1,52,52.0,2.0,5.26
+Fall,New Hampshire,Gloves,1,27,27.0,2.0,5.26
+Fall,New Hampshire,Handbag,1,55,55.0,2.0,5.26
+Fall,New Hampshire,Hoodie,1,43,43.0,2.0,5.26
+Fall,New Hampshire,Jacket,1,24,24.0,2.0,5.26
+Fall,New Hampshire,Pants,1,26,26.0,2.0,5.26
+Fall,New Hampshire,Skirt,1,25,25.0,2.0,5.26
+Fall,New Hampshire,Sunglasses,1,74,74.0,2.0,5.26
+Fall,New Hampshire,Sweater,1,50,50.0,2.0,5.26
+Fall,New Hampshire,T-shirt,1,79,79.0,2.0,5.26
+Fall,New Jersey,Belt,2,186,93.0,1.0,14.29
+Fall,New Jersey,Gloves,2,192,96.0,1.0,14.29
+Fall,New Jersey,Scarf,2,98,49.0,1.0,14.29
+Fall,New Jersey,Blouse,1,33,33.0,2.0,7.14
+Fall,New Jersey,Hat,1,50,50.0,2.0,7.14
+Fall,New Jersey,Hoodie,1,44,44.0,2.0,7.14
+Fall,New Jersey,Shoes,1,43,43.0,2.0,7.14
+Fall,New Jersey,Shorts,1,40,40.0,2.0,7.14
+Fall,New Jersey,Skirt,1,37,37.0,2.0,7.14
+Fall,New Jersey,Socks,1,29,29.0,2.0,7.14
+Fall,New Jersey,Sweater,1,72,72.0,2.0,7.14
+Fall,New Mexico,Belt,3,126,42.0,1.0,14.29
+Fall,New Mexico,Jacket,3,206,68.66666666666667,1.0,14.29
+Fall,New Mexico,Handbag,2,128,64.0,2.0,9.52
+Fall,New Mexico,Scarf,2,162,81.0,2.0,9.52
+Fall,New Mexico,Backpack,1,58,58.0,3.0,4.76
+Fall,New Mexico,Coat,1,47,47.0,3.0,4.76
+Fall,New Mexico,Hat,1,93,93.0,3.0,4.76
+Fall,New Mexico,Hoodie,1,63,63.0,3.0,4.76
+Fall,New Mexico,Jewelry,1,62,62.0,3.0,4.76
+Fall,New Mexico,Sandals,1,63,63.0,3.0,4.76
+Fall,New Mexico,Skirt,1,74,74.0,3.0,4.76
+Fall,New Mexico,Sneakers,1,60,60.0,3.0,4.76
+Fall,New Mexico,Sunglasses,1,75,75.0,3.0,4.76
+Fall,New Mexico,Sweater,1,79,79.0,3.0,4.76
+Fall,New Mexico,T-shirt,1,64,64.0,3.0,4.76
+Fall,New York,Jacket,4,133,33.25,1.0,16.0
+Fall,New York,Blouse,3,182,60.666666666666664,2.0,12.0
+Fall,New York,Handbag,2,177,88.5,3.0,8.0
+Fall,New York,Jeans,2,111,55.5,3.0,8.0
+Fall,New York,Sandals,2,119,59.5,3.0,8.0
+Fall,New York,Socks,2,167,83.5,3.0,8.0
+Fall,New York,Backpack,1,96,96.0,4.0,4.0
+Fall,New York,Belt,1,83,83.0,4.0,4.0
+Fall,New York,Coat,1,85,85.0,4.0,4.0
+Fall,New York,Dress,1,31,31.0,4.0,4.0
+Fall,New York,Hat,1,58,58.0,4.0,4.0
+Fall,New York,Jewelry,1,62,62.0,4.0,4.0
+Fall,New York,Shoes,1,68,68.0,4.0,4.0
+Fall,New York,Shorts,1,94,94.0,4.0,4.0
+Fall,New York,Sunglasses,1,73,73.0,4.0,4.0
+Fall,New York,T-shirt,1,37,37.0,4.0,4.0
+Fall,North Carolina,Sweater,3,198,66.0,1.0,17.65
+Fall,North Carolina,Gloves,2,196,98.0,2.0,11.76
+Fall,North Carolina,Sunglasses,2,123,61.5,2.0,11.76
+Fall,North Carolina,T-shirt,2,152,76.0,2.0,11.76
+Fall,North Carolina,Belt,1,90,90.0,3.0,5.88
+Fall,North Carolina,Blouse,1,96,96.0,3.0,5.88
+Fall,North Carolina,Handbag,1,94,94.0,3.0,5.88
+Fall,North Carolina,Jeans,1,22,22.0,3.0,5.88
+Fall,North Carolina,Pants,1,57,57.0,3.0,5.88
+Fall,North Carolina,Sandals,1,21,21.0,3.0,5.88
+Fall,North Carolina,Shirt,1,28,28.0,3.0,5.88
+Fall,North Carolina,Socks,1,77,77.0,3.0,5.88
+Fall,North Dakota,Boots,4,176,44.0,1.0,19.05
+Fall,North Dakota,Jacket,3,213,71.0,2.0,14.29
+Fall,North Dakota,Belt,2,144,72.0,3.0,9.52
+Fall,North Dakota,Hoodie,2,135,67.5,3.0,9.52
+Fall,North Dakota,Pants,2,131,65.5,3.0,9.52
+Fall,North Dakota,Backpack,1,49,49.0,4.0,4.76
+Fall,North Dakota,Blouse,1,31,31.0,4.0,4.76
+Fall,North Dakota,Handbag,1,29,29.0,4.0,4.76
+Fall,North Dakota,Hat,1,38,38.0,4.0,4.76
+Fall,North Dakota,Jeans,1,52,52.0,4.0,4.76
+Fall,North Dakota,Socks,1,85,85.0,4.0,4.76
+Fall,North Dakota,Sunglasses,1,47,47.0,4.0,4.76
+Fall,North Dakota,Sweater,1,68,68.0,4.0,4.76
+Fall,Ohio,Hoodie,3,113,37.666666666666664,1.0,13.04
+Fall,Ohio,Dress,2,165,82.5,2.0,8.7
+Fall,Ohio,Sandals,2,137,68.5,2.0,8.7
+Fall,Ohio,Scarf,2,154,77.0,2.0,8.7
+Fall,Ohio,Shoes,2,137,68.5,2.0,8.7
+Fall,Ohio,Skirt,2,105,52.5,2.0,8.7
+Fall,Ohio,Socks,2,91,45.5,2.0,8.7
+Fall,Ohio,Boots,1,75,75.0,3.0,4.35
+Fall,Ohio,Coat,1,25,25.0,3.0,4.35
+Fall,Ohio,Gloves,1,72,72.0,3.0,4.35
+Fall,Ohio,Hat,1,68,68.0,3.0,4.35
+Fall,Ohio,Jacket,1,89,89.0,3.0,4.35
+Fall,Ohio,Jewelry,1,77,77.0,3.0,4.35
+Fall,Ohio,Sweater,1,54,54.0,3.0,4.35
+Fall,Ohio,T-shirt,1,89,89.0,3.0,4.35
+Fall,Oklahoma,Boots,3,166,55.333333333333336,1.0,16.67
+Fall,Oklahoma,Jacket,2,79,39.5,2.0,11.11
+Fall,Oklahoma,Socks,2,96,48.0,2.0,11.11
+Fall,Oklahoma,Backpack,1,55,55.0,3.0,5.56
+Fall,Oklahoma,Coat,1,86,86.0,3.0,5.56
+Fall,Oklahoma,Dress,1,98,98.0,3.0,5.56
+Fall,Oklahoma,Handbag,1,68,68.0,3.0,5.56
+Fall,Oklahoma,Hat,1,95,95.0,3.0,5.56
+Fall,Oklahoma,Hoodie,1,73,73.0,3.0,5.56
+Fall,Oklahoma,Jeans,1,93,93.0,3.0,5.56
+Fall,Oklahoma,Scarf,1,31,31.0,3.0,5.56
+Fall,Oklahoma,Shirt,1,89,89.0,3.0,5.56
+Fall,Oklahoma,Shorts,1,52,52.0,3.0,5.56
+Fall,Oklahoma,T-shirt,1,91,91.0,3.0,5.56
+Fall,Oregon,Scarf,3,222,74.0,1.0,18.75
+Fall,Oregon,Socks,3,178,59.333333333333336,1.0,18.75
+Fall,Oregon,Blouse,2,153,76.5,2.0,12.5
+Fall,Oregon,Shirt,2,78,39.0,2.0,12.5
+Fall,Oregon,Dress,1,78,78.0,3.0,6.25
+Fall,Oregon,Jacket,1,56,56.0,3.0,6.25
+Fall,Oregon,Jewelry,1,42,42.0,3.0,6.25
+Fall,Oregon,Sandals,1,41,41.0,3.0,6.25
+Fall,Oregon,Skirt,1,33,33.0,3.0,6.25
+Fall,Oregon,Sunglasses,1,58,58.0,3.0,6.25
+Fall,Pennsylvania,Boots,2,157,78.5,1.0,13.33
+Fall,Pennsylvania,Coat,2,128,64.0,1.0,13.33
+Fall,Pennsylvania,Scarf,2,125,62.5,1.0,13.33
+Fall,Pennsylvania,Sneakers,2,133,66.5,1.0,13.33
+Fall,Pennsylvania,Gloves,1,62,62.0,2.0,6.67
+Fall,Pennsylvania,Jewelry,1,76,76.0,2.0,6.67
+Fall,Pennsylvania,Pants,1,54,54.0,2.0,6.67
+Fall,Pennsylvania,Shorts,1,95,95.0,2.0,6.67
+Fall,Pennsylvania,Skirt,1,93,93.0,2.0,6.67
+Fall,Pennsylvania,Sunglasses,1,44,44.0,2.0,6.67
+Fall,Pennsylvania,Sweater,1,72,72.0,2.0,6.67
+Fall,Rhode Island,Skirt,2,149,74.5,1.0,20.0
+Fall,Rhode Island,Backpack,1,89,89.0,2.0,10.0
+Fall,Rhode Island,Boots,1,24,24.0,2.0,10.0
+Fall,Rhode Island,Dress,1,36,36.0,2.0,10.0
+Fall,Rhode Island,Handbag,1,67,67.0,2.0,10.0
+Fall,Rhode Island,Hat,1,81,81.0,2.0,10.0
+Fall,Rhode Island,Hoodie,1,27,27.0,2.0,10.0
+Fall,Rhode Island,Jacket,1,46,46.0,2.0,10.0
+Fall,Rhode Island,Sandals,1,92,92.0,2.0,10.0
+Fall,South Carolina,Pants,3,169,56.333333333333336,1.0,11.11
+Fall,South Carolina,Sweater,3,108,36.0,1.0,11.11
+Fall,South Carolina,Belt,2,157,78.5,2.0,7.41
+Fall,South Carolina,Boots,2,154,77.0,2.0,7.41
+Fall,South Carolina,Coat,2,107,53.5,2.0,7.41
+Fall,South Carolina,Hoodie,2,155,77.5,2.0,7.41
+Fall,South Carolina,Scarf,2,131,65.5,2.0,7.41
+Fall,South Carolina,Shirt,2,117,58.5,2.0,7.41
+Fall,South Carolina,Blouse,1,59,59.0,3.0,3.7
+Fall,South Carolina,Dress,1,88,88.0,3.0,3.7
+Fall,South Carolina,Gloves,1,34,34.0,3.0,3.7
+Fall,South Carolina,Hat,1,56,56.0,3.0,3.7
+Fall,South Carolina,Jacket,1,100,100.0,3.0,3.7
+Fall,South Carolina,Jeans,1,54,54.0,3.0,3.7
+Fall,South Carolina,Jewelry,1,30,30.0,3.0,3.7
+Fall,South Carolina,Shoes,1,51,51.0,3.0,3.7
+Fall,South Carolina,Socks,1,23,23.0,3.0,3.7
+Fall,South Dakota,Dress,2,185,92.5,1.0,8.7
+Fall,South Dakota,Gloves,2,153,76.5,1.0,8.7
+Fall,South Dakota,Pants,2,135,67.5,1.0,8.7
+Fall,South Dakota,Scarf,2,136,68.0,1.0,8.7
+Fall,South Dakota,Skirt,2,122,61.0,1.0,8.7
+Fall,South Dakota,Sneakers,2,120,60.0,1.0,8.7
+Fall,South Dakota,Sunglasses,2,145,72.5,1.0,8.7
+Fall,South Dakota,Backpack,1,34,34.0,2.0,4.35
+Fall,South Dakota,Blouse,1,94,94.0,2.0,4.35
+Fall,South Dakota,Boots,1,60,60.0,2.0,4.35
+Fall,South Dakota,Hat,1,39,39.0,2.0,4.35
+Fall,South Dakota,Jacket,1,70,70.0,2.0,4.35
+Fall,South Dakota,Jewelry,1,70,70.0,2.0,4.35
+Fall,South Dakota,Sandals,1,81,81.0,2.0,4.35
+Fall,South Dakota,Socks,1,21,21.0,2.0,4.35
+Fall,South Dakota,T-shirt,1,59,59.0,2.0,4.35
+Fall,Tennessee,Skirt,3,179,59.666666666666664,1.0,15.0
+Fall,Tennessee,Hat,2,117,58.5,2.0,10.0
+Fall,Tennessee,Scarf,2,179,89.5,2.0,10.0
+Fall,Tennessee,T-shirt,2,112,56.0,2.0,10.0
+Fall,Tennessee,Belt,1,68,68.0,3.0,5.0
+Fall,Tennessee,Boots,1,47,47.0,3.0,5.0
+Fall,Tennessee,Gloves,1,56,56.0,3.0,5.0
+Fall,Tennessee,Jacket,1,88,88.0,3.0,5.0
+Fall,Tennessee,Jewelry,1,71,71.0,3.0,5.0
+Fall,Tennessee,Pants,1,50,50.0,3.0,5.0
+Fall,Tennessee,Shirt,1,70,70.0,3.0,5.0
+Fall,Tennessee,Shoes,1,87,87.0,3.0,5.0
+Fall,Tennessee,Socks,1,21,21.0,3.0,5.0
+Fall,Tennessee,Sunglasses,1,76,76.0,3.0,5.0
+Fall,Tennessee,Sweater,1,96,96.0,3.0,5.0
+Fall,Texas,Handbag,3,138,46.0,1.0,11.54
+Fall,Texas,Hat,3,238,79.33333333333333,1.0,11.54
+Fall,Texas,Sneakers,3,224,74.66666666666667,1.0,11.54
+Fall,Texas,Hoodie,2,114,57.0,2.0,7.69
+Fall,Texas,Jacket,2,129,64.5,2.0,7.69
+Fall,Texas,Sunglasses,2,157,78.5,2.0,7.69
+Fall,Texas,T-shirt,2,167,83.5,2.0,7.69
+Fall,Texas,Blouse,1,97,97.0,3.0,3.85
+Fall,Texas,Dress,1,27,27.0,3.0,3.85
+Fall,Texas,Gloves,1,63,63.0,3.0,3.85
+Fall,Texas,Jeans,1,71,71.0,3.0,3.85
+Fall,Texas,Pants,1,97,97.0,3.0,3.85
+Fall,Texas,Scarf,1,45,45.0,3.0,3.85
+Fall,Texas,Shirt,1,45,45.0,3.0,3.85
+Fall,Texas,Shoes,1,37,37.0,3.0,3.85
+Fall,Texas,Sweater,1,83,83.0,3.0,3.85
+Fall,Utah,Shorts,5,301,60.2,1.0,20.83
+Fall,Utah,Blouse,2,137,68.5,2.0,8.33
+Fall,Utah,Hat,2,166,83.0,2.0,8.33
+Fall,Utah,Jacket,2,83,41.5,2.0,8.33
+Fall,Utah,Pants,2,161,80.5,2.0,8.33
+Fall,Utah,Socks,2,79,39.5,2.0,8.33
+Fall,Utah,Belt,1,42,42.0,3.0,4.17
+Fall,Utah,Boots,1,96,96.0,3.0,4.17
+Fall,Utah,Gloves,1,37,37.0,3.0,4.17
+Fall,Utah,Handbag,1,100,100.0,3.0,4.17
+Fall,Utah,Jeans,1,70,70.0,3.0,4.17
+Fall,Utah,Scarf,1,88,88.0,3.0,4.17
+Fall,Utah,Sneakers,1,47,47.0,3.0,4.17
+Fall,Utah,Sunglasses,1,54,54.0,3.0,4.17
+Fall,Utah,Sweater,1,59,59.0,3.0,4.17
+Fall,Vermont,Jacket,2,103,51.5,1.0,9.09
+Fall,Vermont,Pants,2,83,41.5,1.0,9.09
+Fall,Vermont,Shorts,2,140,70.0,1.0,9.09
+Fall,Vermont,Sneakers,2,166,83.0,1.0,9.09
+Fall,Vermont,Sweater,2,62,31.0,1.0,9.09
+Fall,Vermont,Belt,1,62,62.0,2.0,4.55
+Fall,Vermont,Gloves,1,24,24.0,2.0,4.55
+Fall,Vermont,Handbag,1,65,65.0,2.0,4.55
+Fall,Vermont,Hat,1,68,68.0,2.0,4.55
+Fall,Vermont,Jeans,1,58,58.0,2.0,4.55
+Fall,Vermont,Jewelry,1,34,34.0,2.0,4.55
+Fall,Vermont,Sandals,1,51,51.0,2.0,4.55
+Fall,Vermont,Shirt,1,53,53.0,2.0,4.55
+Fall,Vermont,Shoes,1,65,65.0,2.0,4.55
+Fall,Vermont,Skirt,1,87,87.0,2.0,4.55
+Fall,Vermont,Socks,1,43,43.0,2.0,4.55
+Fall,Vermont,Sunglasses,1,48,48.0,2.0,4.55
+Fall,Virginia,Jacket,2,96,48.0,1.0,15.38
+Fall,Virginia,Shoes,2,130,65.0,1.0,15.38
+Fall,Virginia,Sunglasses,2,75,37.5,1.0,15.38
+Fall,Virginia,Backpack,1,63,63.0,2.0,7.69
+Fall,Virginia,Boots,1,35,35.0,2.0,7.69
+Fall,Virginia,Gloves,1,46,46.0,2.0,7.69
+Fall,Virginia,Handbag,1,84,84.0,2.0,7.69
+Fall,Virginia,Jeans,1,41,41.0,2.0,7.69
+Fall,Virginia,Skirt,1,39,39.0,2.0,7.69
+Fall,Virginia,T-shirt,1,36,36.0,2.0,7.69
+Fall,Washington,Jeans,2,158,79.0,1.0,16.67
+Fall,Washington,Socks,2,138,69.0,1.0,16.67
+Fall,Washington,Blouse,1,42,42.0,2.0,8.33
+Fall,Washington,Dress,1,60,60.0,2.0,8.33
+Fall,Washington,Gloves,1,88,88.0,2.0,8.33
+Fall,Washington,Hat,1,48,48.0,2.0,8.33
+Fall,Washington,Jewelry,1,69,69.0,2.0,8.33
+Fall,Washington,Pants,1,45,45.0,2.0,8.33
+Fall,Washington,Shirt,1,94,94.0,2.0,8.33
+Fall,Washington,T-shirt,1,31,31.0,2.0,8.33
+Fall,West Virginia,Hoodie,4,275,68.75,1.0,19.05
+Fall,West Virginia,Sandals,3,135,45.0,2.0,14.29
+Fall,West Virginia,Shorts,3,222,74.0,2.0,14.29
+Fall,West Virginia,Sunglasses,3,195,65.0,2.0,14.29
+Fall,West Virginia,Handbag,2,132,66.0,3.0,9.52
+Fall,West Virginia,Belt,1,82,82.0,4.0,4.76
+Fall,West Virginia,Blouse,1,82,82.0,4.0,4.76
+Fall,West Virginia,Hat,1,98,98.0,4.0,4.76
+Fall,West Virginia,Scarf,1,65,65.0,4.0,4.76
+Fall,West Virginia,Shirt,1,87,87.0,4.0,4.76
+Fall,West Virginia,Sweater,1,82,82.0,4.0,4.76
+Fall,Wisconsin,Blouse,4,323,80.75,1.0,18.18
+Fall,Wisconsin,Hat,2,163,81.5,2.0,9.09
+Fall,Wisconsin,Jeans,2,109,54.5,2.0,9.09
+Fall,Wisconsin,Shoes,2,181,90.5,2.0,9.09
+Fall,Wisconsin,Belt,1,63,63.0,3.0,4.55
+Fall,Wisconsin,Boots,1,72,72.0,3.0,4.55
+Fall,Wisconsin,Dress,1,41,41.0,3.0,4.55
+Fall,Wisconsin,Handbag,1,24,24.0,3.0,4.55
+Fall,Wisconsin,Pants,1,21,21.0,3.0,4.55
+Fall,Wisconsin,Scarf,1,37,37.0,3.0,4.55
+Fall,Wisconsin,Shorts,1,63,63.0,3.0,4.55
+Fall,Wisconsin,Skirt,1,79,79.0,3.0,4.55
+Fall,Wisconsin,Sneakers,1,52,52.0,3.0,4.55
+Fall,Wisconsin,Socks,1,55,55.0,3.0,4.55
+Fall,Wisconsin,Sunglasses,1,37,37.0,3.0,4.55
+Fall,Wisconsin,Sweater,1,44,44.0,3.0,4.55
+Fall,Wyoming,Shirt,3,179,59.666666666666664,1.0,15.0
+Fall,Wyoming,Backpack,2,166,83.0,2.0,10.0
+Fall,Wyoming,Belt,2,93,46.5,2.0,10.0
+Fall,Wyoming,Hat,2,106,53.0,2.0,10.0
+Fall,Wyoming,Blouse,1,35,35.0,3.0,5.0
+Fall,Wyoming,Coat,1,76,76.0,3.0,5.0
+Fall,Wyoming,Dress,1,48,48.0,3.0,5.0
+Fall,Wyoming,Gloves,1,90,90.0,3.0,5.0
+Fall,Wyoming,Hoodie,1,70,70.0,3.0,5.0
+Fall,Wyoming,Jeans,1,48,48.0,3.0,5.0
+Fall,Wyoming,Scarf,1,62,62.0,3.0,5.0
+Fall,Wyoming,Shorts,1,76,76.0,3.0,5.0
+Fall,Wyoming,Sneakers,1,84,84.0,3.0,5.0
+Fall,Wyoming,Sweater,1,27,27.0,3.0,5.0
+Fall,Wyoming,T-shirt,1,47,47.0,3.0,5.0
+Spring,Alabama,Coat,3,165,55.0,1.0,12.5
+Spring,Alabama,Shoes,2,92,46.0,2.0,8.33
+Spring,Alabama,Sneakers,2,159,79.5,2.0,8.33
+Spring,Alabama,T-shirt,2,105,52.5,2.0,8.33
+Spring,Alabama,Belt,1,24,24.0,3.0,4.17
+Spring,Alabama,Blouse,1,48,48.0,3.0,4.17
+Spring,Alabama,Boots,1,39,39.0,3.0,4.17
+Spring,Alabama,Dress,1,46,46.0,3.0,4.17
+Spring,Alabama,Gloves,1,74,74.0,3.0,4.17
+Spring,Alabama,Jacket,1,45,45.0,3.0,4.17
+Spring,Alabama,Jewelry,1,80,80.0,3.0,4.17
+Spring,Alabama,Pants,1,23,23.0,3.0,4.17
+Spring,Alabama,Sandals,1,53,53.0,3.0,4.17
+Spring,Alabama,Scarf,1,64,64.0,3.0,4.17
+Spring,Alabama,Shirt,1,60,60.0,3.0,4.17
+Spring,Alabama,Shorts,1,30,30.0,3.0,4.17
+Spring,Alabama,Skirt,1,98,98.0,3.0,4.17
+Spring,Alabama,Sunglasses,1,36,36.0,3.0,4.17
+Spring,Alabama,Sweater,1,56,56.0,3.0,4.17
+Spring,Alaska,Belt,3,268,89.33333333333333,1.0,11.11
+Spring,Alaska,Socks,3,222,74.0,1.0,11.11
+Spring,Alaska,Blouse,2,97,48.5,2.0,7.41
+Spring,Alaska,Jeans,2,143,71.5,2.0,7.41
+Spring,Alaska,Jewelry,2,137,68.5,2.0,7.41
+Spring,Alaska,Shirt,2,125,62.5,2.0,7.41
+Spring,Alaska,Shoes,2,160,80.0,2.0,7.41
+Spring,Alaska,Shorts,2,133,66.5,2.0,7.41
+Spring,Alaska,Backpack,1,88,88.0,3.0,3.7
+Spring,Alaska,Dress,1,65,65.0,3.0,3.7
+Spring,Alaska,Hat,1,37,37.0,3.0,3.7
+Spring,Alaska,Hoodie,1,60,60.0,3.0,3.7
+Spring,Alaska,Sandals,1,66,66.0,3.0,3.7
+Spring,Alaska,Scarf,1,39,39.0,3.0,3.7
+Spring,Alaska,Skirt,1,84,84.0,3.0,3.7
+Spring,Alaska,Sneakers,1,25,25.0,3.0,3.7
+Spring,Alaska,T-shirt,1,99,99.0,3.0,3.7
+Spring,Arizona,Coat,2,96,48.0,1.0,12.5
+Spring,Arizona,Sandals,2,127,63.5,1.0,12.5
+Spring,Arizona,Sweater,2,122,61.0,1.0,12.5
+Spring,Arizona,Backpack,1,61,61.0,2.0,6.25
+Spring,Arizona,Blouse,1,34,34.0,2.0,6.25
+Spring,Arizona,Handbag,1,32,32.0,2.0,6.25
+Spring,Arizona,Jewelry,1,81,81.0,2.0,6.25
+Spring,Arizona,Pants,1,98,98.0,2.0,6.25
+Spring,Arizona,Shirt,1,96,96.0,2.0,6.25
+Spring,Arizona,Shoes,1,87,87.0,2.0,6.25
+Spring,Arizona,Shorts,1,62,62.0,2.0,6.25
+Spring,Arizona,Sneakers,1,57,57.0,2.0,6.25
+Spring,Arizona,T-shirt,1,62,62.0,2.0,6.25
+Spring,Arkansas,Dress,3,180,60.0,1.0,12.5
+Spring,Arkansas,Gloves,3,229,76.33333333333333,1.0,12.5
+Spring,Arkansas,Belt,2,88,44.0,2.0,8.33
+Spring,Arkansas,Blouse,2,166,83.0,2.0,8.33
+Spring,Arkansas,Coat,2,85,42.5,2.0,8.33
+Spring,Arkansas,Jewelry,2,53,26.5,2.0,8.33
+Spring,Arkansas,Sandals,2,108,54.0,2.0,8.33
+Spring,Arkansas,Handbag,1,56,56.0,3.0,4.17
+Spring,Arkansas,Hoodie,1,53,53.0,3.0,4.17
+Spring,Arkansas,Jacket,1,22,22.0,3.0,4.17
+Spring,Arkansas,Pants,1,99,99.0,3.0,4.17
+Spring,Arkansas,Shirt,1,24,24.0,3.0,4.17
+Spring,Arkansas,Skirt,1,25,25.0,3.0,4.17
+Spring,Arkansas,Sunglasses,1,86,86.0,3.0,4.17
+Spring,Arkansas,T-shirt,1,68,68.0,3.0,4.17
+Spring,California,Handbag,2,180,90.0,1.0,8.7
+Spring,California,Sandals,2,116,58.0,1.0,8.7
+Spring,California,Scarf,2,128,64.0,1.0,8.7
+Spring,California,Shirt,2,106,53.0,1.0,8.7
+Spring,California,Shorts,2,128,64.0,1.0,8.7
+Spring,California,Skirt,2,83,41.5,1.0,8.7
+Spring,California,Sneakers,2,146,73.0,1.0,8.7
+Spring,California,Backpack,1,22,22.0,2.0,4.35
+Spring,California,Boots,1,62,62.0,2.0,4.35
+Spring,California,Gloves,1,40,40.0,2.0,4.35
+Spring,California,Hoodie,1,88,88.0,2.0,4.35
+Spring,California,Jeans,1,75,75.0,2.0,4.35
+Spring,California,Pants,1,44,44.0,2.0,4.35
+Spring,California,Sunglasses,1,77,77.0,2.0,4.35
+Spring,California,Sweater,1,60,60.0,2.0,4.35
+Spring,California,T-shirt,1,45,45.0,2.0,4.35
+Spring,Colorado,Handbag,3,164,54.666666666666664,1.0,13.64
+Spring,Colorado,Jacket,3,122,40.666666666666664,1.0,13.64
+Spring,Colorado,Sneakers,3,163,54.333333333333336,1.0,13.64
+Spring,Colorado,Hoodie,2,122,61.0,2.0,9.09
+Spring,Colorado,Backpack,1,49,49.0,3.0,4.55
+Spring,Colorado,Belt,1,44,44.0,3.0,4.55
+Spring,Colorado,Blouse,1,84,84.0,3.0,4.55
+Spring,Colorado,Dress,1,58,58.0,3.0,4.55
+Spring,Colorado,Hat,1,41,41.0,3.0,4.55
+Spring,Colorado,Pants,1,90,90.0,3.0,4.55
+Spring,Colorado,Scarf,1,90,90.0,3.0,4.55
+Spring,Colorado,Shirt,1,97,97.0,3.0,4.55
+Spring,Colorado,Shoes,1,40,40.0,3.0,4.55
+Spring,Colorado,Skirt,1,33,33.0,3.0,4.55
+Spring,Colorado,Sweater,1,54,54.0,3.0,4.55
+Spring,Connecticut,Handbag,3,168,56.0,1.0,14.29
+Spring,Connecticut,Sandals,3,78,26.0,1.0,14.29
+Spring,Connecticut,Scarf,3,244,81.33333333333333,1.0,14.29
+Spring,Connecticut,Shorts,3,200,66.66666666666667,1.0,14.29
+Spring,Connecticut,Backpack,1,95,95.0,2.0,4.76
+Spring,Connecticut,Blouse,1,84,84.0,2.0,4.76
+Spring,Connecticut,Boots,1,94,94.0,2.0,4.76
+Spring,Connecticut,Coat,1,84,84.0,2.0,4.76
+Spring,Connecticut,Hat,1,22,22.0,2.0,4.76
+Spring,Connecticut,Hoodie,1,76,76.0,2.0,4.76
+Spring,Connecticut,Jewelry,1,95,95.0,2.0,4.76
+Spring,Connecticut,Shoes,1,90,90.0,2.0,4.76
+Spring,Connecticut,Skirt,1,78,78.0,2.0,4.76
+Spring,Delaware,Blouse,3,96,32.0,1.0,13.64
+Spring,Delaware,Boots,2,89,44.5,2.0,9.09
+Spring,Delaware,Gloves,2,98,49.0,2.0,9.09
+Spring,Delaware,Jeans,2,136,68.0,2.0,9.09
+Spring,Delaware,Pants,2,163,81.5,2.0,9.09
+Spring,Delaware,Scarf,2,76,38.0,2.0,9.09
+Spring,Delaware,Belt,1,20,20.0,3.0,4.55
+Spring,Delaware,Handbag,1,65,65.0,3.0,4.55
+Spring,Delaware,Jewelry,1,28,28.0,3.0,4.55
+Spring,Delaware,Sandals,1,40,40.0,3.0,4.55
+Spring,Delaware,Shirt,1,53,53.0,3.0,4.55
+Spring,Delaware,Shorts,1,45,45.0,3.0,4.55
+Spring,Delaware,Socks,1,100,100.0,3.0,4.55
+Spring,Delaware,Sweater,1,27,27.0,3.0,4.55
+Spring,Delaware,T-shirt,1,93,93.0,3.0,4.55
+Spring,Florida,Boots,2,103,51.5,1.0,15.38
+Spring,Florida,Gloves,2,105,52.5,1.0,15.38
+Spring,Florida,Belt,1,94,94.0,2.0,7.69
+Spring,Florida,Coat,1,24,24.0,2.0,7.69
+Spring,Florida,Dress,1,60,60.0,2.0,7.69
+Spring,Florida,Jeans,1,96,96.0,2.0,7.69
+Spring,Florida,Pants,1,66,66.0,2.0,7.69
+Spring,Florida,Shoes,1,26,26.0,2.0,7.69
+Spring,Florida,Skirt,1,48,48.0,2.0,7.69
+Spring,Florida,Sneakers,1,56,56.0,2.0,7.69
+Spring,Florida,T-shirt,1,20,20.0,2.0,7.69
+Spring,Georgia,Blouse,3,191,63.666666666666664,1.0,15.0
+Spring,Georgia,Backpack,2,78,39.0,2.0,10.0
+Spring,Georgia,Dress,2,152,76.0,2.0,10.0
+Spring,Georgia,Shoes,2,136,68.0,2.0,10.0
+Spring,Georgia,Gloves,1,62,62.0,3.0,5.0
+Spring,Georgia,Handbag,1,92,92.0,3.0,5.0
+Spring,Georgia,Hat,1,70,70.0,3.0,5.0
+Spring,Georgia,Jewelry,1,42,42.0,3.0,5.0
+Spring,Georgia,Pants,1,28,28.0,3.0,5.0
+Spring,Georgia,Sandals,1,55,55.0,3.0,5.0
+Spring,Georgia,Scarf,1,25,25.0,3.0,5.0
+Spring,Georgia,Shirt,1,27,27.0,3.0,5.0
+Spring,Georgia,Shorts,1,33,33.0,3.0,5.0
+Spring,Georgia,Socks,1,63,63.0,3.0,5.0
+Spring,Georgia,Sweater,1,26,26.0,3.0,5.0
+Spring,Hawaii,Belt,2,96,48.0,1.0,14.29
+Spring,Hawaii,Pants,2,162,81.0,1.0,14.29
+Spring,Hawaii,Sweater,2,148,74.0,1.0,14.29
+Spring,Hawaii,Blouse,1,95,95.0,2.0,7.14
+Spring,Hawaii,Dress,1,42,42.0,2.0,7.14
+Spring,Hawaii,Handbag,1,42,42.0,2.0,7.14
+Spring,Hawaii,Jacket,1,92,92.0,2.0,7.14
+Spring,Hawaii,Jeans,1,76,76.0,2.0,7.14
+Spring,Hawaii,Shirt,1,34,34.0,2.0,7.14
+Spring,Hawaii,Sneakers,1,33,33.0,2.0,7.14
+Spring,Hawaii,Sunglasses,1,57,57.0,2.0,7.14
+Spring,Idaho,Shorts,3,241,80.33333333333333,1.0,11.54
+Spring,Idaho,Blouse,2,160,80.0,2.0,7.69
+Spring,Idaho,Gloves,2,92,46.0,2.0,7.69
+Spring,Idaho,Hoodie,2,158,79.0,2.0,7.69
+Spring,Idaho,Jeans,2,98,49.0,2.0,7.69
+Spring,Idaho,Sweater,2,62,31.0,2.0,7.69
+Spring,Idaho,T-shirt,2,120,60.0,2.0,7.69
+Spring,Idaho,Backpack,1,50,50.0,3.0,3.85
+Spring,Idaho,Belt,1,30,30.0,3.0,3.85
+Spring,Idaho,Coat,1,28,28.0,3.0,3.85
+Spring,Idaho,Dress,1,69,69.0,3.0,3.85
+Spring,Idaho,Handbag,1,98,98.0,3.0,3.85
+Spring,Idaho,Hat,1,25,25.0,3.0,3.85
+Spring,Idaho,Jewelry,1,80,80.0,3.0,3.85
+Spring,Idaho,Scarf,1,37,37.0,3.0,3.85
+Spring,Idaho,Skirt,1,47,47.0,3.0,3.85
+Spring,Idaho,Sneakers,1,73,73.0,3.0,3.85
+Spring,Idaho,Socks,1,57,57.0,3.0,3.85
+Spring,Illinois,Shirt,5,300,60.0,1.0,20.0
+Spring,Illinois,Sweater,3,252,84.0,2.0,12.0
+Spring,Illinois,Boots,2,145,72.5,3.0,8.0
+Spring,Illinois,Scarf,2,149,74.5,3.0,8.0
+Spring,Illinois,Backpack,1,95,95.0,4.0,4.0
+Spring,Illinois,Belt,1,28,28.0,4.0,4.0
+Spring,Illinois,Blouse,1,37,37.0,4.0,4.0
+Spring,Illinois,Hat,1,80,80.0,4.0,4.0
+Spring,Illinois,Hoodie,1,28,28.0,4.0,4.0
+Spring,Illinois,Jacket,1,89,89.0,4.0,4.0
+Spring,Illinois,Jeans,1,34,34.0,4.0,4.0
+Spring,Illinois,Jewelry,1,42,42.0,4.0,4.0
+Spring,Illinois,Pants,1,84,84.0,4.0,4.0
+Spring,Illinois,Sandals,1,51,51.0,4.0,4.0
+Spring,Illinois,Shorts,1,62,62.0,4.0,4.0
+Spring,Illinois,Skirt,1,62,62.0,4.0,4.0
+Spring,Illinois,Socks,1,82,82.0,4.0,4.0
+Spring,Indiana,Belt,2,122,61.0,1.0,8.7
+Spring,Indiana,Gloves,2,116,58.0,1.0,8.7
+Spring,Indiana,Hat,2,113,56.5,1.0,8.7
+Spring,Indiana,Jacket,2,155,77.5,1.0,8.7
+Spring,Indiana,Sandals,2,128,64.0,1.0,8.7
+Spring,Indiana,Scarf,2,101,50.5,1.0,8.7
+Spring,Indiana,Shoes,2,177,88.5,1.0,8.7
+Spring,Indiana,Socks,2,184,92.0,1.0,8.7
+Spring,Indiana,Blouse,1,42,42.0,2.0,4.35
+Spring,Indiana,Boots,1,54,54.0,2.0,4.35
+Spring,Indiana,Coat,1,48,48.0,2.0,4.35
+Spring,Indiana,Shirt,1,59,59.0,2.0,4.35
+Spring,Indiana,Shorts,1,86,86.0,2.0,4.35
+Spring,Indiana,Skirt,1,36,36.0,2.0,4.35
+Spring,Indiana,T-shirt,1,35,35.0,2.0,4.35
+Spring,Iowa,Sweater,3,195,65.0,1.0,21.43
+Spring,Iowa,Backpack,2,102,51.0,2.0,14.29
+Spring,Iowa,Boots,1,78,78.0,3.0,7.14
+Spring,Iowa,Coat,1,37,37.0,3.0,7.14
+Spring,Iowa,Dress,1,95,95.0,3.0,7.14
+Spring,Iowa,Hat,1,98,98.0,3.0,7.14
+Spring,Iowa,Jacket,1,47,47.0,3.0,7.14
+Spring,Iowa,Jewelry,1,93,93.0,3.0,7.14
+Spring,Iowa,Sandals,1,41,41.0,3.0,7.14
+Spring,Iowa,Shoes,1,63,63.0,3.0,7.14
+Spring,Iowa,Skirt,1,21,21.0,3.0,7.14
+Spring,Kansas,Blouse,3,132,44.0,1.0,15.0
+Spring,Kansas,Coat,2,146,73.0,2.0,10.0
+Spring,Kansas,Hat,2,106,53.0,2.0,10.0
+Spring,Kansas,Sandals,2,135,67.5,2.0,10.0
+Spring,Kansas,Shirt,2,111,55.5,2.0,10.0
+Spring,Kansas,Backpack,1,20,20.0,3.0,5.0
+Spring,Kansas,Belt,1,81,81.0,3.0,5.0
+Spring,Kansas,Dress,1,40,40.0,3.0,5.0
+Spring,Kansas,Jacket,1,21,21.0,3.0,5.0
+Spring,Kansas,Scarf,1,34,34.0,3.0,5.0
+Spring,Kansas,Shorts,1,37,37.0,3.0,5.0
+Spring,Kansas,Sneakers,1,55,55.0,3.0,5.0
+Spring,Kansas,Socks,1,94,94.0,3.0,5.0
+Spring,Kansas,T-shirt,1,21,21.0,3.0,5.0
+Spring,Kentucky,Sweater,4,284,71.0,1.0,16.0
+Spring,Kentucky,Coat,3,141,47.0,2.0,12.0
+Spring,Kentucky,Handbag,3,201,67.0,2.0,12.0
+Spring,Kentucky,Boots,2,138,69.0,3.0,8.0
+Spring,Kentucky,Jewelry,2,89,44.5,3.0,8.0
+Spring,Kentucky,Pants,2,73,36.5,3.0,8.0
+Spring,Kentucky,Backpack,1,77,77.0,4.0,4.0
+Spring,Kentucky,Belt,1,20,20.0,4.0,4.0
+Spring,Kentucky,Blouse,1,84,84.0,4.0,4.0
+Spring,Kentucky,Dress,1,55,55.0,4.0,4.0
+Spring,Kentucky,Gloves,1,49,49.0,4.0,4.0
+Spring,Kentucky,Hat,1,67,67.0,4.0,4.0
+Spring,Kentucky,Jacket,1,76,76.0,4.0,4.0
+Spring,Kentucky,Jeans,1,23,23.0,4.0,4.0
+Spring,Kentucky,Scarf,1,79,79.0,4.0,4.0
+Spring,Louisiana,Jewelry,4,176,44.0,1.0,16.67
+Spring,Louisiana,Shirt,3,195,65.0,2.0,12.5
+Spring,Louisiana,Sneakers,2,91,45.5,3.0,8.33
+Spring,Louisiana,Sweater,2,99,49.5,3.0,8.33
+Spring,Louisiana,Belt,1,79,79.0,4.0,4.17
+Spring,Louisiana,Blouse,1,55,55.0,4.0,4.17
+Spring,Louisiana,Boots,1,55,55.0,4.0,4.17
+Spring,Louisiana,Coat,1,44,44.0,4.0,4.17
+Spring,Louisiana,Dress,1,55,55.0,4.0,4.17
+Spring,Louisiana,Hoodie,1,61,61.0,4.0,4.17
+Spring,Louisiana,Jeans,1,51,51.0,4.0,4.17
+Spring,Louisiana,Pants,1,39,39.0,4.0,4.17
+Spring,Louisiana,Sandals,1,70,70.0,4.0,4.17
+Spring,Louisiana,Scarf,1,81,81.0,4.0,4.17
+Spring,Louisiana,Shorts,1,62,62.0,4.0,4.17
+Spring,Louisiana,Socks,1,55,55.0,4.0,4.17
+Spring,Louisiana,Sunglasses,1,27,27.0,4.0,4.17
+Spring,Maine,Boots,3,191,63.666666666666664,1.0,13.64
+Spring,Maine,Shorts,3,147,49.0,1.0,13.64
+Spring,Maine,Scarf,2,101,50.5,2.0,9.09
+Spring,Maine,Shoes,2,122,61.0,2.0,9.09
+Spring,Maine,Sneakers,2,103,51.5,2.0,9.09
+Spring,Maine,Socks,2,140,70.0,2.0,9.09
+Spring,Maine,Sweater,2,100,50.0,2.0,9.09
+Spring,Maine,T-shirt,2,152,76.0,2.0,9.09
+Spring,Maine,Hat,1,83,83.0,3.0,4.55
+Spring,Maine,Jacket,1,38,38.0,3.0,4.55
+Spring,Maine,Jeans,1,64,64.0,3.0,4.55
+Spring,Maine,Skirt,1,82,82.0,3.0,4.55
+Spring,Maryland,Belt,4,264,66.0,1.0,15.38
+Spring,Maryland,Scarf,3,101,33.666666666666664,2.0,11.54
+Spring,Maryland,Skirt,3,96,32.0,2.0,11.54
+Spring,Maryland,Gloves,2,96,48.0,3.0,7.69
+Spring,Maryland,Hoodie,2,136,68.0,3.0,7.69
+Spring,Maryland,Jacket,2,91,45.5,3.0,7.69
+Spring,Maryland,Jewelry,2,74,37.0,3.0,7.69
+Spring,Maryland,Backpack,1,42,42.0,4.0,3.85
+Spring,Maryland,Blouse,1,28,28.0,4.0,3.85
+Spring,Maryland,Boots,1,98,98.0,4.0,3.85
+Spring,Maryland,Dress,1,95,95.0,4.0,3.85
+Spring,Maryland,Sneakers,1,24,24.0,4.0,3.85
+Spring,Maryland,Socks,1,91,91.0,4.0,3.85
+Spring,Maryland,Sunglasses,1,54,54.0,4.0,3.85
+Spring,Maryland,Sweater,1,54,54.0,4.0,3.85
+Spring,Massachusetts,Boots,3,154,51.333333333333336,1.0,16.67
+Spring,Massachusetts,T-shirt,3,211,70.33333333333333,1.0,16.67
+Spring,Massachusetts,Jeans,2,136,68.0,2.0,11.11
+Spring,Massachusetts,Sunglasses,2,111,55.5,2.0,11.11
+Spring,Massachusetts,Dress,1,21,21.0,3.0,5.56
+Spring,Massachusetts,Gloves,1,84,84.0,3.0,5.56
+Spring,Massachusetts,Jacket,1,27,27.0,3.0,5.56
+Spring,Massachusetts,Pants,1,89,89.0,3.0,5.56
+Spring,Massachusetts,Sandals,1,44,44.0,3.0,5.56
+Spring,Massachusetts,Shorts,1,61,61.0,3.0,5.56
+Spring,Massachusetts,Skirt,1,98,98.0,3.0,5.56
+Spring,Massachusetts,Sweater,1,99,99.0,3.0,5.56
+Spring,Michigan,Sunglasses,3,144,48.0,1.0,17.65
+Spring,Michigan,Dress,2,167,83.5,2.0,11.76
+Spring,Michigan,Jacket,2,123,61.5,2.0,11.76
+Spring,Michigan,Skirt,2,153,76.5,2.0,11.76
+Spring,Michigan,Backpack,1,59,59.0,3.0,5.88
+Spring,Michigan,Blouse,1,39,39.0,3.0,5.88
+Spring,Michigan,Coat,1,39,39.0,3.0,5.88
+Spring,Michigan,Handbag,1,85,85.0,3.0,5.88
+Spring,Michigan,Hoodie,1,20,20.0,3.0,5.88
+Spring,Michigan,Jeans,1,73,73.0,3.0,5.88
+Spring,Michigan,Shorts,1,30,30.0,3.0,5.88
+Spring,Michigan,Sweater,1,31,31.0,3.0,5.88
+Spring,Minnesota,Sandals,3,155,51.666666666666664,1.0,13.04
+Spring,Minnesota,Backpack,2,79,39.5,2.0,8.7
+Spring,Minnesota,Coat,2,110,55.0,2.0,8.7
+Spring,Minnesota,Dress,2,89,44.5,2.0,8.7
+Spring,Minnesota,Handbag,2,74,37.0,2.0,8.7
+Spring,Minnesota,Skirt,2,69,34.5,2.0,8.7
+Spring,Minnesota,Sneakers,2,117,58.5,2.0,8.7
+Spring,Minnesota,Gloves,1,88,88.0,3.0,4.35
+Spring,Minnesota,Jacket,1,81,81.0,3.0,4.35
+Spring,Minnesota,Jeans,1,35,35.0,3.0,4.35
+Spring,Minnesota,Shirt,1,70,70.0,3.0,4.35
+Spring,Minnesota,Shoes,1,99,99.0,3.0,4.35
+Spring,Minnesota,Sunglasses,1,31,31.0,3.0,4.35
+Spring,Minnesota,Sweater,1,86,86.0,3.0,4.35
+Spring,Minnesota,T-shirt,1,51,51.0,3.0,4.35
+Spring,Mississippi,Dress,2,92,46.0,1.0,13.33
+Spring,Mississippi,Pants,2,120,60.0,1.0,13.33
+Spring,Mississippi,Shorts,2,111,55.5,1.0,13.33
+Spring,Mississippi,Backpack,1,83,83.0,2.0,6.67
+Spring,Mississippi,Blouse,1,82,82.0,2.0,6.67
+Spring,Mississippi,Coat,1,70,70.0,2.0,6.67
+Spring,Mississippi,Hat,1,69,69.0,2.0,6.67
+Spring,Mississippi,Jeans,1,29,29.0,2.0,6.67
+Spring,Mississippi,Sandals,1,39,39.0,2.0,6.67
+Spring,Mississippi,Shirt,1,99,99.0,2.0,6.67
+Spring,Mississippi,Sneakers,1,21,21.0,2.0,6.67
+Spring,Mississippi,T-shirt,1,50,50.0,2.0,6.67
+Spring,Missouri,Jeans,4,289,72.25,1.0,17.39
+Spring,Missouri,Sneakers,3,248,82.66666666666667,2.0,13.04
+Spring,Missouri,Boots,2,151,75.5,3.0,8.7
+Spring,Missouri,Handbag,2,54,27.0,3.0,8.7
+Spring,Missouri,Shirt,2,159,79.5,3.0,8.7
+Spring,Missouri,Sunglasses,2,143,71.5,3.0,8.7
+Spring,Missouri,Sweater,2,92,46.0,3.0,8.7
+Spring,Missouri,Backpack,1,94,94.0,4.0,4.35
+Spring,Missouri,Belt,1,22,22.0,4.0,4.35
+Spring,Missouri,Hat,1,73,73.0,4.0,4.35
+Spring,Missouri,Jewelry,1,29,29.0,4.0,4.35
+Spring,Missouri,Pants,1,99,99.0,4.0,4.35
+Spring,Missouri,Socks,1,24,24.0,4.0,4.35
+Spring,Montana,Backpack,2,88,44.0,1.0,8.0
+Spring,Montana,Boots,2,47,23.5,1.0,8.0
+Spring,Montana,Coat,2,166,83.0,1.0,8.0
+Spring,Montana,Gloves,2,82,41.0,1.0,8.0
+Spring,Montana,Shorts,2,93,46.5,1.0,8.0
+Spring,Montana,Socks,2,172,86.0,1.0,8.0
+Spring,Montana,Sweater,2,106,53.0,1.0,8.0
+Spring,Montana,Belt,1,91,91.0,2.0,4.0
+Spring,Montana,Blouse,1,78,78.0,2.0,4.0
+Spring,Montana,Handbag,1,87,87.0,2.0,4.0
+Spring,Montana,Hoodie,1,25,25.0,2.0,4.0
+Spring,Montana,Jeans,1,24,24.0,2.0,4.0
+Spring,Montana,Pants,1,52,52.0,2.0,4.0
+Spring,Montana,Sandals,1,21,21.0,2.0,4.0
+Spring,Montana,Scarf,1,23,23.0,2.0,4.0
+Spring,Montana,Shirt,1,65,65.0,2.0,4.0
+Spring,Montana,Sneakers,1,28,28.0,2.0,4.0
+Spring,Montana,T-shirt,1,76,76.0,2.0,4.0
+Spring,Nebraska,Backpack,3,139,46.333333333333336,1.0,12.5
+Spring,Nebraska,Jewelry,3,208,69.33333333333333,1.0,12.5
+Spring,Nebraska,Sweater,3,193,64.33333333333333,1.0,12.5
+Spring,Nebraska,Hat,2,135,67.5,2.0,8.33
+Spring,Nebraska,Sunglasses,2,46,23.0,2.0,8.33
+Spring,Nebraska,Belt,1,54,54.0,3.0,4.17
+Spring,Nebraska,Boots,1,64,64.0,3.0,4.17
+Spring,Nebraska,Coat,1,71,71.0,3.0,4.17
+Spring,Nebraska,Dress,1,50,50.0,3.0,4.17
+Spring,Nebraska,Gloves,1,56,56.0,3.0,4.17
+Spring,Nebraska,Sandals,1,25,25.0,3.0,4.17
+Spring,Nebraska,Scarf,1,22,22.0,3.0,4.17
+Spring,Nebraska,Shirt,1,96,96.0,3.0,4.17
+Spring,Nebraska,Shorts,1,42,42.0,3.0,4.17
+Spring,Nebraska,Skirt,1,91,91.0,3.0,4.17
+Spring,Nebraska,Socks,1,36,36.0,3.0,4.17
+Spring,Nevada,Hoodie,3,230,76.66666666666667,1.0,10.71
+Spring,Nevada,Skirt,3,241,80.33333333333333,1.0,10.71
+Spring,Nevada,Socks,3,196,65.33333333333333,1.0,10.71
+Spring,Nevada,Backpack,2,161,80.5,2.0,7.14
+Spring,Nevada,Belt,2,158,79.0,2.0,7.14
+Spring,Nevada,Handbag,2,82,41.0,2.0,7.14
+Spring,Nevada,Jewelry,2,88,44.0,2.0,7.14
+Spring,Nevada,Pants,2,108,54.0,2.0,7.14
+Spring,Nevada,Shoes,2,132,66.0,2.0,7.14
+Spring,Nevada,T-shirt,2,167,83.5,2.0,7.14
+Spring,Nevada,Blouse,1,47,47.0,3.0,3.57
+Spring,Nevada,Dress,1,39,39.0,3.0,3.57
+Spring,Nevada,Shorts,1,95,95.0,3.0,3.57
+Spring,Nevada,Sunglasses,1,86,86.0,3.0,3.57
+Spring,Nevada,Sweater,1,86,86.0,3.0,3.57
+Spring,New Hampshire,Backpack,2,156,78.0,1.0,10.53
+Spring,New Hampshire,Coat,2,105,52.5,1.0,10.53
+Spring,New Hampshire,Dress,2,95,47.5,1.0,10.53
+Spring,New Hampshire,Shirt,2,106,53.0,1.0,10.53
+Spring,New Hampshire,Sunglasses,2,103,51.5,1.0,10.53
+Spring,New Hampshire,Belt,1,73,73.0,2.0,5.26
+Spring,New Hampshire,Blouse,1,23,23.0,2.0,5.26
+Spring,New Hampshire,Boots,1,60,60.0,2.0,5.26
+Spring,New Hampshire,Gloves,1,41,41.0,2.0,5.26
+Spring,New Hampshire,Hat,1,54,54.0,2.0,5.26
+Spring,New Hampshire,Jacket,1,94,94.0,2.0,5.26
+Spring,New Hampshire,Scarf,1,77,77.0,2.0,5.26
+Spring,New Hampshire,Socks,1,79,79.0,2.0,5.26
+Spring,New Hampshire,Sweater,1,41,41.0,2.0,5.26
+Spring,New Jersey,Belt,3,195,65.0,1.0,13.04
+Spring,New Jersey,Coat,2,66,33.0,2.0,8.7
+Spring,New Jersey,Jacket,2,169,84.5,2.0,8.7
+Spring,New Jersey,Pants,2,163,81.5,2.0,8.7
+Spring,New Jersey,Sweater,2,113,56.5,2.0,8.7
+Spring,New Jersey,Backpack,1,36,36.0,3.0,4.35
+Spring,New Jersey,Boots,1,82,82.0,3.0,4.35
+Spring,New Jersey,Gloves,1,59,59.0,3.0,4.35
+Spring,New Jersey,Handbag,1,24,24.0,3.0,4.35
+Spring,New Jersey,Hoodie,1,30,30.0,3.0,4.35
+Spring,New Jersey,Sandals,1,65,65.0,3.0,4.35
+Spring,New Jersey,Scarf,1,64,64.0,3.0,4.35
+Spring,New Jersey,Shoes,1,51,51.0,3.0,4.35
+Spring,New Jersey,Shorts,1,72,72.0,3.0,4.35
+Spring,New Jersey,Skirt,1,20,20.0,3.0,4.35
+Spring,New Jersey,Sneakers,1,45,45.0,3.0,4.35
+Spring,New Jersey,Sunglasses,1,71,71.0,3.0,4.35
+Spring,New Mexico,Hoodie,3,272,90.66666666666667,1.0,15.79
+Spring,New Mexico,Pants,2,138,69.0,2.0,10.53
+Spring,New Mexico,Sandals,2,88,44.0,2.0,10.53
+Spring,New Mexico,Shoes,2,143,71.5,2.0,10.53
+Spring,New Mexico,Backpack,1,93,93.0,3.0,5.26
+Spring,New Mexico,Blouse,1,49,49.0,3.0,5.26
+Spring,New Mexico,Coat,1,21,21.0,3.0,5.26
+Spring,New Mexico,Jacket,1,61,61.0,3.0,5.26
+Spring,New Mexico,Jeans,1,50,50.0,3.0,5.26
+Spring,New Mexico,Jewelry,1,21,21.0,3.0,5.26
+Spring,New Mexico,Scarf,1,85,85.0,3.0,5.26
+Spring,New Mexico,Shirt,1,93,93.0,3.0,5.26
+Spring,New Mexico,Sneakers,1,27,27.0,3.0,5.26
+Spring,New Mexico,Socks,1,28,28.0,3.0,5.26
+Spring,New York,Dress,3,184,61.333333333333336,1.0,18.75
+Spring,New York,Gloves,2,145,72.5,2.0,12.5
+Spring,New York,Jewelry,2,154,77.0,2.0,12.5
+Spring,New York,Scarf,2,46,23.0,2.0,12.5
+Spring,New York,Shoes,2,86,43.0,2.0,12.5
+Spring,New York,Belt,1,71,71.0,3.0,6.25
+Spring,New York,Hoodie,1,20,20.0,3.0,6.25
+Spring,New York,Jeans,1,67,67.0,3.0,6.25
+Spring,New York,Shorts,1,62,62.0,3.0,6.25
+Spring,New York,Sweater,1,78,78.0,3.0,6.25
+Spring,North Carolina,Boots,2,77,38.5,1.0,7.41
+Spring,North Carolina,Gloves,2,106,53.0,1.0,7.41
+Spring,North Carolina,Handbag,2,109,54.5,1.0,7.41
+Spring,North Carolina,Hoodie,2,174,87.0,1.0,7.41
+Spring,North Carolina,Sandals,2,126,63.0,1.0,7.41
+Spring,North Carolina,Skirt,2,147,73.5,1.0,7.41
+Spring,North Carolina,Sneakers,2,56,28.0,1.0,7.41
+Spring,North Carolina,Socks,2,105,52.5,1.0,7.41
+Spring,North Carolina,Sweater,2,130,65.0,1.0,7.41
+Spring,North Carolina,Backpack,1,22,22.0,2.0,3.7
+Spring,North Carolina,Blouse,1,68,68.0,2.0,3.7
+Spring,North Carolina,Jacket,1,24,24.0,2.0,3.7
+Spring,North Carolina,Jewelry,1,76,76.0,2.0,3.7
+Spring,North Carolina,Pants,1,52,52.0,2.0,3.7
+Spring,North Carolina,Shirt,1,84,84.0,2.0,3.7
+Spring,North Carolina,Shoes,1,64,64.0,2.0,3.7
+Spring,North Carolina,Shorts,1,42,42.0,2.0,3.7
+Spring,North Carolina,T-shirt,1,93,93.0,2.0,3.7
+Spring,North Dakota,Coat,4,272,68.0,1.0,23.53
+Spring,North Dakota,Blouse,2,155,77.5,2.0,11.76
+Spring,North Dakota,Jacket,2,132,66.0,2.0,11.76
+Spring,North Dakota,Socks,2,144,72.0,2.0,11.76
+Spring,North Dakota,Sunglasses,2,182,91.0,2.0,11.76
+Spring,North Dakota,Jeans,1,33,33.0,3.0,5.88
+Spring,North Dakota,Scarf,1,29,29.0,3.0,5.88
+Spring,North Dakota,Shoes,1,59,59.0,3.0,5.88
+Spring,North Dakota,Sweater,1,67,67.0,3.0,5.88
+Spring,North Dakota,T-shirt,1,91,91.0,3.0,5.88
+Spring,Ohio,Backpack,1,40,40.0,1.0,10.0
+Spring,Ohio,Blouse,1,86,86.0,1.0,10.0
+Spring,Ohio,Boots,1,87,87.0,1.0,10.0
+Spring,Ohio,Coat,1,30,30.0,1.0,10.0
+Spring,Ohio,Gloves,1,22,22.0,1.0,10.0
+Spring,Ohio,Jewelry,1,78,78.0,1.0,10.0
+Spring,Ohio,Pants,1,25,25.0,1.0,10.0
+Spring,Ohio,Sandals,1,28,28.0,1.0,10.0
+Spring,Ohio,Skirt,1,29,29.0,1.0,10.0
+Spring,Ohio,T-shirt,1,76,76.0,1.0,10.0
+Spring,Oklahoma,Belt,2,100,50.0,1.0,12.5
+Spring,Oklahoma,Hoodie,2,125,62.5,1.0,12.5
+Spring,Oklahoma,Shoes,2,88,44.0,1.0,12.5
+Spring,Oklahoma,Shorts,2,97,48.5,1.0,12.5
+Spring,Oklahoma,Sunglasses,2,69,34.5,1.0,12.5
+Spring,Oklahoma,Handbag,1,39,39.0,2.0,6.25
+Spring,Oklahoma,Hat,1,80,80.0,2.0,6.25
+Spring,Oklahoma,Jacket,1,20,20.0,2.0,6.25
+Spring,Oklahoma,Sandals,1,83,83.0,2.0,6.25
+Spring,Oklahoma,Shirt,1,66,66.0,2.0,6.25
+Spring,Oklahoma,Sweater,1,20,20.0,2.0,6.25
+Spring,Oregon,Belt,3,132,44.0,1.0,14.29
+Spring,Oregon,T-shirt,3,231,77.0,1.0,14.29
+Spring,Oregon,Blouse,2,121,60.5,2.0,9.52
+Spring,Oregon,Coat,2,94,47.0,2.0,9.52
+Spring,Oregon,Skirt,2,113,56.5,2.0,9.52
+Spring,Oregon,Sneakers,2,125,62.5,2.0,9.52
+Spring,Oregon,Boots,1,82,82.0,3.0,4.76
+Spring,Oregon,Hat,1,96,96.0,3.0,4.76
+Spring,Oregon,Jacket,1,26,26.0,3.0,4.76
+Spring,Oregon,Jeans,1,47,47.0,3.0,4.76
+Spring,Oregon,Shirt,1,82,82.0,3.0,4.76
+Spring,Oregon,Socks,1,76,76.0,3.0,4.76
+Spring,Oregon,Sweater,1,85,85.0,3.0,4.76
+Spring,Pennsylvania,Skirt,3,267,89.0,1.0,17.65
+Spring,Pennsylvania,Shirt,2,127,63.5,2.0,11.76
+Spring,Pennsylvania,Backpack,1,94,94.0,3.0,5.88
+Spring,Pennsylvania,Belt,1,57,57.0,3.0,5.88
+Spring,Pennsylvania,Boots,1,79,79.0,3.0,5.88
+Spring,Pennsylvania,Coat,1,24,24.0,3.0,5.88
+Spring,Pennsylvania,Dress,1,100,100.0,3.0,5.88
+Spring,Pennsylvania,Gloves,1,72,72.0,3.0,5.88
+Spring,Pennsylvania,Handbag,1,52,52.0,3.0,5.88
+Spring,Pennsylvania,Hat,1,29,29.0,3.0,5.88
+Spring,Pennsylvania,Scarf,1,81,81.0,3.0,5.88
+Spring,Pennsylvania,Shoes,1,49,49.0,3.0,5.88
+Spring,Pennsylvania,Shorts,1,33,33.0,3.0,5.88
+Spring,Pennsylvania,Socks,1,79,79.0,3.0,5.88
+Spring,Rhode Island,Shorts,3,136,45.333333333333336,1.0,17.65
+Spring,Rhode Island,Blouse,2,158,79.0,2.0,11.76
+Spring,Rhode Island,Gloves,2,158,79.0,2.0,11.76
+Spring,Rhode Island,Sandals,2,120,60.0,2.0,11.76
+Spring,Rhode Island,Shirt,2,114,57.0,2.0,11.76
+Spring,Rhode Island,Backpack,1,72,72.0,3.0,5.88
+Spring,Rhode Island,Boots,1,82,82.0,3.0,5.88
+Spring,Rhode Island,Jewelry,1,25,25.0,3.0,5.88
+Spring,Rhode Island,Socks,1,48,48.0,3.0,5.88
+Spring,Rhode Island,Sunglasses,1,41,41.0,3.0,5.88
+Spring,Rhode Island,Sweater,1,53,53.0,3.0,5.88
+Spring,South Carolina,Dress,3,140,46.666666666666664,1.0,12.0
+Spring,South Carolina,Hoodie,3,184,61.333333333333336,1.0,12.0
+Spring,South Carolina,Gloves,2,89,44.5,2.0,8.0
+Spring,South Carolina,Pants,2,141,70.5,2.0,8.0
+Spring,South Carolina,Shoes,2,152,76.0,2.0,8.0
+Spring,South Carolina,Skirt,2,104,52.0,2.0,8.0
+Spring,South Carolina,Socks,2,61,30.5,2.0,8.0
+Spring,South Carolina,Backpack,1,76,76.0,3.0,4.0
+Spring,South Carolina,Blouse,1,39,39.0,3.0,4.0
+Spring,South Carolina,Boots,1,63,63.0,3.0,4.0
+Spring,South Carolina,Handbag,1,61,61.0,3.0,4.0
+Spring,South Carolina,Hat,1,63,63.0,3.0,4.0
+Spring,South Carolina,Jewelry,1,25,25.0,3.0,4.0
+Spring,South Carolina,Sneakers,1,88,88.0,3.0,4.0
+Spring,South Carolina,Sunglasses,1,84,84.0,3.0,4.0
+Spring,South Carolina,Sweater,1,60,60.0,3.0,4.0
+Spring,South Dakota,Jeans,2,53,26.5,1.0,13.33
+Spring,South Dakota,Jewelry,2,80,40.0,1.0,13.33
+Spring,South Dakota,Shorts,2,58,29.0,1.0,13.33
+Spring,South Dakota,Socks,2,75,37.5,1.0,13.33
+Spring,South Dakota,Backpack,1,30,30.0,2.0,6.67
+Spring,South Dakota,Belt,1,63,63.0,2.0,6.67
+Spring,South Dakota,Blouse,1,41,41.0,2.0,6.67
+Spring,South Dakota,Coat,1,20,20.0,2.0,6.67
+Spring,South Dakota,Hat,1,77,77.0,2.0,6.67
+Spring,South Dakota,Sandals,1,68,68.0,2.0,6.67
+Spring,South Dakota,Sweater,1,61,61.0,2.0,6.67
+Spring,Tennessee,Gloves,3,253,84.33333333333333,1.0,13.64
+Spring,Tennessee,Dress,2,94,47.0,2.0,9.09
+Spring,Tennessee,Jacket,2,122,61.0,2.0,9.09
+Spring,Tennessee,Blouse,1,26,26.0,3.0,4.55
+Spring,Tennessee,Coat,1,100,100.0,3.0,4.55
+Spring,Tennessee,Handbag,1,61,61.0,3.0,4.55
+Spring,Tennessee,Hoodie,1,23,23.0,3.0,4.55
+Spring,Tennessee,Jeans,1,98,98.0,3.0,4.55
+Spring,Tennessee,Jewelry,1,26,26.0,3.0,4.55
+Spring,Tennessee,Sandals,1,50,50.0,3.0,4.55
+Spring,Tennessee,Scarf,1,51,51.0,3.0,4.55
+Spring,Tennessee,Shoes,1,44,44.0,3.0,4.55
+Spring,Tennessee,Shorts,1,72,72.0,3.0,4.55
+Spring,Tennessee,Skirt,1,62,62.0,3.0,4.55
+Spring,Tennessee,Sneakers,1,25,25.0,3.0,4.55
+Spring,Tennessee,Socks,1,31,31.0,3.0,4.55
+Spring,Tennessee,Sweater,1,86,86.0,3.0,4.55
+Spring,Tennessee,T-shirt,1,33,33.0,3.0,4.55
+Spring,Texas,Shoes,5,291,58.2,1.0,35.71
+Spring,Texas,Sunglasses,2,123,61.5,2.0,14.29
+Spring,Texas,Gloves,1,32,32.0,3.0,7.14
+Spring,Texas,Handbag,1,29,29.0,3.0,7.14
+Spring,Texas,Jeans,1,58,58.0,3.0,7.14
+Spring,Texas,Sandals,1,63,63.0,3.0,7.14
+Spring,Texas,Skirt,1,86,86.0,3.0,7.14
+Spring,Texas,Socks,1,35,35.0,3.0,7.14
+Spring,Texas,Sweater,1,93,93.0,3.0,7.14
+Spring,Utah,Dress,2,187,93.5,1.0,16.67
+Spring,Utah,T-shirt,2,164,82.0,1.0,16.67
+Spring,Utah,Boots,1,37,37.0,2.0,8.33
+Spring,Utah,Gloves,1,45,45.0,2.0,8.33
+Spring,Utah,Hat,1,33,33.0,2.0,8.33
+Spring,Utah,Jewelry,1,91,91.0,2.0,8.33
+Spring,Utah,Shoes,1,99,99.0,2.0,8.33
+Spring,Utah,Shorts,1,73,73.0,2.0,8.33
+Spring,Utah,Sneakers,1,73,73.0,2.0,8.33
+Spring,Utah,Sunglasses,1,50,50.0,2.0,8.33
+Spring,Vermont,Dress,2,135,67.5,1.0,14.29
+Spring,Vermont,Hoodie,2,97,48.5,1.0,14.29
+Spring,Vermont,Shorts,2,130,65.0,1.0,14.29
+Spring,Vermont,T-shirt,2,70,35.0,1.0,14.29
+Spring,Vermont,Backpack,1,30,30.0,2.0,7.14
+Spring,Vermont,Jacket,1,53,53.0,2.0,7.14
+Spring,Vermont,Jewelry,1,53,53.0,2.0,7.14
+Spring,Vermont,Sandals,1,98,98.0,2.0,7.14
+Spring,Vermont,Shoes,1,90,90.0,2.0,7.14
+Spring,Vermont,Sneakers,1,54,54.0,2.0,7.14
+Spring,Virginia,Shirt,2,137,68.5,1.0,11.76
+Spring,Virginia,Skirt,2,138,69.0,1.0,11.76
+Spring,Virginia,Blouse,1,53,53.0,2.0,5.88
+Spring,Virginia,Boots,1,42,42.0,2.0,5.88
+Spring,Virginia,Coat,1,27,27.0,2.0,5.88
+Spring,Virginia,Dress,1,40,40.0,2.0,5.88
+Spring,Virginia,Gloves,1,68,68.0,2.0,5.88
+Spring,Virginia,Jacket,1,98,98.0,2.0,5.88
+Spring,Virginia,Scarf,1,91,91.0,2.0,5.88
+Spring,Virginia,Shoes,1,86,86.0,2.0,5.88
+Spring,Virginia,Shorts,1,52,52.0,2.0,5.88
+Spring,Virginia,Sneakers,1,69,69.0,2.0,5.88
+Spring,Virginia,Socks,1,22,22.0,2.0,5.88
+Spring,Virginia,Sweater,1,26,26.0,2.0,5.88
+Spring,Virginia,T-shirt,1,99,99.0,2.0,5.88
+Spring,Washington,Belt,2,84,42.0,1.0,8.33
+Spring,Washington,Coat,2,138,69.0,1.0,8.33
+Spring,Washington,Dress,2,149,74.5,1.0,8.33
+Spring,Washington,Skirt,2,112,56.0,1.0,8.33
+Spring,Washington,Sneakers,2,166,83.0,1.0,8.33
+Spring,Washington,Socks,2,89,44.5,1.0,8.33
+Spring,Washington,Backpack,1,40,40.0,2.0,4.17
+Spring,Washington,Blouse,1,97,97.0,2.0,4.17
+Spring,Washington,Hoodie,1,67,67.0,2.0,4.17
+Spring,Washington,Jacket,1,81,81.0,2.0,4.17
+Spring,Washington,Jewelry,1,37,37.0,2.0,4.17
+Spring,Washington,Pants,1,32,32.0,2.0,4.17
+Spring,Washington,Sandals,1,34,34.0,2.0,4.17
+Spring,Washington,Scarf,1,58,58.0,2.0,4.17
+Spring,Washington,Shirt,1,46,46.0,2.0,4.17
+Spring,Washington,Shorts,1,82,82.0,2.0,4.17
+Spring,Washington,Sunglasses,1,63,63.0,2.0,4.17
+Spring,Washington,T-shirt,1,82,82.0,2.0,4.17
+Spring,West Virginia,Coat,3,185,61.666666666666664,1.0,13.64
+Spring,West Virginia,T-shirt,3,192,64.0,1.0,13.64
+Spring,West Virginia,Boots,2,107,53.5,2.0,9.09
+Spring,West Virginia,Handbag,2,102,51.0,2.0,9.09
+Spring,West Virginia,Hat,2,146,73.0,2.0,9.09
+Spring,West Virginia,Scarf,2,88,44.0,2.0,9.09
+Spring,West Virginia,Sunglasses,2,160,80.0,2.0,9.09
+Spring,West Virginia,Blouse,1,77,77.0,3.0,4.55
+Spring,West Virginia,Jeans,1,93,93.0,3.0,4.55
+Spring,West Virginia,Jewelry,1,37,37.0,3.0,4.55
+Spring,West Virginia,Sandals,1,94,94.0,3.0,4.55
+Spring,West Virginia,Skirt,1,63,63.0,3.0,4.55
+Spring,West Virginia,Sneakers,1,67,67.0,3.0,4.55
+Spring,Wisconsin,Jewelry,2,118,59.0,1.0,20.0
+Spring,Wisconsin,Backpack,1,35,35.0,2.0,10.0
+Spring,Wisconsin,Gloves,1,67,67.0,2.0,10.0
+Spring,Wisconsin,Hoodie,1,42,42.0,2.0,10.0
+Spring,Wisconsin,Jacket,1,23,23.0,2.0,10.0
+Spring,Wisconsin,Sandals,1,35,35.0,2.0,10.0
+Spring,Wisconsin,Scarf,1,58,58.0,2.0,10.0
+Spring,Wisconsin,Shorts,1,97,97.0,2.0,10.0
+Spring,Wisconsin,Skirt,1,38,38.0,2.0,10.0
+Spring,Wyoming,Hoodie,2,88,44.0,1.0,11.11
+Spring,Wyoming,Scarf,2,95,47.5,1.0,11.11
+Spring,Wyoming,Skirt,2,170,85.0,1.0,11.11
+Spring,Wyoming,Blouse,1,99,99.0,2.0,5.56
+Spring,Wyoming,Boots,1,68,68.0,2.0,5.56
+Spring,Wyoming,Gloves,1,45,45.0,2.0,5.56
+Spring,Wyoming,Handbag,1,51,51.0,2.0,5.56
+Spring,Wyoming,Hat,1,28,28.0,2.0,5.56
+Spring,Wyoming,Jacket,1,57,57.0,2.0,5.56
+Spring,Wyoming,Pants,1,41,41.0,2.0,5.56
+Spring,Wyoming,Sandals,1,80,80.0,2.0,5.56
+Spring,Wyoming,Shirt,1,38,38.0,2.0,5.56
+Spring,Wyoming,Shoes,1,23,23.0,2.0,5.56
+Spring,Wyoming,Socks,1,32,32.0,2.0,5.56
+Spring,Wyoming,Sunglasses,1,60,60.0,2.0,5.56
+Summer,Alabama,Hat,3,228,76.0,1.0,12.5
+Summer,Alabama,Dress,2,130,65.0,2.0,8.33
+Summer,Alabama,Handbag,2,122,61.0,2.0,8.33
+Summer,Alabama,Jeans,2,152,76.0,2.0,8.33
+Summer,Alabama,Jewelry,2,121,60.5,2.0,8.33
+Summer,Alabama,Pants,2,123,61.5,2.0,8.33
+Summer,Alabama,Shirt,2,99,49.5,2.0,8.33
+Summer,Alabama,Boots,1,99,99.0,3.0,4.17
+Summer,Alabama,Coat,1,32,32.0,3.0,4.17
+Summer,Alabama,Gloves,1,96,96.0,3.0,4.17
+Summer,Alabama,Hoodie,1,29,29.0,3.0,4.17
+Summer,Alabama,Sandals,1,34,34.0,3.0,4.17
+Summer,Alabama,Scarf,1,87,87.0,3.0,4.17
+Summer,Alabama,Shoes,1,88,88.0,3.0,4.17
+Summer,Alabama,Shorts,1,71,71.0,3.0,4.17
+Summer,Alabama,Socks,1,99,99.0,3.0,4.17
+Summer,Alaska,Dress,2,150,75.0,1.0,16.67
+Summer,Alaska,T-shirt,2,84,42.0,1.0,16.67
+Summer,Alaska,Backpack,1,94,94.0,2.0,8.33
+Summer,Alaska,Boots,1,56,56.0,2.0,8.33
+Summer,Alaska,Gloves,1,44,44.0,2.0,8.33
+Summer,Alaska,Handbag,1,45,45.0,2.0,8.33
+Summer,Alaska,Hoodie,1,53,53.0,2.0,8.33
+Summer,Alaska,Jewelry,1,69,69.0,2.0,8.33
+Summer,Alaska,Shirt,1,33,33.0,2.0,8.33
+Summer,Alaska,Sneakers,1,99,99.0,2.0,8.33
+Summer,Arizona,Backpack,2,131,65.5,1.0,11.11
+Summer,Arizona,Jacket,2,157,78.5,1.0,11.11
+Summer,Arizona,Skirt,2,99,49.5,1.0,11.11
+Summer,Arizona,Belt,1,85,85.0,2.0,5.56
+Summer,Arizona,Blouse,1,77,77.0,2.0,5.56
+Summer,Arizona,Dress,1,71,71.0,2.0,5.56
+Summer,Arizona,Gloves,1,87,87.0,2.0,5.56
+Summer,Arizona,Hoodie,1,22,22.0,2.0,5.56
+Summer,Arizona,Jeans,1,31,31.0,2.0,5.56
+Summer,Arizona,Jewelry,1,55,55.0,2.0,5.56
+Summer,Arizona,Pants,1,60,60.0,2.0,5.56
+Summer,Arizona,Sandals,1,100,100.0,2.0,5.56
+Summer,Arizona,Shorts,1,30,30.0,2.0,5.56
+Summer,Arizona,Socks,1,29,29.0,2.0,5.56
+Summer,Arizona,Sunglasses,1,43,43.0,2.0,5.56
+Summer,Arkansas,Shirt,3,195,65.0,1.0,15.0
+Summer,Arkansas,Backpack,2,173,86.5,2.0,10.0
+Summer,Arkansas,Hat,2,70,35.0,2.0,10.0
+Summer,Arkansas,Belt,1,81,81.0,3.0,5.0
+Summer,Arkansas,Boots,1,50,50.0,3.0,5.0
+Summer,Arkansas,Coat,1,48,48.0,3.0,5.0
+Summer,Arkansas,Gloves,1,91,91.0,3.0,5.0
+Summer,Arkansas,Handbag,1,44,44.0,3.0,5.0
+Summer,Arkansas,Jeans,1,89,89.0,3.0,5.0
+Summer,Arkansas,Pants,1,90,90.0,3.0,5.0
+Summer,Arkansas,Shoes,1,99,99.0,3.0,5.0
+Summer,Arkansas,Shorts,1,98,98.0,3.0,5.0
+Summer,Arkansas,Skirt,1,64,64.0,3.0,5.0
+Summer,Arkansas,Sneakers,1,69,69.0,3.0,5.0
+Summer,Arkansas,Sunglasses,1,26,26.0,3.0,5.0
+Summer,Arkansas,Sweater,1,76,76.0,3.0,5.0
+Summer,California,Dress,4,249,62.25,1.0,17.39
+Summer,California,Shirt,3,108,36.0,2.0,13.04
+Summer,California,Sunglasses,3,176,58.666666666666664,2.0,13.04
+Summer,California,Backpack,2,91,45.5,3.0,8.7
+Summer,California,Pants,2,105,52.5,3.0,8.7
+Summer,California,Blouse,1,57,57.0,4.0,4.35
+Summer,California,Coat,1,80,80.0,4.0,4.35
+Summer,California,Gloves,1,66,66.0,4.0,4.35
+Summer,California,Handbag,1,59,59.0,4.0,4.35
+Summer,California,Jeans,1,53,53.0,4.0,4.35
+Summer,California,Jewelry,1,51,51.0,4.0,4.35
+Summer,California,Sandals,1,38,38.0,4.0,4.35
+Summer,California,Shorts,1,41,41.0,4.0,4.35
+Summer,California,Socks,1,83,83.0,4.0,4.35
+Summer,Colorado,Backpack,2,130,65.0,1.0,11.11
+Summer,Colorado,Gloves,2,110,55.0,1.0,11.11
+Summer,Colorado,Skirt,2,116,58.0,1.0,11.11
+Summer,Colorado,Dress,1,28,28.0,2.0,5.56
+Summer,Colorado,Handbag,1,41,41.0,2.0,5.56
+Summer,Colorado,Hat,1,60,60.0,2.0,5.56
+Summer,Colorado,Hoodie,1,32,32.0,2.0,5.56
+Summer,Colorado,Jacket,1,39,39.0,2.0,5.56
+Summer,Colorado,Jewelry,1,93,93.0,2.0,5.56
+Summer,Colorado,Pants,1,38,38.0,2.0,5.56
+Summer,Colorado,Scarf,1,46,46.0,2.0,5.56
+Summer,Colorado,Shirt,1,29,29.0,2.0,5.56
+Summer,Colorado,Shoes,1,89,89.0,2.0,5.56
+Summer,Colorado,Sneakers,1,55,55.0,2.0,5.56
+Summer,Colorado,T-shirt,1,85,85.0,2.0,5.56
+Summer,Connecticut,Boots,2,65,32.5,1.0,13.33
+Summer,Connecticut,Dress,2,117,58.5,1.0,13.33
+Summer,Connecticut,Jacket,2,81,40.5,1.0,13.33
+Summer,Connecticut,Shirt,2,114,57.0,1.0,13.33
+Summer,Connecticut,Blouse,1,75,75.0,2.0,6.67
+Summer,Connecticut,Coat,1,37,37.0,2.0,6.67
+Summer,Connecticut,Gloves,1,53,53.0,2.0,6.67
+Summer,Connecticut,Handbag,1,58,58.0,2.0,6.67
+Summer,Connecticut,Jewelry,1,82,82.0,2.0,6.67
+Summer,Connecticut,Shoes,1,61,61.0,2.0,6.67
+Summer,Connecticut,Skirt,1,44,44.0,2.0,6.67
+Summer,Delaware,Dress,3,129,43.0,1.0,15.0
+Summer,Delaware,Blouse,2,115,57.5,2.0,10.0
+Summer,Delaware,Shoes,2,103,51.5,2.0,10.0
+Summer,Delaware,T-shirt,2,107,53.5,2.0,10.0
+Summer,Delaware,Backpack,1,49,49.0,3.0,5.0
+Summer,Delaware,Belt,1,49,49.0,3.0,5.0
+Summer,Delaware,Gloves,1,97,97.0,3.0,5.0
+Summer,Delaware,Hat,1,43,43.0,3.0,5.0
+Summer,Delaware,Pants,1,76,76.0,3.0,5.0
+Summer,Delaware,Sandals,1,91,91.0,3.0,5.0
+Summer,Delaware,Scarf,1,45,45.0,3.0,5.0
+Summer,Delaware,Shirt,1,29,29.0,3.0,5.0
+Summer,Delaware,Shorts,1,41,41.0,3.0,5.0
+Summer,Delaware,Socks,1,53,53.0,3.0,5.0
+Summer,Delaware,Sweater,1,44,44.0,3.0,5.0
+Summer,Florida,Hat,2,115,57.5,1.0,11.76
+Summer,Florida,Jewelry,2,135,67.5,1.0,11.76
+Summer,Florida,Scarf,2,117,58.5,1.0,11.76
+Summer,Florida,Shirt,2,101,50.5,1.0,11.76
+Summer,Florida,Backpack,1,59,59.0,2.0,5.88
+Summer,Florida,Blouse,1,31,31.0,2.0,5.88
+Summer,Florida,Coat,1,56,56.0,2.0,5.88
+Summer,Florida,Handbag,1,91,91.0,2.0,5.88
+Summer,Florida,Jeans,1,56,56.0,2.0,5.88
+Summer,Florida,Pants,1,29,29.0,2.0,5.88
+Summer,Florida,Sandals,1,49,49.0,2.0,5.88
+Summer,Florida,Shorts,1,91,91.0,2.0,5.88
+Summer,Florida,Socks,1,30,30.0,2.0,5.88
+Summer,Georgia,Pants,3,211,70.33333333333333,1.0,16.67
+Summer,Georgia,Blouse,2,130,65.0,2.0,11.11
+Summer,Georgia,Dress,2,113,56.5,2.0,11.11
+Summer,Georgia,Jewelry,2,120,60.0,2.0,11.11
+Summer,Georgia,Socks,2,146,73.0,2.0,11.11
+Summer,Georgia,Belt,1,62,62.0,3.0,5.56
+Summer,Georgia,Coat,1,93,93.0,3.0,5.56
+Summer,Georgia,Hoodie,1,26,26.0,3.0,5.56
+Summer,Georgia,Sandals,1,59,59.0,3.0,5.56
+Summer,Georgia,Scarf,1,97,97.0,3.0,5.56
+Summer,Georgia,Shoes,1,72,72.0,3.0,5.56
+Summer,Georgia,Shorts,1,26,26.0,3.0,5.56
+Summer,Hawaii,Boots,2,148,74.0,1.0,13.33
+Summer,Hawaii,Hoodie,2,107,53.5,1.0,13.33
+Summer,Hawaii,Shoes,2,55,27.5,1.0,13.33
+Summer,Hawaii,Belt,1,36,36.0,2.0,6.67
+Summer,Hawaii,Blouse,1,21,21.0,2.0,6.67
+Summer,Hawaii,Coat,1,75,75.0,2.0,6.67
+Summer,Hawaii,Jacket,1,50,50.0,2.0,6.67
+Summer,Hawaii,Jewelry,1,40,40.0,2.0,6.67
+Summer,Hawaii,Pants,1,40,40.0,2.0,6.67
+Summer,Hawaii,Skirt,1,63,63.0,2.0,6.67
+Summer,Hawaii,Socks,1,63,63.0,2.0,6.67
+Summer,Hawaii,Sunglasses,1,67,67.0,2.0,6.67
+Summer,Idaho,Coat,5,346,69.2,1.0,19.23
+Summer,Idaho,Boots,2,91,45.5,2.0,7.69
+Summer,Idaho,Shoes,2,102,51.0,2.0,7.69
+Summer,Idaho,Sweater,2,67,33.5,2.0,7.69
+Summer,Idaho,Backpack,1,33,33.0,3.0,3.85
+Summer,Idaho,Belt,1,30,30.0,3.0,3.85
+Summer,Idaho,Blouse,1,74,74.0,3.0,3.85
+Summer,Idaho,Dress,1,26,26.0,3.0,3.85
+Summer,Idaho,Gloves,1,93,93.0,3.0,3.85
+Summer,Idaho,Hat,1,73,73.0,3.0,3.85
+Summer,Idaho,Hoodie,1,99,99.0,3.0,3.85
+Summer,Idaho,Jacket,1,50,50.0,3.0,3.85
+Summer,Idaho,Jewelry,1,82,82.0,3.0,3.85
+Summer,Idaho,Pants,1,55,55.0,3.0,3.85
+Summer,Idaho,Sandals,1,42,42.0,3.0,3.85
+Summer,Idaho,Shirt,1,41,41.0,3.0,3.85
+Summer,Idaho,Shorts,1,43,43.0,3.0,3.85
+Summer,Idaho,Skirt,1,33,33.0,3.0,3.85
+Summer,Idaho,Sneakers,1,20,20.0,3.0,3.85
+Summer,Illinois,Handbag,3,224,74.66666666666667,1.0,13.04
+Summer,Illinois,Belt,2,118,59.0,2.0,8.7
+Summer,Illinois,Blouse,2,139,69.5,2.0,8.7
+Summer,Illinois,Shorts,2,88,44.0,2.0,8.7
+Summer,Illinois,Sweater,2,56,28.0,2.0,8.7
+Summer,Illinois,Boots,1,65,65.0,3.0,4.35
+Summer,Illinois,Coat,1,44,44.0,3.0,4.35
+Summer,Illinois,Gloves,1,38,38.0,3.0,4.35
+Summer,Illinois,Hat,1,52,52.0,3.0,4.35
+Summer,Illinois,Jacket,1,56,56.0,3.0,4.35
+Summer,Illinois,Jeans,1,55,55.0,3.0,4.35
+Summer,Illinois,Jewelry,1,31,31.0,3.0,4.35
+Summer,Illinois,Pants,1,20,20.0,3.0,4.35
+Summer,Illinois,Scarf,1,79,79.0,3.0,4.35
+Summer,Illinois,Shirt,1,61,61.0,3.0,4.35
+Summer,Illinois,Shoes,1,61,61.0,3.0,4.35
+Summer,Illinois,Socks,1,33,33.0,3.0,4.35
+Summer,Indiana,Backpack,2,89,44.5,1.0,11.11
+Summer,Indiana,Jeans,2,113,56.5,1.0,11.11
+Summer,Indiana,Pants,2,167,83.5,1.0,11.11
+Summer,Indiana,Skirt,2,110,55.0,1.0,11.11
+Summer,Indiana,Belt,1,65,65.0,2.0,5.56
+Summer,Indiana,Blouse,1,26,26.0,2.0,5.56
+Summer,Indiana,Boots,1,65,65.0,2.0,5.56
+Summer,Indiana,Coat,1,28,28.0,2.0,5.56
+Summer,Indiana,Jewelry,1,77,77.0,2.0,5.56
+Summer,Indiana,Sneakers,1,36,36.0,2.0,5.56
+Summer,Indiana,Socks,1,76,76.0,2.0,5.56
+Summer,Indiana,Sunglasses,1,67,67.0,2.0,5.56
+Summer,Indiana,Sweater,1,36,36.0,2.0,5.56
+Summer,Indiana,T-shirt,1,33,33.0,2.0,5.56
+Summer,Iowa,Shorts,4,191,47.75,1.0,22.22
+Summer,Iowa,Belt,2,131,65.5,2.0,11.11
+Summer,Iowa,Jewelry,2,177,88.5,2.0,11.11
+Summer,Iowa,Shoes,2,153,76.5,2.0,11.11
+Summer,Iowa,Blouse,1,56,56.0,3.0,5.56
+Summer,Iowa,Coat,1,42,42.0,3.0,5.56
+Summer,Iowa,Dress,1,90,90.0,3.0,5.56
+Summer,Iowa,Gloves,1,86,86.0,3.0,5.56
+Summer,Iowa,Hat,1,66,66.0,3.0,5.56
+Summer,Iowa,Jeans,1,47,47.0,3.0,5.56
+Summer,Iowa,Pants,1,36,36.0,3.0,5.56
+Summer,Iowa,Sweater,1,35,35.0,3.0,5.56
+Summer,Kansas,Boots,3,201,67.0,1.0,17.65
+Summer,Kansas,T-shirt,3,148,49.333333333333336,1.0,17.65
+Summer,Kansas,Jacket,2,90,45.0,2.0,11.76
+Summer,Kansas,Jewelry,2,140,70.0,2.0,11.76
+Summer,Kansas,Belt,1,68,68.0,3.0,5.88
+Summer,Kansas,Blouse,1,92,92.0,3.0,5.88
+Summer,Kansas,Coat,1,40,40.0,3.0,5.88
+Summer,Kansas,Hoodie,1,27,27.0,3.0,5.88
+Summer,Kansas,Scarf,1,79,79.0,3.0,5.88
+Summer,Kansas,Sneakers,1,49,49.0,3.0,5.88
+Summer,Kansas,Sunglasses,1,77,77.0,3.0,5.88
+Summer,Kentucky,Hat,2,97,48.5,1.0,16.67
+Summer,Kentucky,Backpack,1,50,50.0,2.0,8.33
+Summer,Kentucky,Belt,1,61,61.0,2.0,8.33
+Summer,Kentucky,Gloves,1,63,63.0,2.0,8.33
+Summer,Kentucky,Handbag,1,39,39.0,2.0,8.33
+Summer,Kentucky,Jewelry,1,41,41.0,2.0,8.33
+Summer,Kentucky,Sandals,1,35,35.0,2.0,8.33
+Summer,Kentucky,Scarf,1,68,68.0,2.0,8.33
+Summer,Kentucky,Shoes,1,21,21.0,2.0,8.33
+Summer,Kentucky,Shorts,1,56,56.0,2.0,8.33
+Summer,Kentucky,Socks,1,29,29.0,2.0,8.33
+Summer,Louisiana,Backpack,3,155,51.666666666666664,1.0,18.75
+Summer,Louisiana,Hoodie,2,103,51.5,2.0,12.5
+Summer,Louisiana,Sandals,2,125,62.5,2.0,12.5
+Summer,Louisiana,Shoes,2,117,58.5,2.0,12.5
+Summer,Louisiana,Blouse,1,80,80.0,3.0,6.25
+Summer,Louisiana,Jewelry,1,75,75.0,3.0,6.25
+Summer,Louisiana,Pants,1,49,49.0,3.0,6.25
+Summer,Louisiana,Skirt,1,24,24.0,3.0,6.25
+Summer,Louisiana,Sneakers,1,75,75.0,3.0,6.25
+Summer,Louisiana,Sweater,1,37,37.0,3.0,6.25
+Summer,Louisiana,T-shirt,1,28,28.0,3.0,6.25
+Summer,Maine,Blouse,2,161,80.5,1.0,15.38
+Summer,Maine,Coat,1,49,49.0,2.0,7.69
+Summer,Maine,Gloves,1,66,66.0,2.0,7.69
+Summer,Maine,Handbag,1,63,63.0,2.0,7.69
+Summer,Maine,Hat,1,34,34.0,2.0,7.69
+Summer,Maine,Jacket,1,74,74.0,2.0,7.69
+Summer,Maine,Scarf,1,67,67.0,2.0,7.69
+Summer,Maine,Shirt,1,22,22.0,2.0,7.69
+Summer,Maine,Shoes,1,84,84.0,2.0,7.69
+Summer,Maine,Skirt,1,29,29.0,2.0,7.69
+Summer,Maine,Socks,1,83,83.0,2.0,7.69
+Summer,Maine,Sweater,1,92,92.0,2.0,7.69
+Summer,Maryland,Jacket,3,150,50.0,1.0,12.5
+Summer,Maryland,Sandals,3,140,46.666666666666664,1.0,12.5
+Summer,Maryland,Sunglasses,3,231,77.0,1.0,12.5
+Summer,Maryland,Boots,2,73,36.5,2.0,8.33
+Summer,Maryland,Dress,2,114,57.0,2.0,8.33
+Summer,Maryland,Scarf,2,129,64.5,2.0,8.33
+Summer,Maryland,Socks,2,91,45.5,2.0,8.33
+Summer,Maryland,Coat,1,86,86.0,3.0,4.17
+Summer,Maryland,Jeans,1,87,87.0,3.0,4.17
+Summer,Maryland,Jewelry,1,87,87.0,3.0,4.17
+Summer,Maryland,Shoes,1,82,82.0,3.0,4.17
+Summer,Maryland,Shorts,1,20,20.0,3.0,4.17
+Summer,Maryland,Sneakers,1,52,52.0,3.0,4.17
+Summer,Maryland,T-shirt,1,85,85.0,3.0,4.17
+Summer,Massachusetts,Coat,2,130,65.0,1.0,9.09
+Summer,Massachusetts,Handbag,2,132,66.0,1.0,9.09
+Summer,Massachusetts,Jeans,2,101,50.5,1.0,9.09
+Summer,Massachusetts,Pants,2,127,63.5,1.0,9.09
+Summer,Massachusetts,Shoes,2,94,47.0,1.0,9.09
+Summer,Massachusetts,Socks,2,126,63.0,1.0,9.09
+Summer,Massachusetts,Backpack,1,21,21.0,2.0,4.55
+Summer,Massachusetts,Belt,1,75,75.0,2.0,4.55
+Summer,Massachusetts,Blouse,1,33,33.0,2.0,4.55
+Summer,Massachusetts,Boots,1,25,25.0,2.0,4.55
+Summer,Massachusetts,Jacket,1,79,79.0,2.0,4.55
+Summer,Massachusetts,Jewelry,1,61,61.0,2.0,4.55
+Summer,Massachusetts,Sandals,1,86,86.0,2.0,4.55
+Summer,Massachusetts,Scarf,1,58,58.0,2.0,4.55
+Summer,Massachusetts,Sunglasses,1,67,67.0,2.0,4.55
+Summer,Massachusetts,T-shirt,1,51,51.0,2.0,4.55
+Summer,Michigan,Sandals,4,152,38.0,1.0,19.05
+Summer,Michigan,Pants,3,195,65.0,2.0,14.29
+Summer,Michigan,Sweater,2,167,83.5,3.0,9.52
+Summer,Michigan,Belt,1,100,100.0,4.0,4.76
+Summer,Michigan,Blouse,1,71,71.0,4.0,4.76
+Summer,Michigan,Boots,1,98,98.0,4.0,4.76
+Summer,Michigan,Hat,1,54,54.0,4.0,4.76
+Summer,Michigan,Jeans,1,29,29.0,4.0,4.76
+Summer,Michigan,Jewelry,1,86,86.0,4.0,4.76
+Summer,Michigan,Scarf,1,59,59.0,4.0,4.76
+Summer,Michigan,Shoes,1,91,91.0,4.0,4.76
+Summer,Michigan,Shorts,1,100,100.0,4.0,4.76
+Summer,Michigan,Skirt,1,48,48.0,4.0,4.76
+Summer,Michigan,Sneakers,1,98,98.0,4.0,4.76
+Summer,Michigan,Sunglasses,1,82,82.0,4.0,4.76
+Summer,Minnesota,Shirt,2,118,59.0,1.0,10.53
+Summer,Minnesota,Skirt,2,182,91.0,1.0,10.53
+Summer,Minnesota,Backpack,1,56,56.0,2.0,5.26
+Summer,Minnesota,Belt,1,54,54.0,2.0,5.26
+Summer,Minnesota,Blouse,1,20,20.0,2.0,5.26
+Summer,Minnesota,Boots,1,38,38.0,2.0,5.26
+Summer,Minnesota,Dress,1,63,63.0,2.0,5.26
+Summer,Minnesota,Handbag,1,29,29.0,2.0,5.26
+Summer,Minnesota,Hat,1,25,25.0,2.0,5.26
+Summer,Minnesota,Hoodie,1,24,24.0,2.0,5.26
+Summer,Minnesota,Jacket,1,35,35.0,2.0,5.26
+Summer,Minnesota,Jewelry,1,60,60.0,2.0,5.26
+Summer,Minnesota,Shoes,1,77,77.0,2.0,5.26
+Summer,Minnesota,Shorts,1,29,29.0,2.0,5.26
+Summer,Minnesota,Sneakers,1,47,47.0,2.0,5.26
+Summer,Minnesota,Socks,1,51,51.0,2.0,5.26
+Summer,Minnesota,Sunglasses,1,56,56.0,2.0,5.26
+Summer,Mississippi,Blouse,3,120,40.0,1.0,15.0
+Summer,Mississippi,Backpack,2,172,86.0,2.0,10.0
+Summer,Mississippi,Belt,2,92,46.0,2.0,10.0
+Summer,Mississippi,Boots,2,124,62.0,2.0,10.0
+Summer,Mississippi,Jewelry,2,155,77.5,2.0,10.0
+Summer,Mississippi,Scarf,2,129,64.5,2.0,10.0
+Summer,Mississippi,Shorts,2,73,36.5,2.0,10.0
+Summer,Mississippi,Dress,1,75,75.0,3.0,5.0
+Summer,Mississippi,Hat,1,96,96.0,3.0,5.0
+Summer,Mississippi,Jacket,1,97,97.0,3.0,5.0
+Summer,Mississippi,Shirt,1,67,67.0,3.0,5.0
+Summer,Mississippi,Sunglasses,1,92,92.0,3.0,5.0
+Summer,Missouri,Gloves,2,88,44.0,1.0,10.53
+Summer,Missouri,Hoodie,2,94,47.0,1.0,10.53
+Summer,Missouri,Jewelry,2,78,39.0,1.0,10.53
+Summer,Missouri,Pants,2,107,53.5,1.0,10.53
+Summer,Missouri,Boots,1,67,67.0,2.0,5.26
+Summer,Missouri,Coat,1,32,32.0,2.0,5.26
+Summer,Missouri,Hat,1,73,73.0,2.0,5.26
+Summer,Missouri,Jacket,1,29,29.0,2.0,5.26
+Summer,Missouri,Jeans,1,62,62.0,2.0,5.26
+Summer,Missouri,Scarf,1,68,68.0,2.0,5.26
+Summer,Missouri,Shirt,1,24,24.0,2.0,5.26
+Summer,Missouri,Shoes,1,28,28.0,2.0,5.26
+Summer,Missouri,Shorts,1,98,98.0,2.0,5.26
+Summer,Missouri,Sneakers,1,29,29.0,2.0,5.26
+Summer,Missouri,Sunglasses,1,50,50.0,2.0,5.26
+Summer,Montana,Backpack,3,138,46.0,1.0,11.54
+Summer,Montana,Jeans,3,152,50.666666666666664,1.0,11.54
+Summer,Montana,Belt,2,138,69.0,2.0,7.69
+Summer,Montana,Handbag,2,120,60.0,2.0,7.69
+Summer,Montana,Jacket,2,82,41.0,2.0,7.69
+Summer,Montana,Scarf,2,150,75.0,2.0,7.69
+Summer,Montana,Shoes,2,97,48.5,2.0,7.69
+Summer,Montana,Socks,2,163,81.5,2.0,7.69
+Summer,Montana,Coat,1,29,29.0,3.0,3.85
+Summer,Montana,Dress,1,70,70.0,3.0,3.85
+Summer,Montana,Gloves,1,71,71.0,3.0,3.85
+Summer,Montana,Hoodie,1,86,86.0,3.0,3.85
+Summer,Montana,Jewelry,1,73,73.0,3.0,3.85
+Summer,Montana,Pants,1,42,42.0,3.0,3.85
+Summer,Montana,Sandals,1,67,67.0,3.0,3.85
+Summer,Montana,Sweater,1,48,48.0,3.0,3.85
+Summer,Nebraska,Sandals,4,203,50.75,1.0,18.18
+Summer,Nebraska,Shoes,3,166,55.333333333333336,2.0,13.64
+Summer,Nebraska,Hoodie,2,77,38.5,3.0,9.09
+Summer,Nebraska,Jewelry,2,118,59.0,3.0,9.09
+Summer,Nebraska,Pants,2,91,45.5,3.0,9.09
+Summer,Nebraska,Backpack,1,34,34.0,4.0,4.55
+Summer,Nebraska,Belt,1,51,51.0,4.0,4.55
+Summer,Nebraska,Blouse,1,45,45.0,4.0,4.55
+Summer,Nebraska,Coat,1,97,97.0,4.0,4.55
+Summer,Nebraska,Handbag,1,77,77.0,4.0,4.55
+Summer,Nebraska,Shirt,1,93,93.0,4.0,4.55
+Summer,Nebraska,Shorts,1,46,46.0,4.0,4.55
+Summer,Nebraska,Skirt,1,98,98.0,4.0,4.55
+Summer,Nebraska,Socks,1,86,86.0,4.0,4.55
+Summer,Nevada,Backpack,5,308,61.6,1.0,18.52
+Summer,Nevada,Belt,4,259,64.75,2.0,14.81
+Summer,Nevada,Socks,3,125,41.666666666666664,3.0,11.11
+Summer,Nevada,Boots,2,122,61.0,4.0,7.41
+Summer,Nevada,Jacket,2,56,28.0,4.0,7.41
+Summer,Nevada,Sneakers,2,124,62.0,4.0,7.41
+Summer,Nevada,Blouse,1,73,73.0,5.0,3.7
+Summer,Nevada,Coat,1,30,30.0,5.0,3.7
+Summer,Nevada,Hat,1,46,46.0,5.0,3.7
+Summer,Nevada,Hoodie,1,21,21.0,5.0,3.7
+Summer,Nevada,Jewelry,1,99,99.0,5.0,3.7
+Summer,Nevada,Pants,1,39,39.0,5.0,3.7
+Summer,Nevada,Shirt,1,55,55.0,5.0,3.7
+Summer,Nevada,Shorts,1,67,67.0,5.0,3.7
+Summer,Nevada,Sweater,1,54,54.0,5.0,3.7
+Summer,New Hampshire,Blouse,2,164,82.0,1.0,16.67
+Summer,New Hampshire,Handbag,2,128,64.0,1.0,16.67
+Summer,New Hampshire,Scarf,2,106,53.0,1.0,16.67
+Summer,New Hampshire,Boots,1,70,70.0,2.0,8.33
+Summer,New Hampshire,Dress,1,54,54.0,2.0,8.33
+Summer,New Hampshire,Hoodie,1,97,97.0,2.0,8.33
+Summer,New Hampshire,Jewelry,1,74,74.0,2.0,8.33
+Summer,New Hampshire,Shoes,1,59,59.0,2.0,8.33
+Summer,New Hampshire,Sneakers,1,97,97.0,2.0,8.33
+Summer,New Jersey,Socks,3,178,59.333333333333336,1.0,15.0
+Summer,New Jersey,Belt,2,68,34.0,2.0,10.0
+Summer,New Jersey,Jacket,2,131,65.5,2.0,10.0
+Summer,New Jersey,Shoes,2,78,39.0,2.0,10.0
+Summer,New Jersey,Shorts,2,95,47.5,2.0,10.0
+Summer,New Jersey,Sneakers,2,65,32.5,2.0,10.0
+Summer,New Jersey,Sunglasses,2,99,49.5,2.0,10.0
+Summer,New Jersey,Blouse,1,38,38.0,3.0,5.0
+Summer,New Jersey,Hoodie,1,51,51.0,3.0,5.0
+Summer,New Jersey,Pants,1,24,24.0,3.0,5.0
+Summer,New Jersey,Sandals,1,85,85.0,3.0,5.0
+Summer,New Jersey,Scarf,1,32,32.0,3.0,5.0
+Summer,New Mexico,Sunglasses,3,207,69.0,1.0,13.64
+Summer,New Mexico,Belt,2,81,40.5,2.0,9.09
+Summer,New Mexico,Hat,2,147,73.5,2.0,9.09
+Summer,New Mexico,Scarf,2,89,44.5,2.0,9.09
+Summer,New Mexico,Socks,2,84,42.0,2.0,9.09
+Summer,New Mexico,T-shirt,2,146,73.0,2.0,9.09
+Summer,New Mexico,Boots,1,48,48.0,3.0,4.55
+Summer,New Mexico,Coat,1,94,94.0,3.0,4.55
+Summer,New Mexico,Hoodie,1,57,57.0,3.0,4.55
+Summer,New Mexico,Jewelry,1,50,50.0,3.0,4.55
+Summer,New Mexico,Pants,1,64,64.0,3.0,4.55
+Summer,New Mexico,Sandals,1,37,37.0,3.0,4.55
+Summer,New Mexico,Shorts,1,64,64.0,3.0,4.55
+Summer,New Mexico,Sneakers,1,78,78.0,3.0,4.55
+Summer,New Mexico,Sweater,1,35,35.0,3.0,4.55
+Summer,New York,Blouse,2,117,58.5,1.0,9.52
+Summer,New York,Sandals,2,98,49.0,1.0,9.52
+Summer,New York,Shirt,2,97,48.5,1.0,9.52
+Summer,New York,Shorts,2,147,73.5,1.0,9.52
+Summer,New York,Sweater,2,120,60.0,1.0,9.52
+Summer,New York,Backpack,1,26,26.0,2.0,4.76
+Summer,New York,Boots,1,55,55.0,2.0,4.76
+Summer,New York,Coat,1,85,85.0,2.0,4.76
+Summer,New York,Gloves,1,33,33.0,2.0,4.76
+Summer,New York,Handbag,1,23,23.0,2.0,4.76
+Summer,New York,Jeans,1,93,93.0,2.0,4.76
+Summer,New York,Jewelry,1,45,45.0,2.0,4.76
+Summer,New York,Scarf,1,80,80.0,2.0,4.76
+Summer,New York,Shoes,1,66,66.0,2.0,4.76
+Summer,New York,Sneakers,1,95,95.0,2.0,4.76
+Summer,New York,Sunglasses,1,93,93.0,2.0,4.76
+Summer,North Carolina,Dress,2,135,67.5,1.0,11.76
+Summer,North Carolina,Gloves,2,50,25.0,1.0,11.76
+Summer,North Carolina,Hat,2,135,67.5,1.0,11.76
+Summer,North Carolina,Scarf,2,91,45.5,1.0,11.76
+Summer,North Carolina,Backpack,1,83,83.0,2.0,5.88
+Summer,North Carolina,Coat,1,90,90.0,2.0,5.88
+Summer,North Carolina,Jacket,1,38,38.0,2.0,5.88
+Summer,North Carolina,Jewelry,1,75,75.0,2.0,5.88
+Summer,North Carolina,Pants,1,63,63.0,2.0,5.88
+Summer,North Carolina,Sandals,1,58,58.0,2.0,5.88
+Summer,North Carolina,Shorts,1,67,67.0,2.0,5.88
+Summer,North Carolina,Sunglasses,1,24,24.0,2.0,5.88
+Summer,North Carolina,T-shirt,1,47,47.0,2.0,5.88
+Summer,North Dakota,Jacket,3,195,65.0,1.0,11.11
+Summer,North Dakota,Dress,2,141,70.5,2.0,7.41
+Summer,North Dakota,Sandals,2,129,64.5,2.0,7.41
+Summer,North Dakota,Scarf,2,105,52.5,2.0,7.41
+Summer,North Dakota,Shoes,2,137,68.5,2.0,7.41
+Summer,North Dakota,Shorts,2,109,54.5,2.0,7.41
+Summer,North Dakota,Belt,1,20,20.0,3.0,3.7
+Summer,North Dakota,Blouse,1,97,97.0,3.0,3.7
+Summer,North Dakota,Coat,1,27,27.0,3.0,3.7
+Summer,North Dakota,Gloves,1,95,95.0,3.0,3.7
+Summer,North Dakota,Handbag,1,84,84.0,3.0,3.7
+Summer,North Dakota,Hat,1,92,92.0,3.0,3.7
+Summer,North Dakota,Jewelry,1,81,81.0,3.0,3.7
+Summer,North Dakota,Shirt,1,75,75.0,3.0,3.7
+Summer,North Dakota,Skirt,1,27,27.0,3.0,3.7
+Summer,North Dakota,Sneakers,1,71,71.0,3.0,3.7
+Summer,North Dakota,Socks,1,63,63.0,3.0,3.7
+Summer,North Dakota,Sunglasses,1,21,21.0,3.0,3.7
+Summer,North Dakota,Sweater,1,56,56.0,3.0,3.7
+Summer,North Dakota,T-shirt,1,31,31.0,3.0,3.7
+Summer,Ohio,Sneakers,4,279,69.75,1.0,19.05
+Summer,Ohio,Scarf,3,159,53.0,2.0,14.29
+Summer,Ohio,Jewelry,2,188,94.0,3.0,9.52
+Summer,Ohio,Pants,2,143,71.5,3.0,9.52
+Summer,Ohio,Skirt,2,145,72.5,3.0,9.52
+Summer,Ohio,Socks,2,158,79.0,3.0,9.52
+Summer,Ohio,Boots,1,77,77.0,4.0,4.76
+Summer,Ohio,Handbag,1,47,47.0,4.0,4.76
+Summer,Ohio,Jeans,1,60,60.0,4.0,4.76
+Summer,Ohio,Sandals,1,76,76.0,4.0,4.76
+Summer,Ohio,Shoes,1,97,97.0,4.0,4.76
+Summer,Ohio,Sweater,1,26,26.0,4.0,4.76
+Summer,Oklahoma,Jacket,2,102,51.0,1.0,14.29
+Summer,Oklahoma,Pants,2,127,63.5,1.0,14.29
+Summer,Oklahoma,T-shirt,2,148,74.0,1.0,14.29
+Summer,Oklahoma,Coat,1,33,33.0,2.0,7.14
+Summer,Oklahoma,Hoodie,1,42,42.0,2.0,7.14
+Summer,Oklahoma,Jeans,1,99,99.0,2.0,7.14
+Summer,Oklahoma,Jewelry,1,49,49.0,2.0,7.14
+Summer,Oklahoma,Shorts,1,72,72.0,2.0,7.14
+Summer,Oklahoma,Skirt,1,88,88.0,2.0,7.14
+Summer,Oklahoma,Socks,1,29,29.0,2.0,7.14
+Summer,Oklahoma,Sunglasses,1,32,32.0,2.0,7.14
+Summer,Oregon,Jeans,2,65,32.5,1.0,12.5
+Summer,Oregon,Sneakers,2,99,49.5,1.0,12.5
+Summer,Oregon,Socks,2,105,52.5,1.0,12.5
+Summer,Oregon,Backpack,1,73,73.0,2.0,6.25
+Summer,Oregon,Belt,1,32,32.0,2.0,6.25
+Summer,Oregon,Gloves,1,28,28.0,2.0,6.25
+Summer,Oregon,Hoodie,1,90,90.0,2.0,6.25
+Summer,Oregon,Jewelry,1,26,26.0,2.0,6.25
+Summer,Oregon,Sandals,1,60,60.0,2.0,6.25
+Summer,Oregon,Shoes,1,58,58.0,2.0,6.25
+Summer,Oregon,Shorts,1,48,48.0,2.0,6.25
+Summer,Oregon,Sunglasses,1,95,95.0,2.0,6.25
+Summer,Oregon,T-shirt,1,34,34.0,2.0,6.25
+Summer,Pennsylvania,Dress,3,171,57.0,1.0,11.11
+Summer,Pennsylvania,Sunglasses,3,211,70.33333333333333,1.0,11.11
+Summer,Pennsylvania,Blouse,2,127,63.5,2.0,7.41
+Summer,Pennsylvania,Hat,2,108,54.0,2.0,7.41
+Summer,Pennsylvania,Hoodie,2,171,85.5,2.0,7.41
+Summer,Pennsylvania,Scarf,2,117,58.5,2.0,7.41
+Summer,Pennsylvania,T-shirt,2,145,72.5,2.0,7.41
+Summer,Pennsylvania,Boots,1,88,88.0,3.0,3.7
+Summer,Pennsylvania,Coat,1,88,88.0,3.0,3.7
+Summer,Pennsylvania,Jeans,1,23,23.0,3.0,3.7
+Summer,Pennsylvania,Jewelry,1,46,46.0,3.0,3.7
+Summer,Pennsylvania,Pants,1,91,91.0,3.0,3.7
+Summer,Pennsylvania,Shirt,1,39,39.0,3.0,3.7
+Summer,Pennsylvania,Shoes,1,74,74.0,3.0,3.7
+Summer,Pennsylvania,Skirt,1,26,26.0,3.0,3.7
+Summer,Pennsylvania,Sneakers,1,80,80.0,3.0,3.7
+Summer,Pennsylvania,Socks,1,63,63.0,3.0,3.7
+Summer,Pennsylvania,Sweater,1,85,85.0,3.0,3.7
+Summer,Rhode Island,Pants,4,234,58.5,1.0,30.77
+Summer,Rhode Island,Dress,2,63,31.5,2.0,15.38
+Summer,Rhode Island,Belt,1,20,20.0,3.0,7.69
+Summer,Rhode Island,Boots,1,92,92.0,3.0,7.69
+Summer,Rhode Island,Coat,1,90,90.0,3.0,7.69
+Summer,Rhode Island,Gloves,1,91,91.0,3.0,7.69
+Summer,Rhode Island,Sandals,1,53,53.0,3.0,7.69
+Summer,Rhode Island,Socks,1,28,28.0,3.0,7.69
+Summer,Rhode Island,Sweater,1,58,58.0,3.0,7.69
+Summer,South Carolina,Hat,3,136,45.333333333333336,1.0,20.0
+Summer,South Carolina,Boots,2,155,77.5,2.0,13.33
+Summer,South Carolina,Shoes,2,123,61.5,2.0,13.33
+Summer,South Carolina,Belt,1,69,69.0,3.0,6.67
+Summer,South Carolina,Coat,1,23,23.0,3.0,6.67
+Summer,South Carolina,Jacket,1,30,30.0,3.0,6.67
+Summer,South Carolina,Jeans,1,74,74.0,3.0,6.67
+Summer,South Carolina,Sandals,1,61,61.0,3.0,6.67
+Summer,South Carolina,Scarf,1,97,97.0,3.0,6.67
+Summer,South Carolina,Shirt,1,85,85.0,3.0,6.67
+Summer,South Carolina,Shorts,1,37,37.0,3.0,6.67
+Summer,South Dakota,Scarf,3,261,87.0,1.0,15.79
+Summer,South Dakota,Backpack,2,167,83.5,2.0,10.53
+Summer,South Dakota,Jeans,2,140,70.0,2.0,10.53
+Summer,South Dakota,Socks,2,168,84.0,2.0,10.53
+Summer,South Dakota,Blouse,1,46,46.0,3.0,5.26
+Summer,South Dakota,Coat,1,24,24.0,3.0,5.26
+Summer,South Dakota,Dress,1,59,59.0,3.0,5.26
+Summer,South Dakota,Gloves,1,39,39.0,3.0,5.26
+Summer,South Dakota,Jacket,1,85,85.0,3.0,5.26
+Summer,South Dakota,Jewelry,1,29,29.0,3.0,5.26
+Summer,South Dakota,Sandals,1,32,32.0,3.0,5.26
+Summer,South Dakota,Shorts,1,84,84.0,3.0,5.26
+Summer,South Dakota,Sneakers,1,27,27.0,3.0,5.26
+Summer,South Dakota,Sunglasses,1,96,96.0,3.0,5.26
+Summer,Tennessee,Handbag,2,112,56.0,1.0,11.11
+Summer,Tennessee,Hat,2,188,94.0,1.0,11.11
+Summer,Tennessee,Pants,2,102,51.0,1.0,11.11
+Summer,Tennessee,Shorts,2,103,51.5,1.0,11.11
+Summer,Tennessee,Sneakers,2,142,71.0,1.0,11.11
+Summer,Tennessee,Backpack,1,79,79.0,2.0,5.56
+Summer,Tennessee,Belt,1,70,70.0,2.0,5.56
+Summer,Tennessee,Coat,1,34,34.0,2.0,5.56
+Summer,Tennessee,Dress,1,24,24.0,2.0,5.56
+Summer,Tennessee,Jeans,1,48,48.0,2.0,5.56
+Summer,Tennessee,Scarf,1,96,96.0,2.0,5.56
+Summer,Tennessee,Sunglasses,1,89,89.0,2.0,5.56
+Summer,Tennessee,T-shirt,1,48,48.0,2.0,5.56
+Summer,Texas,Dress,3,166,55.333333333333336,1.0,15.79
+Summer,Texas,Shirt,3,140,46.666666666666664,1.0,15.79
+Summer,Texas,Boots,2,62,31.0,2.0,10.53
+Summer,Texas,Coat,2,137,68.5,2.0,10.53
+Summer,Texas,Sweater,2,109,54.5,2.0,10.53
+Summer,Texas,Backpack,1,66,66.0,3.0,5.26
+Summer,Texas,Gloves,1,23,23.0,3.0,5.26
+Summer,Texas,Handbag,1,28,28.0,3.0,5.26
+Summer,Texas,Hat,1,21,21.0,3.0,5.26
+Summer,Texas,Hoodie,1,25,25.0,3.0,5.26
+Summer,Texas,Sandals,1,28,28.0,3.0,5.26
+Summer,Texas,Shoes,1,49,49.0,3.0,5.26
+Summer,Utah,Dress,3,233,77.66666666666667,1.0,16.67
+Summer,Utah,Handbag,3,179,59.666666666666664,1.0,16.67
+Summer,Utah,Pants,2,120,60.0,2.0,11.11
+Summer,Utah,Blouse,1,33,33.0,3.0,5.56
+Summer,Utah,Hat,1,20,20.0,3.0,5.56
+Summer,Utah,Sandals,1,20,20.0,3.0,5.56
+Summer,Utah,Scarf,1,85,85.0,3.0,5.56
+Summer,Utah,Shirt,1,73,73.0,3.0,5.56
+Summer,Utah,Shoes,1,78,78.0,3.0,5.56
+Summer,Utah,Shorts,1,54,54.0,3.0,5.56
+Summer,Utah,Sneakers,1,90,90.0,3.0,5.56
+Summer,Utah,Socks,1,20,20.0,3.0,5.56
+Summer,Utah,Sunglasses,1,23,23.0,3.0,5.56
+Summer,Vermont,Sneakers,3,123,41.0,1.0,16.67
+Summer,Vermont,Coat,2,100,50.0,2.0,11.11
+Summer,Vermont,Jewelry,2,106,53.0,2.0,11.11
+Summer,Vermont,Pants,2,71,35.5,2.0,11.11
+Summer,Vermont,T-shirt,2,87,43.5,2.0,11.11
+Summer,Vermont,Backpack,1,89,89.0,3.0,5.56
+Summer,Vermont,Belt,1,23,23.0,3.0,5.56
+Summer,Vermont,Blouse,1,94,94.0,3.0,5.56
+Summer,Vermont,Hoodie,1,88,88.0,3.0,5.56
+Summer,Vermont,Shirt,1,50,50.0,3.0,5.56
+Summer,Vermont,Sunglasses,1,27,27.0,3.0,5.56
+Summer,Vermont,Sweater,1,95,95.0,3.0,5.56
+Summer,Virginia,Hoodie,3,181,60.333333333333336,1.0,13.64
+Summer,Virginia,Backpack,2,139,69.5,2.0,9.09
+Summer,Virginia,Shorts,2,132,66.0,2.0,9.09
+Summer,Virginia,Belt,1,82,82.0,3.0,4.55
+Summer,Virginia,Blouse,1,49,49.0,3.0,4.55
+Summer,Virginia,Dress,1,48,48.0,3.0,4.55
+Summer,Virginia,Hat,1,79,79.0,3.0,4.55
+Summer,Virginia,Jeans,1,96,96.0,3.0,4.55
+Summer,Virginia,Jewelry,1,31,31.0,3.0,4.55
+Summer,Virginia,Pants,1,96,96.0,3.0,4.55
+Summer,Virginia,Sandals,1,78,78.0,3.0,4.55
+Summer,Virginia,Shirt,1,25,25.0,3.0,4.55
+Summer,Virginia,Shoes,1,96,96.0,3.0,4.55
+Summer,Virginia,Skirt,1,67,67.0,3.0,4.55
+Summer,Virginia,Sneakers,1,57,57.0,3.0,4.55
+Summer,Virginia,Socks,1,26,26.0,3.0,4.55
+Summer,Virginia,Sunglasses,1,25,25.0,3.0,4.55
+Summer,Virginia,Sweater,1,90,90.0,3.0,4.55
+Summer,Washington,Boots,3,246,82.0,1.0,14.29
+Summer,Washington,Dress,3,181,60.333333333333336,1.0,14.29
+Summer,Washington,Backpack,2,156,78.0,2.0,9.52
+Summer,Washington,Gloves,2,86,43.0,2.0,9.52
+Summer,Washington,Skirt,2,138,69.0,2.0,9.52
+Summer,Washington,Belt,1,96,96.0,3.0,4.76
+Summer,Washington,Blouse,1,87,87.0,3.0,4.76
+Summer,Washington,Handbag,1,82,82.0,3.0,4.76
+Summer,Washington,Sandals,1,64,64.0,3.0,4.76
+Summer,Washington,Scarf,1,74,74.0,3.0,4.76
+Summer,Washington,Shoes,1,59,59.0,3.0,4.76
+Summer,Washington,Socks,1,62,62.0,3.0,4.76
+Summer,Washington,Sweater,1,40,40.0,3.0,4.76
+Summer,Washington,T-shirt,1,23,23.0,3.0,4.76
+Summer,West Virginia,Coat,4,322,80.5,1.0,23.53
+Summer,West Virginia,Backpack,2,119,59.5,2.0,11.76
+Summer,West Virginia,Handbag,2,100,50.0,2.0,11.76
+Summer,West Virginia,Blouse,1,34,34.0,3.0,5.88
+Summer,West Virginia,Boots,1,95,95.0,3.0,5.88
+Summer,West Virginia,Gloves,1,88,88.0,3.0,5.88
+Summer,West Virginia,Hat,1,84,84.0,3.0,5.88
+Summer,West Virginia,Pants,1,51,51.0,3.0,5.88
+Summer,West Virginia,Shirt,1,74,74.0,3.0,5.88
+Summer,West Virginia,Shoes,1,24,24.0,3.0,5.88
+Summer,West Virginia,Skirt,1,58,58.0,3.0,5.88
+Summer,West Virginia,T-shirt,1,79,79.0,3.0,5.88
+Summer,Wisconsin,T-shirt,4,231,57.75,1.0,16.67
+Summer,Wisconsin,Belt,2,117,58.5,2.0,8.33
+Summer,Wisconsin,Blouse,2,168,84.0,2.0,8.33
+Summer,Wisconsin,Handbag,2,63,31.5,2.0,8.33
+Summer,Wisconsin,Scarf,2,89,44.5,2.0,8.33
+Summer,Wisconsin,Skirt,2,94,47.0,2.0,8.33
+Summer,Wisconsin,Dress,1,45,45.0,3.0,4.17
+Summer,Wisconsin,Hat,1,91,91.0,3.0,4.17
+Summer,Wisconsin,Jacket,1,51,51.0,3.0,4.17
+Summer,Wisconsin,Sandals,1,23,23.0,3.0,4.17
+Summer,Wisconsin,Shirt,1,36,36.0,3.0,4.17
+Summer,Wisconsin,Shoes,1,43,43.0,3.0,4.17
+Summer,Wisconsin,Sneakers,1,38,38.0,3.0,4.17
+Summer,Wisconsin,Socks,1,53,53.0,3.0,4.17
+Summer,Wisconsin,Sunglasses,1,71,71.0,3.0,4.17
+Summer,Wisconsin,Sweater,1,60,60.0,3.0,4.17
+Summer,Wyoming,Jeans,2,117,58.5,1.0,18.18
+Summer,Wyoming,Sunglasses,2,147,73.5,1.0,18.18
+Summer,Wyoming,Blouse,1,66,66.0,2.0,9.09
+Summer,Wyoming,Gloves,1,51,51.0,2.0,9.09
+Summer,Wyoming,Hoodie,1,51,51.0,2.0,9.09
+Summer,Wyoming,Shirt,1,82,82.0,2.0,9.09
+Summer,Wyoming,Skirt,1,36,36.0,2.0,9.09
+Summer,Wyoming,Sneakers,1,20,20.0,2.0,9.09
+Summer,Wyoming,Sweater,1,32,32.0,2.0,9.09
+Winter,Alabama,Blouse,3,160,53.333333333333336,1.0,17.65
+Winter,Alabama,Jewelry,2,88,44.0,2.0,11.76
+Winter,Alabama,Sandals,2,121,60.5,2.0,11.76
+Winter,Alabama,Shoes,2,120,60.0,2.0,11.76
+Winter,Alabama,Sunglasses,2,152,76.0,2.0,11.76
+Winter,Alabama,Coat,1,74,74.0,3.0,5.88
+Winter,Alabama,Handbag,1,51,51.0,3.0,5.88
+Winter,Alabama,Jeans,1,72,72.0,3.0,5.88
+Winter,Alabama,Scarf,1,75,75.0,3.0,5.88
+Winter,Alabama,Shirt,1,60,60.0,3.0,5.88
+Winter,Alabama,Skirt,1,94,94.0,3.0,5.88
+Winter,Alaska,Sweater,3,151,50.333333333333336,1.0,16.67
+Winter,Alaska,Blouse,2,173,86.5,2.0,11.11
+Winter,Alaska,Coat,2,91,45.5,2.0,11.11
+Winter,Alaska,Gloves,2,155,77.5,2.0,11.11
+Winter,Alaska,Sunglasses,2,159,79.5,2.0,11.11
+Winter,Alaska,Backpack,1,68,68.0,3.0,5.56
+Winter,Alaska,Hat,1,32,32.0,3.0,5.56
+Winter,Alaska,Jacket,1,80,80.0,3.0,5.56
+Winter,Alaska,Shirt,1,80,80.0,3.0,5.56
+Winter,Alaska,Skirt,1,96,96.0,3.0,5.56
+Winter,Alaska,Socks,1,75,75.0,3.0,5.56
+Winter,Alaska,T-shirt,1,44,44.0,3.0,5.56
+Winter,Arizona,Dress,2,123,61.5,1.0,15.38
+Winter,Arizona,Jacket,2,103,51.5,1.0,15.38
+Winter,Arizona,Sunglasses,2,155,77.5,1.0,15.38
+Winter,Arizona,Backpack,1,22,22.0,2.0,7.69
+Winter,Arizona,Handbag,1,87,87.0,2.0,7.69
+Winter,Arizona,Hat,1,87,87.0,2.0,7.69
+Winter,Arizona,Jeans,1,88,88.0,2.0,7.69
+Winter,Arizona,Shirt,1,64,64.0,2.0,7.69
+Winter,Arizona,Skirt,1,79,79.0,2.0,7.69
+Winter,Arizona,Socks,1,76,76.0,2.0,7.69
+Winter,Arkansas,Hoodie,3,168,56.0,1.0,18.75
+Winter,Arkansas,Jewelry,3,209,69.66666666666667,1.0,18.75
+Winter,Arkansas,Shorts,2,187,93.5,2.0,12.5
+Winter,Arkansas,Blouse,1,32,32.0,3.0,6.25
+Winter,Arkansas,Coat,1,84,84.0,3.0,6.25
+Winter,Arkansas,Dress,1,37,37.0,3.0,6.25
+Winter,Arkansas,Pants,1,26,26.0,3.0,6.25
+Winter,Arkansas,Scarf,1,36,36.0,3.0,6.25
+Winter,Arkansas,Shoes,1,74,74.0,3.0,6.25
+Winter,Arkansas,Socks,1,98,98.0,3.0,6.25
+Winter,Arkansas,Sweater,1,97,97.0,3.0,6.25
+Winter,California,Jeans,3,219,73.0,1.0,13.64
+Winter,California,Belt,2,121,60.5,2.0,9.09
+Winter,California,Boots,2,92,46.0,2.0,9.09
+Winter,California,Dress,2,97,48.5,2.0,9.09
+Winter,California,Hat,2,116,58.0,2.0,9.09
+Winter,California,Sandals,2,112,56.0,2.0,9.09
+Winter,California,Scarf,2,90,45.0,2.0,9.09
+Winter,California,Sweater,2,75,37.5,2.0,9.09
+Winter,California,Coat,1,54,54.0,3.0,4.55
+Winter,California,Pants,1,97,97.0,3.0,4.55
+Winter,California,Shorts,1,54,54.0,3.0,4.55
+Winter,California,Sunglasses,1,94,94.0,3.0,4.55
+Winter,California,T-shirt,1,68,68.0,3.0,4.55
+Winter,Colorado,Dress,2,73,36.5,1.0,8.7
+Winter,Colorado,Gloves,2,148,74.0,1.0,8.7
+Winter,Colorado,Hoodie,2,125,62.5,1.0,8.7
+Winter,Colorado,Shirt,2,132,66.0,1.0,8.7
+Winter,Colorado,Sneakers,2,103,51.5,1.0,8.7
+Winter,Colorado,Sweater,2,120,60.0,1.0,8.7
+Winter,Colorado,Backpack,1,49,49.0,2.0,4.35
+Winter,Colorado,Belt,1,93,93.0,2.0,4.35
+Winter,Colorado,Blouse,1,26,26.0,2.0,4.35
+Winter,Colorado,Hat,1,83,83.0,2.0,4.35
+Winter,Colorado,Jacket,1,84,84.0,2.0,4.35
+Winter,Colorado,Jewelry,1,88,88.0,2.0,4.35
+Winter,Colorado,Pants,1,83,83.0,2.0,4.35
+Winter,Colorado,Sandals,1,31,31.0,2.0,4.35
+Winter,Colorado,Shorts,1,95,95.0,2.0,4.35
+Winter,Colorado,Sunglasses,1,36,36.0,2.0,4.35
+Winter,Colorado,T-shirt,1,33,33.0,2.0,4.35
+Winter,Connecticut,Belt,3,143,47.666666666666664,1.0,13.64
+Winter,Connecticut,Coat,3,86,28.666666666666668,1.0,13.64
+Winter,Connecticut,Blouse,2,130,65.0,2.0,9.09
+Winter,Connecticut,Jewelry,2,61,30.5,2.0,9.09
+Winter,Connecticut,Pants,2,100,50.0,2.0,9.09
+Winter,Connecticut,Shoes,2,56,28.0,2.0,9.09
+Winter,Connecticut,Skirt,2,94,47.0,2.0,9.09
+Winter,Connecticut,Dress,1,48,48.0,3.0,4.55
+Winter,Connecticut,Hoodie,1,50,50.0,3.0,4.55
+Winter,Connecticut,Scarf,1,29,29.0,3.0,4.55
+Winter,Connecticut,Shorts,1,38,38.0,3.0,4.55
+Winter,Connecticut,Sunglasses,1,43,43.0,3.0,4.55
+Winter,Connecticut,T-shirt,1,37,37.0,3.0,4.55
+Winter,Delaware,Pants,4,203,50.75,1.0,20.0
+Winter,Delaware,Hoodie,3,238,79.33333333333333,2.0,15.0
+Winter,Delaware,Belt,2,97,48.5,3.0,10.0
+Winter,Delaware,Coat,1,72,72.0,4.0,5.0
+Winter,Delaware,Gloves,1,90,90.0,4.0,5.0
+Winter,Delaware,Hat,1,43,43.0,4.0,5.0
+Winter,Delaware,Jacket,1,52,52.0,4.0,5.0
+Winter,Delaware,Jeans,1,20,20.0,4.0,5.0
+Winter,Delaware,Jewelry,1,57,57.0,4.0,5.0
+Winter,Delaware,Sandals,1,78,78.0,4.0,5.0
+Winter,Delaware,Shirt,1,54,54.0,4.0,5.0
+Winter,Delaware,Shoes,1,72,72.0,4.0,5.0
+Winter,Delaware,Sneakers,1,48,48.0,4.0,5.0
+Winter,Delaware,Socks,1,75,75.0,4.0,5.0
+Winter,Florida,Hoodie,3,207,69.0,1.0,16.67
+Winter,Florida,Skirt,3,152,50.666666666666664,1.0,16.67
+Winter,Florida,Gloves,2,110,55.0,2.0,11.11
+Winter,Florida,Sneakers,2,148,74.0,2.0,11.11
+Winter,Florida,Coat,1,40,40.0,3.0,5.56
+Winter,Florida,Dress,1,37,37.0,3.0,5.56
+Winter,Florida,Hat,1,33,33.0,3.0,5.56
+Winter,Florida,Jacket,1,81,81.0,3.0,5.56
+Winter,Florida,Shorts,1,88,88.0,3.0,5.56
+Winter,Florida,Socks,1,37,37.0,3.0,5.56
+Winter,Florida,Sunglasses,1,59,59.0,3.0,5.56
+Winter,Florida,Sweater,1,32,32.0,3.0,5.56
+Winter,Georgia,Sneakers,3,174,58.0,1.0,13.04
+Winter,Georgia,Dress,2,117,58.5,2.0,8.7
+Winter,Georgia,Scarf,2,139,69.5,2.0,8.7
+Winter,Georgia,Shirt,2,109,54.5,2.0,8.7
+Winter,Georgia,Skirt,2,99,49.5,2.0,8.7
+Winter,Georgia,Socks,2,118,59.0,2.0,8.7
+Winter,Georgia,Sunglasses,2,112,56.0,2.0,8.7
+Winter,Georgia,Backpack,1,63,63.0,3.0,4.35
+Winter,Georgia,Blouse,1,44,44.0,3.0,4.35
+Winter,Georgia,Hat,1,71,71.0,3.0,4.35
+Winter,Georgia,Hoodie,1,38,38.0,3.0,4.35
+Winter,Georgia,Jeans,1,39,39.0,3.0,4.35
+Winter,Georgia,Jewelry,1,82,82.0,3.0,4.35
+Winter,Georgia,Pants,1,78,78.0,3.0,4.35
+Winter,Georgia,Shoes,1,22,22.0,3.0,4.35
+Winter,Hawaii,Blouse,2,75,37.5,1.0,12.5
+Winter,Hawaii,Jacket,2,150,75.0,1.0,12.5
+Winter,Hawaii,Skirt,2,162,81.0,1.0,12.5
+Winter,Hawaii,Backpack,1,96,96.0,2.0,6.25
+Winter,Hawaii,Gloves,1,61,61.0,2.0,6.25
+Winter,Hawaii,Handbag,1,78,78.0,2.0,6.25
+Winter,Hawaii,Hat,1,44,44.0,2.0,6.25
+Winter,Hawaii,Hoodie,1,51,51.0,2.0,6.25
+Winter,Hawaii,Jewelry,1,27,27.0,2.0,6.25
+Winter,Hawaii,Sandals,1,21,21.0,2.0,6.25
+Winter,Hawaii,Shirt,1,64,64.0,2.0,6.25
+Winter,Hawaii,Shoes,1,26,26.0,2.0,6.25
+Winter,Hawaii,Shorts,1,68,68.0,2.0,6.25
+Winter,Idaho,Shirt,3,208,69.33333333333333,1.0,18.75
+Winter,Idaho,Belt,2,106,53.0,2.0,12.5
+Winter,Idaho,Hoodie,2,73,36.5,2.0,12.5
+Winter,Idaho,T-shirt,2,142,71.0,2.0,12.5
+Winter,Idaho,Jacket,1,88,88.0,3.0,6.25
+Winter,Idaho,Jewelry,1,85,85.0,3.0,6.25
+Winter,Idaho,Pants,1,69,69.0,3.0,6.25
+Winter,Idaho,Skirt,1,70,70.0,3.0,6.25
+Winter,Idaho,Socks,1,68,68.0,3.0,6.25
+Winter,Idaho,Sunglasses,1,67,67.0,3.0,6.25
+Winter,Idaho,Sweater,1,64,64.0,3.0,6.25
+Winter,Illinois,Shirt,3,148,49.333333333333336,1.0,13.64
+Winter,Illinois,Handbag,2,112,56.0,2.0,9.09
+Winter,Illinois,Jacket,2,159,79.5,2.0,9.09
+Winter,Illinois,Jewelry,2,104,52.0,2.0,9.09
+Winter,Illinois,Sneakers,2,57,28.5,2.0,9.09
+Winter,Illinois,Backpack,1,91,91.0,3.0,4.55
+Winter,Illinois,Belt,1,90,90.0,3.0,4.55
+Winter,Illinois,Dress,1,44,44.0,3.0,4.55
+Winter,Illinois,Hoodie,1,85,85.0,3.0,4.55
+Winter,Illinois,Pants,1,47,47.0,3.0,4.55
+Winter,Illinois,Scarf,1,99,99.0,3.0,4.55
+Winter,Illinois,Shoes,1,86,86.0,3.0,4.55
+Winter,Illinois,Shorts,1,21,21.0,3.0,4.55
+Winter,Illinois,Socks,1,25,25.0,3.0,4.55
+Winter,Illinois,Sweater,1,23,23.0,3.0,4.55
+Winter,Illinois,T-shirt,1,69,69.0,3.0,4.55
+Winter,Indiana,Skirt,3,169,56.333333333333336,1.0,13.64
+Winter,Indiana,Jacket,2,150,75.0,2.0,9.09
+Winter,Indiana,Jewelry,2,72,36.0,2.0,9.09
+Winter,Indiana,Socks,2,76,38.0,2.0,9.09
+Winter,Indiana,Sweater,2,123,61.5,2.0,9.09
+Winter,Indiana,T-shirt,2,130,65.0,2.0,9.09
+Winter,Indiana,Belt,1,56,56.0,3.0,4.55
+Winter,Indiana,Blouse,1,32,32.0,3.0,4.55
+Winter,Indiana,Boots,1,68,68.0,3.0,4.55
+Winter,Indiana,Gloves,1,71,71.0,3.0,4.55
+Winter,Indiana,Handbag,1,69,69.0,3.0,4.55
+Winter,Indiana,Hat,1,21,21.0,3.0,4.55
+Winter,Indiana,Scarf,1,40,40.0,3.0,4.55
+Winter,Indiana,Shorts,1,76,76.0,3.0,4.55
+Winter,Indiana,Sunglasses,1,42,42.0,3.0,4.55
+Winter,Iowa,Jacket,5,269,53.8,1.0,25.0
+Winter,Iowa,Sandals,3,204,68.0,2.0,15.0
+Winter,Iowa,Belt,2,64,32.0,3.0,10.0
+Winter,Iowa,Sweater,2,145,72.5,3.0,10.0
+Winter,Iowa,Boots,1,41,41.0,4.0,5.0
+Winter,Iowa,Handbag,1,84,84.0,4.0,5.0
+Winter,Iowa,Jeans,1,91,91.0,4.0,5.0
+Winter,Iowa,Scarf,1,58,58.0,4.0,5.0
+Winter,Iowa,Shoes,1,75,75.0,4.0,5.0
+Winter,Iowa,Sneakers,1,43,43.0,4.0,5.0
+Winter,Iowa,Socks,1,69,69.0,4.0,5.0
+Winter,Iowa,Sunglasses,1,36,36.0,4.0,5.0
+Winter,Kansas,Jewelry,3,169,56.333333333333336,1.0,25.0
+Winter,Kansas,Boots,2,86,43.0,2.0,16.67
+Winter,Kansas,Pants,1,24,24.0,3.0,8.33
+Winter,Kansas,Sandals,1,39,39.0,3.0,8.33
+Winter,Kansas,Shirt,1,63,63.0,3.0,8.33
+Winter,Kansas,Shorts,1,45,45.0,3.0,8.33
+Winter,Kansas,Sneakers,1,21,21.0,3.0,8.33
+Winter,Kansas,Socks,1,78,78.0,3.0,8.33
+Winter,Kansas,Sunglasses,1,80,80.0,3.0,8.33
+Winter,Kentucky,Jewelry,3,159,53.0,1.0,12.0
+Winter,Kentucky,Shirt,3,148,49.333333333333336,1.0,12.0
+Winter,Kentucky,Coat,2,117,58.5,2.0,8.0
+Winter,Kentucky,Handbag,2,113,56.5,2.0,8.0
+Winter,Kentucky,Shorts,2,75,37.5,2.0,8.0
+Winter,Kentucky,Sunglasses,2,134,67.0,2.0,8.0
+Winter,Kentucky,Sweater,2,118,59.0,2.0,8.0
+Winter,Kentucky,Backpack,1,50,50.0,3.0,4.0
+Winter,Kentucky,Blouse,1,53,53.0,3.0,4.0
+Winter,Kentucky,Dress,1,98,98.0,3.0,4.0
+Winter,Kentucky,Gloves,1,64,64.0,3.0,4.0
+Winter,Kentucky,Hat,1,60,60.0,3.0,4.0
+Winter,Kentucky,Jeans,1,59,59.0,3.0,4.0
+Winter,Kentucky,Sandals,1,28,28.0,3.0,4.0
+Winter,Kentucky,Scarf,1,90,90.0,3.0,4.0
+Winter,Kentucky,Skirt,1,48,48.0,3.0,4.0
+Winter,Louisiana,T-shirt,4,269,67.25,1.0,16.0
+Winter,Louisiana,Pants,3,143,47.666666666666664,2.0,12.0
+Winter,Louisiana,Dress,2,129,64.5,3.0,8.0
+Winter,Louisiana,Hoodie,2,133,66.5,3.0,8.0
+Winter,Louisiana,Sunglasses,2,48,24.0,3.0,8.0
+Winter,Louisiana,Backpack,1,78,78.0,4.0,4.0
+Winter,Louisiana,Belt,1,73,73.0,4.0,4.0
+Winter,Louisiana,Gloves,1,94,94.0,4.0,4.0
+Winter,Louisiana,Handbag,1,76,76.0,4.0,4.0
+Winter,Louisiana,Hat,1,89,89.0,4.0,4.0
+Winter,Louisiana,Jacket,1,99,99.0,4.0,4.0
+Winter,Louisiana,Sandals,1,79,79.0,4.0,4.0
+Winter,Louisiana,Shirt,1,59,59.0,4.0,4.0
+Winter,Louisiana,Shorts,1,34,34.0,4.0,4.0
+Winter,Louisiana,Skirt,1,36,36.0,4.0,4.0
+Winter,Louisiana,Socks,1,97,97.0,4.0,4.0
+Winter,Louisiana,Sweater,1,42,42.0,4.0,4.0
+Winter,Maine,Pants,4,180,45.0,1.0,15.38
+Winter,Maine,Shoes,4,219,54.75,1.0,15.38
+Winter,Maine,Sunglasses,3,168,56.0,2.0,11.54
+Winter,Maine,Sweater,3,204,68.0,2.0,11.54
+Winter,Maine,Coat,2,128,64.0,3.0,7.69
+Winter,Maine,Handbag,2,73,36.5,3.0,7.69
+Winter,Maine,Jeans,2,109,54.5,3.0,7.69
+Winter,Maine,Blouse,1,58,58.0,4.0,3.85
+Winter,Maine,Hoodie,1,56,56.0,4.0,3.85
+Winter,Maine,Jewelry,1,25,25.0,4.0,3.85
+Winter,Maine,Sandals,1,38,38.0,4.0,3.85
+Winter,Maine,Scarf,1,35,35.0,4.0,3.85
+Winter,Maine,Socks,1,53,53.0,4.0,3.85
+Winter,Maryland,Sneakers,3,191,63.666666666666664,1.0,18.75
+Winter,Maryland,Blouse,2,152,76.0,2.0,12.5
+Winter,Maryland,Shoes,2,73,36.5,2.0,12.5
+Winter,Maryland,T-shirt,2,149,74.5,2.0,12.5
+Winter,Maryland,Dress,1,29,29.0,3.0,6.25
+Winter,Maryland,Gloves,1,93,93.0,3.0,6.25
+Winter,Maryland,Handbag,1,82,82.0,3.0,6.25
+Winter,Maryland,Hat,1,30,30.0,3.0,6.25
+Winter,Maryland,Jeans,1,39,39.0,3.0,6.25
+Winter,Maryland,Sunglasses,1,95,95.0,3.0,6.25
+Winter,Maryland,Sweater,1,39,39.0,3.0,6.25
+Winter,Massachusetts,Shirt,4,144,36.0,1.0,20.0
+Winter,Massachusetts,Dress,3,235,78.33333333333333,2.0,15.0
+Winter,Massachusetts,Backpack,2,147,73.5,3.0,10.0
+Winter,Massachusetts,Socks,2,103,51.5,3.0,10.0
+Winter,Massachusetts,Belt,1,53,53.0,4.0,5.0
+Winter,Massachusetts,Blouse,1,71,71.0,4.0,5.0
+Winter,Massachusetts,Boots,1,55,55.0,4.0,5.0
+Winter,Massachusetts,Coat,1,51,51.0,4.0,5.0
+Winter,Massachusetts,Handbag,1,46,46.0,4.0,5.0
+Winter,Massachusetts,Hoodie,1,79,79.0,4.0,5.0
+Winter,Massachusetts,Shorts,1,84,84.0,4.0,5.0
+Winter,Massachusetts,Skirt,1,90,90.0,4.0,5.0
+Winter,Massachusetts,Sneakers,1,35,35.0,4.0,5.0
+Winter,Michigan,Belt,2,113,56.5,1.0,15.38
+Winter,Michigan,Jacket,2,98,49.0,1.0,15.38
+Winter,Michigan,Sandals,2,81,40.5,1.0,15.38
+Winter,Michigan,Backpack,1,31,31.0,2.0,7.69
+Winter,Michigan,Dress,1,95,95.0,2.0,7.69
+Winter,Michigan,Hoodie,1,31,31.0,2.0,7.69
+Winter,Michigan,Shirt,1,74,74.0,2.0,7.69
+Winter,Michigan,Sneakers,1,64,64.0,2.0,7.69
+Winter,Michigan,Sunglasses,1,63,63.0,2.0,7.69
+Winter,Michigan,T-shirt,1,38,38.0,2.0,7.69
+Winter,Minnesota,Skirt,3,235,78.33333333333333,1.0,14.29
+Winter,Minnesota,Sneakers,3,209,69.66666666666667,1.0,14.29
+Winter,Minnesota,Blouse,2,111,55.5,2.0,9.52
+Winter,Minnesota,Hat,2,89,44.5,2.0,9.52
+Winter,Minnesota,Shoes,2,99,49.5,2.0,9.52
+Winter,Minnesota,Sunglasses,2,58,29.0,2.0,9.52
+Winter,Minnesota,Handbag,1,47,47.0,3.0,4.76
+Winter,Minnesota,Hoodie,1,60,60.0,3.0,4.76
+Winter,Minnesota,Jewelry,1,98,98.0,3.0,4.76
+Winter,Minnesota,Sandals,1,97,97.0,3.0,4.76
+Winter,Minnesota,Shirt,1,62,62.0,3.0,4.76
+Winter,Minnesota,Shorts,1,51,51.0,3.0,4.76
+Winter,Minnesota,T-shirt,1,32,32.0,3.0,4.76
+Winter,Mississippi,Handbag,3,135,45.0,1.0,12.0
+Winter,Mississippi,Sunglasses,3,117,39.0,1.0,12.0
+Winter,Mississippi,Coat,2,154,77.0,2.0,8.0
+Winter,Mississippi,Dress,2,71,35.5,2.0,8.0
+Winter,Mississippi,Hoodie,2,159,79.5,2.0,8.0
+Winter,Mississippi,Jewelry,2,175,87.5,2.0,8.0
+Winter,Mississippi,Shirt,2,137,68.5,2.0,8.0
+Winter,Mississippi,Sneakers,2,148,74.0,2.0,8.0
+Winter,Mississippi,Belt,1,71,71.0,3.0,4.0
+Winter,Mississippi,Blouse,1,29,29.0,3.0,4.0
+Winter,Mississippi,Boots,1,95,95.0,3.0,4.0
+Winter,Mississippi,Hat,1,21,21.0,3.0,4.0
+Winter,Mississippi,Skirt,1,24,24.0,3.0,4.0
+Winter,Mississippi,Socks,1,77,77.0,3.0,4.0
+Winter,Mississippi,Sweater,1,89,89.0,3.0,4.0
+Winter,Missouri,T-shirt,3,240,80.0,1.0,21.43
+Winter,Missouri,Skirt,2,155,77.5,2.0,14.29
+Winter,Missouri,Belt,1,35,35.0,3.0,7.14
+Winter,Missouri,Jacket,1,22,22.0,3.0,7.14
+Winter,Missouri,Pants,1,41,41.0,3.0,7.14
+Winter,Missouri,Sandals,1,48,48.0,3.0,7.14
+Winter,Missouri,Scarf,1,72,72.0,3.0,7.14
+Winter,Missouri,Shoes,1,22,22.0,3.0,7.14
+Winter,Missouri,Shorts,1,43,43.0,3.0,7.14
+Winter,Missouri,Sunglasses,1,61,61.0,3.0,7.14
+Winter,Missouri,Sweater,1,43,43.0,3.0,7.14
+Winter,Montana,Coat,3,155,51.666666666666664,1.0,12.0
+Winter,Montana,Boots,2,164,82.0,2.0,8.0
+Winter,Montana,Hat,2,134,67.0,2.0,8.0
+Winter,Montana,Jeans,2,158,79.0,2.0,8.0
+Winter,Montana,Pants,2,140,70.0,2.0,8.0
+Winter,Montana,Shirt,2,121,60.5,2.0,8.0
+Winter,Montana,Sweater,2,110,55.0,2.0,8.0
+Winter,Montana,Belt,1,92,92.0,3.0,4.0
+Winter,Montana,Dress,1,96,96.0,3.0,4.0
+Winter,Montana,Gloves,1,93,93.0,3.0,4.0
+Winter,Montana,Jewelry,1,54,54.0,3.0,4.0
+Winter,Montana,Sandals,1,23,23.0,3.0,4.0
+Winter,Montana,Skirt,1,93,93.0,3.0,4.0
+Winter,Montana,Sneakers,1,39,39.0,3.0,4.0
+Winter,Montana,Socks,1,73,73.0,3.0,4.0
+Winter,Montana,Sunglasses,1,66,66.0,3.0,4.0
+Winter,Montana,T-shirt,1,20,20.0,3.0,4.0
+Winter,Nebraska,Gloves,2,97,48.5,1.0,10.53
+Winter,Nebraska,Handbag,2,106,53.0,1.0,10.53
+Winter,Nebraska,Jeans,2,161,80.5,1.0,10.53
+Winter,Nebraska,Pants,2,102,51.0,1.0,10.53
+Winter,Nebraska,Shirt,2,165,82.5,1.0,10.53
+Winter,Nebraska,Backpack,1,64,64.0,2.0,5.26
+Winter,Nebraska,Belt,1,83,83.0,2.0,5.26
+Winter,Nebraska,Coat,1,36,36.0,2.0,5.26
+Winter,Nebraska,Dress,1,80,80.0,2.0,5.26
+Winter,Nebraska,Hat,1,81,81.0,2.0,5.26
+Winter,Nebraska,Jewelry,1,56,56.0,2.0,5.26
+Winter,Nebraska,Scarf,1,35,35.0,2.0,5.26
+Winter,Nebraska,Sunglasses,1,62,62.0,2.0,5.26
+Winter,Nebraska,T-shirt,1,45,45.0,2.0,5.26
+Winter,Nevada,Dress,2,143,71.5,1.0,13.33
+Winter,Nevada,Sweater,2,150,75.0,1.0,13.33
+Winter,Nevada,Backpack,1,71,71.0,2.0,6.67
+Winter,Nevada,Belt,1,97,97.0,2.0,6.67
+Winter,Nevada,Boots,1,23,23.0,2.0,6.67
+Winter,Nevada,Coat,1,20,20.0,2.0,6.67
+Winter,Nevada,Gloves,1,48,48.0,2.0,6.67
+Winter,Nevada,Jacket,1,50,50.0,2.0,6.67
+Winter,Nevada,Jeans,1,68,68.0,2.0,6.67
+Winter,Nevada,Jewelry,1,53,53.0,2.0,6.67
+Winter,Nevada,Shoes,1,97,97.0,2.0,6.67
+Winter,Nevada,Shorts,1,67,67.0,2.0,6.67
+Winter,Nevada,Sneakers,1,45,45.0,2.0,6.67
+Winter,New Hampshire,Blouse,2,85,42.5,1.0,9.52
+Winter,New Hampshire,Hat,2,127,63.5,1.0,9.52
+Winter,New Hampshire,Hoodie,2,105,52.5,1.0,9.52
+Winter,New Hampshire,Jeans,2,120,60.0,1.0,9.52
+Winter,New Hampshire,T-shirt,2,150,75.0,1.0,9.52
+Winter,New Hampshire,Backpack,1,48,48.0,2.0,4.76
+Winter,New Hampshire,Belt,1,65,65.0,2.0,4.76
+Winter,New Hampshire,Boots,1,66,66.0,2.0,4.76
+Winter,New Hampshire,Coat,1,23,23.0,2.0,4.76
+Winter,New Hampshire,Gloves,1,36,36.0,2.0,4.76
+Winter,New Hampshire,Jewelry,1,60,60.0,2.0,4.76
+Winter,New Hampshire,Sandals,1,79,79.0,2.0,4.76
+Winter,New Hampshire,Scarf,1,44,44.0,2.0,4.76
+Winter,New Hampshire,Shirt,1,68,68.0,2.0,4.76
+Winter,New Hampshire,Socks,1,100,100.0,2.0,4.76
+Winter,New Hampshire,Sunglasses,1,48,48.0,2.0,4.76
+Winter,New Jersey,Scarf,2,153,76.5,1.0,20.0
+Winter,New Jersey,Sunglasses,2,188,94.0,1.0,20.0
+Winter,New Jersey,Backpack,1,54,54.0,2.0,10.0
+Winter,New Jersey,Blouse,1,41,41.0,2.0,10.0
+Winter,New Jersey,Hat,1,54,54.0,2.0,10.0
+Winter,New Jersey,Hoodie,1,98,98.0,2.0,10.0
+Winter,New Jersey,Pants,1,52,52.0,2.0,10.0
+Winter,New Jersey,Shirt,1,69,69.0,2.0,10.0
+Winter,New Mexico,Shoes,3,224,74.66666666666667,1.0,15.79
+Winter,New Mexico,Shirt,2,147,73.5,2.0,10.53
+Winter,New Mexico,Sunglasses,2,119,59.5,2.0,10.53
+Winter,New Mexico,Backpack,1,37,37.0,3.0,5.26
+Winter,New Mexico,Blouse,1,99,99.0,3.0,5.26
+Winter,New Mexico,Coat,1,96,96.0,3.0,5.26
+Winter,New Mexico,Hat,1,45,45.0,3.0,5.26
+Winter,New Mexico,Hoodie,1,74,74.0,3.0,5.26
+Winter,New Mexico,Jacket,1,67,67.0,3.0,5.26
+Winter,New Mexico,Jewelry,1,28,28.0,3.0,5.26
+Winter,New Mexico,Pants,1,82,82.0,3.0,5.26
+Winter,New Mexico,Sandals,1,23,23.0,3.0,5.26
+Winter,New Mexico,Skirt,1,40,40.0,3.0,5.26
+Winter,New Mexico,Socks,1,64,64.0,3.0,5.26
+Winter,New Mexico,Sweater,1,59,59.0,3.0,5.26
+Winter,New York,Gloves,3,120,40.0,1.0,12.0
+Winter,New York,T-shirt,3,210,70.0,1.0,12.0
+Winter,New York,Coat,2,144,72.0,2.0,8.0
+Winter,New York,Shirt,2,153,76.5,2.0,8.0
+Winter,New York,Shoes,2,89,44.5,2.0,8.0
+Winter,New York,Skirt,2,157,78.5,2.0,8.0
+Winter,New York,Sunglasses,2,113,56.5,2.0,8.0
+Winter,New York,Backpack,1,94,94.0,3.0,4.0
+Winter,New York,Belt,1,73,73.0,3.0,4.0
+Winter,New York,Boots,1,95,95.0,3.0,4.0
+Winter,New York,Handbag,1,57,57.0,3.0,4.0
+Winter,New York,Hat,1,31,31.0,3.0,4.0
+Winter,New York,Hoodie,1,46,46.0,3.0,4.0
+Winter,New York,Jacket,1,32,32.0,3.0,4.0
+Winter,New York,Shorts,1,40,40.0,3.0,4.0
+Winter,New York,Socks,1,41,41.0,3.0,4.0
+Winter,North Carolina,Hoodie,2,123,61.5,1.0,11.76
+Winter,North Carolina,Jacket,2,121,60.5,1.0,11.76
+Winter,North Carolina,Shorts,2,121,60.5,1.0,11.76
+Winter,North Carolina,Sneakers,2,148,74.0,1.0,11.76
+Winter,North Carolina,Belt,1,40,40.0,2.0,5.88
+Winter,North Carolina,Boots,1,67,67.0,2.0,5.88
+Winter,North Carolina,Handbag,1,62,62.0,2.0,5.88
+Winter,North Carolina,Jewelry,1,31,31.0,2.0,5.88
+Winter,North Carolina,Pants,1,62,62.0,2.0,5.88
+Winter,North Carolina,Sandals,1,92,92.0,2.0,5.88
+Winter,North Carolina,Scarf,1,75,75.0,2.0,5.88
+Winter,North Carolina,Shirt,1,73,73.0,2.0,5.88
+Winter,North Carolina,T-shirt,1,62,62.0,2.0,5.88
+Winter,North Dakota,Belt,2,167,83.5,1.0,11.11
+Winter,North Dakota,Jeans,2,142,71.0,1.0,11.11
+Winter,North Dakota,Sweater,2,150,75.0,1.0,11.11
+Winter,North Dakota,Blouse,1,57,57.0,2.0,5.56
+Winter,North Dakota,Coat,1,68,68.0,2.0,5.56
+Winter,North Dakota,Dress,1,82,82.0,2.0,5.56
+Winter,North Dakota,Handbag,1,78,78.0,2.0,5.56
+Winter,North Dakota,Hat,1,39,39.0,2.0,5.56
+Winter,North Dakota,Hoodie,1,46,46.0,2.0,5.56
+Winter,North Dakota,Jewelry,1,34,34.0,2.0,5.56
+Winter,North Dakota,Pants,1,53,53.0,2.0,5.56
+Winter,North Dakota,Scarf,1,68,68.0,2.0,5.56
+Winter,North Dakota,Shoes,1,52,52.0,2.0,5.56
+Winter,North Dakota,Socks,1,85,85.0,2.0,5.56
+Winter,North Dakota,Sunglasses,1,81,81.0,2.0,5.56
+Winter,Ohio,T-shirt,3,166,55.333333333333336,1.0,13.04
+Winter,Ohio,Blouse,2,83,41.5,2.0,8.7
+Winter,Ohio,Boots,2,163,81.5,2.0,8.7
+Winter,Ohio,Gloves,2,90,45.0,2.0,8.7
+Winter,Ohio,Handbag,2,94,47.0,2.0,8.7
+Winter,Ohio,Sandals,2,165,82.5,2.0,8.7
+Winter,Ohio,Belt,1,45,45.0,3.0,4.35
+Winter,Ohio,Dress,1,33,33.0,3.0,4.35
+Winter,Ohio,Hat,1,46,46.0,3.0,4.35
+Winter,Ohio,Jewelry,1,27,27.0,3.0,4.35
+Winter,Ohio,Pants,1,84,84.0,3.0,4.35
+Winter,Ohio,Shorts,1,47,47.0,3.0,4.35
+Winter,Ohio,Skirt,1,48,48.0,3.0,4.35
+Winter,Ohio,Socks,1,22,22.0,3.0,4.35
+Winter,Ohio,Sunglasses,1,89,89.0,3.0,4.35
+Winter,Ohio,Sweater,1,40,40.0,3.0,4.35
+Winter,Oklahoma,Jacket,3,161,53.666666666666664,1.0,11.11
+Winter,Oklahoma,Pants,3,172,57.333333333333336,1.0,11.11
+Winter,Oklahoma,Hat,2,136,68.0,2.0,7.41
+Winter,Oklahoma,Hoodie,2,180,90.0,2.0,7.41
+Winter,Oklahoma,Shirt,2,113,56.5,2.0,7.41
+Winter,Oklahoma,Shorts,2,90,45.0,2.0,7.41
+Winter,Oklahoma,Socks,2,104,52.0,2.0,7.41
+Winter,Oklahoma,Blouse,1,51,51.0,3.0,3.7
+Winter,Oklahoma,Boots,1,73,73.0,3.0,3.7
+Winter,Oklahoma,Dress,1,100,100.0,3.0,3.7
+Winter,Oklahoma,Handbag,1,40,40.0,3.0,3.7
+Winter,Oklahoma,Jewelry,1,42,42.0,3.0,3.7
+Winter,Oklahoma,Scarf,1,71,71.0,3.0,3.7
+Winter,Oklahoma,Shoes,1,27,27.0,3.0,3.7
+Winter,Oklahoma,Skirt,1,63,63.0,3.0,3.7
+Winter,Oklahoma,Sneakers,1,39,39.0,3.0,3.7
+Winter,Oklahoma,Sunglasses,1,48,48.0,3.0,3.7
+Winter,Oklahoma,T-shirt,1,86,86.0,3.0,3.7
+Winter,Oregon,Shirt,3,180,60.0,1.0,14.29
+Winter,Oregon,Boots,2,126,63.0,2.0,9.52
+Winter,Oregon,Dress,2,167,83.5,2.0,9.52
+Winter,Oregon,Pants,2,152,76.0,2.0,9.52
+Winter,Oregon,Belt,1,31,31.0,3.0,4.76
+Winter,Oregon,Blouse,1,20,20.0,3.0,4.76
+Winter,Oregon,Coat,1,28,28.0,3.0,4.76
+Winter,Oregon,Hat,1,84,84.0,3.0,4.76
+Winter,Oregon,Jacket,1,51,51.0,3.0,4.76
+Winter,Oregon,Jeans,1,41,41.0,3.0,4.76
+Winter,Oregon,Sandals,1,44,44.0,3.0,4.76
+Winter,Oregon,Scarf,1,34,34.0,3.0,4.76
+Winter,Oregon,Shoes,1,37,37.0,3.0,4.76
+Winter,Oregon,Sneakers,1,41,41.0,3.0,4.76
+Winter,Oregon,Sunglasses,1,88,88.0,3.0,4.76
+Winter,Oregon,Sweater,1,57,57.0,3.0,4.76
+Winter,Pennsylvania,Hat,2,104,52.0,1.0,13.33
+Winter,Pennsylvania,Socks,2,104,52.0,1.0,13.33
+Winter,Pennsylvania,Sweater,2,103,51.5,1.0,13.33
+Winter,Pennsylvania,Belt,1,100,100.0,2.0,6.67
+Winter,Pennsylvania,Blouse,1,94,94.0,2.0,6.67
+Winter,Pennsylvania,Dress,1,86,86.0,2.0,6.67
+Winter,Pennsylvania,Gloves,1,94,94.0,2.0,6.67
+Winter,Pennsylvania,Hoodie,1,66,66.0,2.0,6.67
+Winter,Pennsylvania,Pants,1,62,62.0,2.0,6.67
+Winter,Pennsylvania,Sandals,1,58,58.0,2.0,6.67
+Winter,Pennsylvania,Scarf,1,36,36.0,2.0,6.67
+Winter,Pennsylvania,Sneakers,1,84,84.0,2.0,6.67
+Winter,Rhode Island,Dress,3,150,50.0,1.0,13.04
+Winter,Rhode Island,Jewelry,3,178,59.333333333333336,1.0,13.04
+Winter,Rhode Island,Belt,2,102,51.0,2.0,8.7
+Winter,Rhode Island,Jeans,2,142,71.0,2.0,8.7
+Winter,Rhode Island,Shorts,2,190,95.0,2.0,8.7
+Winter,Rhode Island,Sweater,2,138,69.0,2.0,8.7
+Winter,Rhode Island,Handbag,1,79,79.0,3.0,4.35
+Winter,Rhode Island,Hoodie,1,20,20.0,3.0,4.35
+Winter,Rhode Island,Pants,1,65,65.0,3.0,4.35
+Winter,Rhode Island,Scarf,1,85,85.0,3.0,4.35
+Winter,Rhode Island,Shirt,1,64,64.0,3.0,4.35
+Winter,Rhode Island,Shoes,1,99,99.0,3.0,4.35
+Winter,Rhode Island,Skirt,1,81,81.0,3.0,4.35
+Winter,Rhode Island,Sneakers,1,65,65.0,3.0,4.35
+Winter,Rhode Island,T-shirt,1,66,66.0,3.0,4.35
+Winter,South Carolina,Blouse,2,122,61.0,1.0,22.22
+Winter,South Carolina,Backpack,1,65,65.0,2.0,11.11
+Winter,South Carolina,Hat,1,85,85.0,2.0,11.11
+Winter,South Carolina,Hoodie,1,59,59.0,2.0,11.11
+Winter,South Carolina,Jacket,1,28,28.0,2.0,11.11
+Winter,South Carolina,Scarf,1,99,99.0,2.0,11.11
+Winter,South Carolina,Shirt,1,45,45.0,2.0,11.11
+Winter,South Carolina,T-shirt,1,23,23.0,2.0,11.11
+Winter,South Dakota,Boots,2,104,52.0,1.0,15.38
+Winter,South Dakota,Coat,2,61,30.5,1.0,15.38
+Winter,South Dakota,Jacket,2,131,65.5,1.0,15.38
+Winter,South Dakota,Backpack,1,67,67.0,2.0,7.69
+Winter,South Dakota,Belt,1,93,93.0,2.0,7.69
+Winter,South Dakota,Dress,1,80,80.0,2.0,7.69
+Winter,South Dakota,Hoodie,1,89,89.0,2.0,7.69
+Winter,South Dakota,Jewelry,1,76,76.0,2.0,7.69
+Winter,South Dakota,Skirt,1,100,100.0,2.0,7.69
+Winter,South Dakota,T-shirt,1,28,28.0,2.0,7.69
+Winter,Tennessee,Boots,3,232,77.33333333333333,1.0,17.65
+Winter,Tennessee,Hoodie,2,137,68.5,2.0,11.76
+Winter,Tennessee,Scarf,2,96,48.0,2.0,11.76
+Winter,Tennessee,Skirt,2,104,52.0,2.0,11.76
+Winter,Tennessee,Belt,1,95,95.0,3.0,5.88
+Winter,Tennessee,Dress,1,91,91.0,3.0,5.88
+Winter,Tennessee,Gloves,1,44,44.0,3.0,5.88
+Winter,Tennessee,Hat,1,36,36.0,3.0,5.88
+Winter,Tennessee,Pants,1,37,37.0,3.0,5.88
+Winter,Tennessee,Sandals,1,82,82.0,3.0,5.88
+Winter,Tennessee,Socks,1,89,89.0,3.0,5.88
+Winter,Tennessee,Sweater,1,20,20.0,3.0,5.88
+Winter,Texas,Backpack,2,153,76.5,1.0,11.11
+Winter,Texas,Belt,2,119,59.5,1.0,11.11
+Winter,Texas,Blouse,2,159,79.5,1.0,11.11
+Winter,Texas,Hat,2,155,77.5,1.0,11.11
+Winter,Texas,Scarf,2,163,81.5,1.0,11.11
+Winter,Texas,Coat,1,80,80.0,2.0,5.56
+Winter,Texas,Dress,1,34,34.0,2.0,5.56
+Winter,Texas,Hoodie,1,37,37.0,2.0,5.56
+Winter,Texas,Jacket,1,87,87.0,2.0,5.56
+Winter,Texas,Pants,1,76,76.0,2.0,5.56
+Winter,Texas,Shoes,1,99,99.0,2.0,5.56
+Winter,Texas,Sunglasses,1,56,56.0,2.0,5.56
+Winter,Texas,T-shirt,1,98,98.0,2.0,5.56
+Winter,Utah,Shorts,3,229,76.33333333333333,1.0,17.65
+Winter,Utah,Boots,2,132,66.0,2.0,11.76
+Winter,Utah,Jacket,2,84,42.0,2.0,11.76
+Winter,Utah,Jewelry,2,130,65.0,2.0,11.76
+Winter,Utah,Coat,1,59,59.0,3.0,5.88
+Winter,Utah,Handbag,1,75,75.0,3.0,5.88
+Winter,Utah,Hoodie,1,22,22.0,3.0,5.88
+Winter,Utah,Jeans,1,28,28.0,3.0,5.88
+Winter,Utah,Pants,1,73,73.0,3.0,5.88
+Winter,Utah,Scarf,1,89,89.0,3.0,5.88
+Winter,Utah,Shoes,1,90,90.0,3.0,5.88
+Winter,Utah,Sneakers,1,32,32.0,3.0,5.88
+Winter,Vermont,Pants,4,263,65.75,1.0,12.9
+Winter,Vermont,Sweater,4,173,43.25,1.0,12.9
+Winter,Vermont,Shoes,3,184,61.333333333333336,2.0,9.68
+Winter,Vermont,Socks,3,229,76.33333333333333,2.0,9.68
+Winter,Vermont,Belt,2,115,57.5,3.0,6.45
+Winter,Vermont,Jewelry,2,192,96.0,3.0,6.45
+Winter,Vermont,Blouse,1,59,59.0,4.0,3.23
+Winter,Vermont,Boots,1,67,67.0,4.0,3.23
+Winter,Vermont,Coat,1,80,80.0,4.0,3.23
+Winter,Vermont,Hat,1,85,85.0,4.0,3.23
+Winter,Vermont,Jacket,1,31,31.0,4.0,3.23
+Winter,Vermont,Jeans,1,24,24.0,4.0,3.23
+Winter,Vermont,Scarf,1,44,44.0,4.0,3.23
+Winter,Vermont,Shirt,1,51,51.0,4.0,3.23
+Winter,Vermont,Shorts,1,41,41.0,4.0,3.23
+Winter,Vermont,Skirt,1,59,59.0,4.0,3.23
+Winter,Vermont,Sneakers,1,44,44.0,4.0,3.23
+Winter,Vermont,Sunglasses,1,60,60.0,4.0,3.23
+Winter,Vermont,T-shirt,1,84,84.0,4.0,3.23
+Winter,Virginia,Shorts,3,200,66.66666666666667,1.0,12.0
+Winter,Virginia,Backpack,2,155,77.5,2.0,8.0
+Winter,Virginia,Boots,2,118,59.0,2.0,8.0
+Winter,Virginia,Gloves,2,139,69.5,2.0,8.0
+Winter,Virginia,Handbag,2,190,95.0,2.0,8.0
+Winter,Virginia,Hat,2,127,63.5,2.0,8.0
+Winter,Virginia,Scarf,2,97,48.5,2.0,8.0
+Winter,Virginia,Blouse,1,66,66.0,3.0,4.0
+Winter,Virginia,Hoodie,1,53,53.0,3.0,4.0
+Winter,Virginia,Jewelry,1,93,93.0,3.0,4.0
+Winter,Virginia,Pants,1,79,79.0,3.0,4.0
+Winter,Virginia,Sandals,1,41,41.0,3.0,4.0
+Winter,Virginia,Shirt,1,83,83.0,3.0,4.0
+Winter,Virginia,Shoes,1,92,92.0,3.0,4.0
+Winter,Virginia,Skirt,1,71,71.0,3.0,4.0
+Winter,Virginia,Sneakers,1,95,95.0,3.0,4.0
+Winter,Virginia,Socks,1,53,53.0,3.0,4.0
+Winter,Washington,Handbag,2,118,59.0,1.0,12.5
+Winter,Washington,Jewelry,2,129,64.5,1.0,12.5
+Winter,Washington,Socks,2,81,40.5,1.0,12.5
+Winter,Washington,Coat,1,81,81.0,2.0,6.25
+Winter,Washington,Gloves,1,73,73.0,2.0,6.25
+Winter,Washington,Hat,1,68,68.0,2.0,6.25
+Winter,Washington,Jacket,1,45,45.0,2.0,6.25
+Winter,Washington,Pants,1,74,74.0,2.0,6.25
+Winter,Washington,Sandals,1,94,94.0,2.0,6.25
+Winter,Washington,Scarf,1,38,38.0,2.0,6.25
+Winter,Washington,Shirt,1,98,98.0,2.0,6.25
+Winter,Washington,Shorts,1,47,47.0,2.0,6.25
+Winter,Washington,Sneakers,1,53,53.0,2.0,6.25
+Winter,West Virginia,Gloves,3,177,59.0,1.0,14.29
+Winter,West Virginia,Sunglasses,3,134,44.666666666666664,1.0,14.29
+Winter,West Virginia,Jeans,2,133,66.5,2.0,9.52
+Winter,West Virginia,Blouse,1,92,92.0,3.0,4.76
+Winter,West Virginia,Boots,1,89,89.0,3.0,4.76
+Winter,West Virginia,Coat,1,48,48.0,3.0,4.76
+Winter,West Virginia,Dress,1,79,79.0,3.0,4.76
+Winter,West Virginia,Handbag,1,74,74.0,3.0,4.76
+Winter,West Virginia,Hoodie,1,26,26.0,3.0,4.76
+Winter,West Virginia,Jacket,1,28,28.0,3.0,4.76
+Winter,West Virginia,Jewelry,1,26,26.0,3.0,4.76
+Winter,West Virginia,Pants,1,44,44.0,3.0,4.76
+Winter,West Virginia,Sandals,1,96,96.0,3.0,4.76
+Winter,West Virginia,Shoes,1,74,74.0,3.0,4.76
+Winter,West Virginia,Shorts,1,33,33.0,3.0,4.76
+Winter,West Virginia,Skirt,1,27,27.0,3.0,4.76
+Winter,Wisconsin,Hoodie,3,116,38.666666666666664,1.0,15.79
+Winter,Wisconsin,Pants,2,109,54.5,2.0,10.53
+Winter,Wisconsin,T-shirt,2,123,61.5,2.0,10.53
+Winter,Wisconsin,Belt,1,59,59.0,3.0,5.26
+Winter,Wisconsin,Blouse,1,64,64.0,3.0,5.26
+Winter,Wisconsin,Boots,1,100,100.0,3.0,5.26
+Winter,Wisconsin,Gloves,1,32,32.0,3.0,5.26
+Winter,Wisconsin,Hat,1,37,37.0,3.0,5.26
+Winter,Wisconsin,Jacket,1,46,46.0,3.0,5.26
+Winter,Wisconsin,Jeans,1,80,80.0,3.0,5.26
+Winter,Wisconsin,Sandals,1,80,80.0,3.0,5.26
+Winter,Wisconsin,Shoes,1,85,85.0,3.0,5.26
+Winter,Wisconsin,Shorts,1,66,66.0,3.0,5.26
+Winter,Wisconsin,Sneakers,1,23,23.0,3.0,5.26
+Winter,Wisconsin,Sunglasses,1,26,26.0,3.0,5.26
+Winter,Wyoming,Coat,4,235,58.75,1.0,18.18
+Winter,Wyoming,Sneakers,4,271,67.75,1.0,18.18
+Winter,Wyoming,Backpack,2,139,69.5,2.0,9.09
+Winter,Wyoming,Pants,2,127,63.5,2.0,9.09
+Winter,Wyoming,Sunglasses,2,128,64.0,2.0,9.09
+Winter,Wyoming,Blouse,1,95,95.0,3.0,4.55
+Winter,Wyoming,Dress,1,81,81.0,3.0,4.55
+Winter,Wyoming,Gloves,1,76,76.0,3.0,4.55
+Winter,Wyoming,Handbag,1,51,51.0,3.0,4.55
+Winter,Wyoming,Sandals,1,98,98.0,3.0,4.55
+Winter,Wyoming,Shirt,1,66,66.0,3.0,4.55
+Winter,Wyoming,Shoes,1,59,59.0,3.0,4.55
+Winter,Wyoming,T-shirt,1,99,99.0,3.0,4.55

@@ -1,0 +1,1200 @@
+Item Purchased,Location,sales_count,total_revenue
+Jewelry,Alabama,8,464
+Coat,Alabama,6,327
+Shoes,Alabama,6,326
+Skirt,Alabama,6,412
+Dress,Alabama,5,276
+Pants,Alabama,5,253
+Shirt,Alabama,5,241
+Blouse,Alabama,4,208
+Jeans,Alabama,4,265
+Sandals,Alabama,4,208
+Boots,Alabama,3,221
+Handbag,Alabama,3,173
+Hat,Alabama,3,228
+Hoodie,Alabama,3,159
+Scarf,Alabama,3,226
+Shorts,Alabama,3,147
+Sunglasses,Alabama,3,188
+Belt,Alabama,2,53
+Gloves,Alabama,2,170
+Jacket,Alabama,2,110
+Sneakers,Alabama,2,159
+Socks,Alabama,2,187
+Sweater,Alabama,2,81
+T-shirt,Alabama,2,105
+Backpack,Alabama,1,74
+Backpack,Alaska,5,373
+Belt,Alaska,4,307
+Blouse,Alaska,4,270
+Dress,Alaska,4,298
+Shirt,Alaska,4,238
+Socks,Alaska,4,297
+T-shirt,Alaska,4,227
+Gloves,Alaska,3,199
+Hat,Alaska,3,158
+Jewelry,Alaska,3,206
+Sandals,Alaska,3,257
+Scarf,Alaska,3,135
+Shorts,Alaska,3,230
+Skirt,Alaska,3,262
+Sneakers,Alaska,3,220
+Sunglasses,Alaska,3,249
+Sweater,Alaska,3,151
+Coat,Alaska,2,91
+Handbag,Alaska,2,92
+Hoodie,Alaska,2,113
+Jacket,Alaska,2,135
+Jeans,Alaska,2,143
+Shoes,Alaska,2,160
+Boots,Alaska,1,56
+Backpack,Arizona,5,243
+Sweater,Arizona,5,352
+Dress,Arizona,4,284
+Jacket,Arizona,4,260
+Skirt,Arizona,4,274
+Blouse,Arizona,3,183
+Coat,Arizona,3,196
+Handbag,Arizona,3,176
+Hoodie,Arizona,3,200
+Jewelry,Arizona,3,203
+Sandals,Arizona,3,227
+Socks,Arizona,3,183
+Sunglasses,Arizona,3,198
+Belt,Arizona,2,169
+Jeans,Arizona,2,119
+Pants,Arizona,2,158
+Scarf,Arizona,2,107
+Shirt,Arizona,2,160
+Shorts,Arizona,2,92
+Sneakers,Arizona,2,157
+T-shirt,Arizona,2,124
+Gloves,Arizona,1,87
+Hat,Arizona,1,87
+Shoes,Arizona,1,87
+Gloves,Arkansas,6,386
+Dress,Arkansas,5,314
+Jewelry,Arkansas,5,262
+Shirt,Arkansas,5,295
+Belt,Arkansas,4,220
+Coat,Arkansas,4,217
+Hoodie,Arkansas,4,221
+Pants,Arkansas,4,274
+Sandals,Arkansas,4,232
+Shoes,Arkansas,4,238
+Sweater,Arkansas,4,286
+Backpack,Arkansas,3,270
+Blouse,Arkansas,3,198
+Jeans,Arkansas,3,226
+Shorts,Arkansas,3,285
+Handbag,Arkansas,2,100
+Hat,Arkansas,2,70
+Jacket,Arkansas,2,54
+Scarf,Arkansas,2,135
+Skirt,Arkansas,2,89
+Socks,Arkansas,2,121
+Sunglasses,Arkansas,2,112
+T-shirt,Arkansas,2,104
+Boots,Arkansas,1,50
+Sneakers,Arkansas,1,69
+Dress,California,7,409
+Jeans,California,7,522
+Shorts,California,6,380
+Backpack,California,5,287
+Jewelry,California,5,294
+Pants,California,5,286
+Sandals,California,5,266
+Shirt,California,5,214
+Sunglasses,California,5,347
+Boots,California,4,250
+Handbag,California,4,261
+Scarf,California,4,218
+Skirt,California,4,224
+Sweater,California,4,168
+Belt,California,3,185
+Coat,California,3,165
+Hat,California,3,147
+Hoodie,California,3,168
+Jacket,California,3,193
+T-shirt,California,3,207
+Blouse,California,2,79
+Gloves,California,2,106
+Sneakers,California,2,146
+Socks,California,1,83
+Hoodie,Colorado,6,303
+Jacket,Colorado,6,320
+Sneakers,Colorado,6,321
+Backpack,Colorado,5,285
+Pants,Colorado,5,325
+Skirt,Colorado,5,206
+Dress,Colorado,4,159
+Gloves,Colorado,4,258
+Handbag,Colorado,4,205
+Shirt,Colorado,4,258
+Shoes,Colorado,4,270
+Hat,Colorado,3,184
+Sweater,Colorado,3,174
+Belt,Colorado,2,137
+Blouse,Colorado,2,110
+Jewelry,Colorado,2,181
+Sandals,Colorado,2,63
+Scarf,Colorado,2,136
+Sunglasses,Colorado,2,68
+T-shirt,Colorado,2,118
+Coat,Colorado,1,46
+Shorts,Colorado,1,95
+Coat,Connecticut,6,267
+Handbag,Connecticut,6,321
+Blouse,Connecticut,5,337
+Jewelry,Connecticut,5,286
+Boots,Connecticut,4,257
+Dress,Connecticut,4,260
+Jacket,Connecticut,4,131
+Pants,Connecticut,4,235
+Sandals,Connecticut,4,125
+Scarf,Connecticut,4,273
+Shoes,Connecticut,4,207
+Shorts,Connecticut,4,238
+Skirt,Connecticut,4,216
+Belt,Connecticut,3,143
+Shirt,Connecticut,3,187
+T-shirt,Connecticut,3,117
+Backpack,Connecticut,2,120
+Gloves,Connecticut,2,126
+Hoodie,Connecticut,2,126
+Socks,Connecticut,2,122
+Hat,Connecticut,1,22
+Jeans,Connecticut,1,67
+Sunglasses,Connecticut,1,43
+Pants,Delaware,7,442
+Blouse,Delaware,5,211
+Dress,Delaware,5,230
+Gloves,Delaware,5,361
+Hat,Delaware,5,287
+Sandals,Delaware,5,310
+Shoes,Delaware,5,291
+Socks,Delaware,5,400
+Belt,Delaware,4,166
+Scarf,Delaware,4,216
+Backpack,Delaware,3,99
+Hoodie,Delaware,3,238
+Jeans,Delaware,3,156
+Jewelry,Delaware,3,164
+Shirt,Delaware,3,136
+Sweater,Delaware,3,105
+T-shirt,Delaware,3,200
+Boots,Delaware,2,89
+Coat,Delaware,2,115
+Handbag,Delaware,2,102
+Shorts,Delaware,2,86
+Skirt,Delaware,2,132
+Sneakers,Delaware,2,79
+Sunglasses,Delaware,2,91
+Jacket,Delaware,1,52
+Coat,Florida,6,307
+Gloves,Florida,6,310
+Hat,Florida,6,324
+Skirt,Florida,6,267
+Hoodie,Florida,4,257
+Sneakers,Florida,4,256
+Jacket,Florida,3,145
+Shirt,Florida,3,199
+Sweater,Florida,3,168
+T-shirt,Florida,3,168
+Boots,Florida,2,103
+Dress,Florida,2,97
+Handbag,Florida,2,134
+Jeans,Florida,2,152
+Jewelry,Florida,2,135
+Pants,Florida,2,95
+Scarf,Florida,2,117
+Shorts,Florida,2,179
+Socks,Florida,2,67
+Backpack,Florida,1,59
+Belt,Florida,1,94
+Blouse,Florida,1,31
+Sandals,Florida,1,49
+Shoes,Florida,1,26
+Sunglasses,Florida,1,59
+Dress,Georgia,8,558
+Blouse,Georgia,7,454
+Socks,Georgia,7,416
+Jewelry,Georgia,6,343
+Pants,Georgia,5,317
+Scarf,Georgia,5,301
+Shoes,Georgia,5,300
+Sneakers,Georgia,5,302
+Backpack,Georgia,4,179
+Sandals,Georgia,3,140
+Shirt,Georgia,3,136
+Sunglasses,Georgia,3,209
+Hat,Georgia,2,141
+Hoodie,Georgia,2,64
+Shorts,Georgia,2,59
+Skirt,Georgia,2,99
+Sweater,Georgia,2,94
+T-shirt,Georgia,2,100
+Belt,Georgia,1,62
+Boots,Georgia,1,85
+Coat,Georgia,1,93
+Gloves,Georgia,1,62
+Handbag,Georgia,1,92
+Jeans,Georgia,1,39
+Handbag,Hawaii,6,322
+Blouse,Hawaii,5,253
+Jacket,Hawaii,5,388
+Hat,Hawaii,4,215
+Hoodie,Hawaii,4,253
+Belt,Hawaii,3,132
+Coat,Hawaii,3,209
+Pants,Hawaii,3,202
+Shirt,Hawaii,3,144
+Shoes,Hawaii,3,81
+Skirt,Hawaii,3,225
+Sneakers,Hawaii,3,115
+Sweater,Hawaii,3,216
+Boots,Hawaii,2,148
+Jeans,Hawaii,2,109
+Jewelry,Hawaii,2,67
+Shorts,Hawaii,2,103
+Sunglasses,Hawaii,2,124
+T-shirt,Hawaii,2,163
+Backpack,Hawaii,1,96
+Dress,Hawaii,1,42
+Gloves,Hawaii,1,61
+Sandals,Hawaii,1,21
+Socks,Hawaii,1,63
+Belt,Idaho,8,488
+Coat,Idaho,8,522
+Blouse,Idaho,5,325
+Hoodie,Idaho,5,330
+Shorts,Idaho,5,376
+Sweater,Idaho,5,193
+Backpack,Idaho,4,213
+Gloves,Idaho,4,207
+Pants,Idaho,4,226
+Shirt,Idaho,4,249
+Skirt,Idaho,4,193
+Sneakers,Idaho,4,215
+T-shirt,Idaho,4,262
+Boots,Idaho,3,181
+Hat,Idaho,3,169
+Jewelry,Idaho,3,247
+Shoes,Idaho,3,201
+Sunglasses,Idaho,3,191
+Dress,Idaho,2,95
+Handbag,Idaho,2,182
+Jacket,Idaho,2,138
+Jeans,Idaho,2,98
+Sandals,Idaho,2,89
+Scarf,Idaho,2,72
+Socks,Idaho,2,125
+Shirt,Illinois,10,600
+Jacket,Illinois,7,546
+Sweater,Illinois,7,374
+Belt,Illinois,5,334
+Handbag,Illinois,5,336
+Scarf,Illinois,5,399
+Blouse,Illinois,4,220
+Boots,Illinois,4,241
+Gloves,Illinois,4,290
+Jeans,Illinois,4,207
+Jewelry,Illinois,4,177
+Pants,Illinois,4,187
+Shorts,Illinois,4,171
+Socks,Illinois,4,198
+Dress,Illinois,3,184
+Sneakers,Illinois,3,149
+Backpack,Illinois,2,186
+Hat,Illinois,2,132
+Hoodie,Illinois,2,113
+Sandals,Illinois,2,128
+Shoes,Illinois,2,147
+Skirt,Illinois,2,98
+T-shirt,Illinois,2,156
+Coat,Illinois,1,44
+Skirt,Indiana,6,315
+Belt,Indiana,5,317
+Socks,Indiana,5,336
+Sweater,Indiana,5,284
+Hat,Indiana,4,202
+Jacket,Indiana,4,305
+Jeans,Indiana,4,275
+Jewelry,Indiana,4,176
+Sandals,Indiana,4,270
+Scarf,Indiana,4,179
+T-shirt,Indiana,4,198
+Blouse,Indiana,3,100
+Boots,Indiana,3,187
+Coat,Indiana,3,146
+Gloves,Indiana,3,187
+Pants,Indiana,3,200
+Shirt,Indiana,3,227
+Shorts,Indiana,3,248
+Backpack,Indiana,2,89
+Shoes,Indiana,2,177
+Sunglasses,Indiana,2,109
+Handbag,Indiana,1,69
+Hoodie,Indiana,1,23
+Sneakers,Indiana,1,36
+Sweater,Iowa,7,451
+Belt,Iowa,6,298
+Jacket,Iowa,6,316
+Hat,Iowa,5,390
+Sandals,Iowa,4,245
+Shoes,Iowa,4,291
+Shorts,Iowa,4,191
+Boots,Iowa,3,148
+Coat,Iowa,3,122
+Gloves,Iowa,3,175
+Jewelry,Iowa,3,270
+Sneakers,Iowa,3,179
+Backpack,Iowa,2,102
+Blouse,Iowa,2,119
+Dress,Iowa,2,185
+Handbag,Iowa,2,161
+Jeans,Iowa,2,138
+T-shirt,Iowa,2,132
+Pants,Iowa,1,36
+Scarf,Iowa,1,58
+Shirt,Iowa,1,68
+Skirt,Iowa,1,21
+Socks,Iowa,1,69
+Sunglasses,Iowa,1,36
+Blouse,Kansas,6,293
+Sandals,Kansas,6,342
+Boots,Kansas,5,287
+Jewelry,Kansas,5,309
+T-shirt,Kansas,4,169
+Coat,Kansas,3,186
+Hat,Kansas,3,136
+Jacket,Kansas,3,111
+Pants,Kansas,3,144
+Shirt,Kansas,3,174
+Shorts,Kansas,3,170
+Sneakers,Kansas,3,125
+Socks,Kansas,3,268
+Sunglasses,Kansas,3,184
+Belt,Kansas,2,149
+Dress,Kansas,2,138
+Hoodie,Kansas,2,69
+Scarf,Kansas,2,113
+Backpack,Kansas,1,20
+Gloves,Kansas,1,50
+Handbag,Kentucky,7,382
+Sweater,Kentucky,7,447
+Coat,Kentucky,6,353
+Jewelry,Kentucky,6,289
+Shirt,Kentucky,6,359
+Scarf,Kentucky,5,351
+Backpack,Kentucky,4,214
+Hat,Kentucky,4,224
+Jacket,Kentucky,4,235
+Belt,Kentucky,3,128
+Blouse,Kentucky,3,232
+Dress,Kentucky,3,174
+Gloves,Kentucky,3,176
+Pants,Kentucky,3,154
+Shorts,Kentucky,3,131
+Boots,Kentucky,2,138
+Jeans,Kentucky,2,82
+Sandals,Kentucky,2,63
+Skirt,Kentucky,2,86
+Sunglasses,Kentucky,2,134
+Shoes,Kentucky,1,21
+Socks,Kentucky,1,29
+Hoodie,Louisiana,8,503
+Jewelry,Louisiana,7,328
+Shirt,Louisiana,6,388
+Backpack,Louisiana,5,270
+Belt,Louisiana,5,260
+Pants,Louisiana,5,231
+Sweater,Louisiana,5,267
+T-shirt,Louisiana,5,297
+Sandals,Louisiana,4,274
+Dress,Louisiana,3,184
+Handbag,Louisiana,3,224
+Jeans,Louisiana,3,199
+Shoes,Louisiana,3,153
+Sneakers,Louisiana,3,166
+Socks,Louisiana,3,202
+Sunglasses,Louisiana,3,75
+Blouse,Louisiana,2,135
+Hat,Louisiana,2,163
+Shorts,Louisiana,2,96
+Skirt,Louisiana,2,60
+Boots,Louisiana,1,55
+Coat,Louisiana,1,44
+Gloves,Louisiana,1,94
+Jacket,Louisiana,1,99
+Scarf,Louisiana,1,81
+Shoes,Maine,7,425
+Socks,Maine,6,376
+Sweater,Maine,6,396
+Boots,Maine,5,278
+Blouse,Maine,4,293
+Jacket,Maine,4,227
+Pants,Maine,4,180
+Scarf,Maine,4,203
+Sunglasses,Maine,4,221
+Coat,Maine,3,177
+Handbag,Maine,3,136
+Hat,Maine,3,161
+Jeans,Maine,3,173
+Shorts,Maine,3,147
+Sneakers,Maine,3,182
+Gloves,Maine,2,123
+Jewelry,Maine,2,52
+Sandals,Maine,2,128
+Shirt,Maine,2,76
+Skirt,Maine,2,111
+T-shirt,Maine,2,152
+Belt,Maine,1,34
+Dress,Maine,1,81
+Hoodie,Maine,1,56
+Skirt,Maryland,7,280
+Sandals,Maryland,6,350
+Belt,Maryland,5,330
+Jacket,Maryland,5,241
+Scarf,Maryland,5,230
+Sneakers,Maryland,5,267
+Sunglasses,Maryland,5,380
+Blouse,Maryland,4,210
+Dress,Maryland,4,238
+Gloves,Maryland,4,214
+Socks,Maryland,4,211
+T-shirt,Maryland,4,329
+Boots,Maryland,3,171
+Coat,Maryland,3,222
+Handbag,Maryland,3,174
+Hoodie,Maryland,3,192
+Jeans,Maryland,3,154
+Jewelry,Maryland,3,161
+Shoes,Maryland,3,155
+Sweater,Maryland,2,93
+Backpack,Maryland,1,42
+Hat,Maryland,1,30
+Pants,Maryland,1,21
+Shirt,Maryland,1,80
+Shorts,Maryland,1,20
+Boots,Massachusetts,6,288
+Dress,Massachusetts,6,401
+Backpack,Massachusetts,4,230
+Coat,Massachusetts,4,220
+Jeans,Massachusetts,4,237
+Sandals,Massachusetts,4,244
+Shirt,Massachusetts,4,144
+Socks,Massachusetts,4,229
+T-shirt,Massachusetts,4,262
+Handbag,Massachusetts,3,178
+Pants,Massachusetts,3,216
+Shoes,Massachusetts,3,170
+Sunglasses,Massachusetts,3,178
+Belt,Massachusetts,2,128
+Blouse,Massachusetts,2,104
+Gloves,Massachusetts,2,168
+Hat,Massachusetts,2,131
+Jacket,Massachusetts,2,106
+Shorts,Massachusetts,2,145
+Skirt,Massachusetts,2,188
+Sweater,Massachusetts,2,184
+Hoodie,Massachusetts,1,79
+Jewelry,Massachusetts,1,61
+Scarf,Massachusetts,1,58
+Sneakers,Massachusetts,1,35
+Sandals,Michigan,9,471
+Jacket,Michigan,7,413
+Sunglasses,Michigan,6,358
+Shirt,Michigan,5,337
+Backpack,Michigan,4,142
+Belt,Michigan,4,259
+Dress,Michigan,4,356
+Pants,Michigan,4,264
+Blouse,Michigan,3,171
+Skirt,Michigan,3,201
+Sneakers,Michigan,3,244
+Sweater,Michigan,3,198
+T-shirt,Michigan,3,192
+Boots,Michigan,2,194
+Handbag,Michigan,2,121
+Hoodie,Michigan,2,51
+Jeans,Michigan,2,102
+Shorts,Michigan,2,130
+Coat,Michigan,1,39
+Hat,Michigan,1,54
+Jewelry,Michigan,1,86
+Scarf,Michigan,1,59
+Shoes,Michigan,1,91
+Skirt,Minnesota,11,696
+Sandals,Minnesota,6,387
+Shirt,Minnesota,6,418
+Sneakers,Minnesota,6,373
+Handbag,Minnesota,5,183
+Hat,Minnesota,5,194
+Sunglasses,Minnesota,5,188
+Blouse,Minnesota,4,222
+Dress,Minnesota,4,204
+Shoes,Minnesota,4,275
+Shorts,Minnesota,4,251
+T-shirt,Minnesota,4,244
+Backpack,Minnesota,3,135
+Gloves,Minnesota,3,159
+Hoodie,Minnesota,3,116
+Jewelry,Minnesota,3,247
+Coat,Minnesota,2,110
+Jacket,Minnesota,2,116
+Pants,Minnesota,2,156
+Socks,Minnesota,2,90
+Belt,Minnesota,1,54
+Boots,Minnesota,1,38
+Jeans,Minnesota,1,35
+Sweater,Minnesota,1,86
+Handbag,Mississippi,7,342
+Jewelry,Mississippi,7,518
+Blouse,Mississippi,6,329
+Dress,Mississippi,5,238
+Shorts,Mississippi,5,272
+Belt,Mississippi,4,209
+Coat,Mississippi,4,281
+Hat,Mississippi,4,265
+Shirt,Mississippi,4,303
+Sneakers,Mississippi,4,226
+Sunglasses,Mississippi,4,209
+Backpack,Mississippi,3,255
+Boots,Mississippi,3,219
+Scarf,Mississippi,3,188
+Hoodie,Mississippi,2,159
+Jacket,Mississippi,2,165
+Jeans,Mississippi,2,86
+Pants,Mississippi,2,120
+Sandals,Mississippi,2,120
+Skirt,Mississippi,2,49
+Sweater,Mississippi,2,131
+T-shirt,Mississippi,2,122
+Socks,Mississippi,1,77
+Sneakers,Missouri,6,441
+Sunglasses,Missouri,6,417
+Jeans,Missouri,5,351
+Jewelry,Missouri,5,255
+Scarf,Missouri,5,411
+Shorts,Missouri,5,249
+T-shirt,Missouri,5,366
+Pants,Missouri,4,247
+Shirt,Missouri,4,209
+Skirt,Missouri,4,294
+Belt,Missouri,3,109
+Boots,Missouri,3,218
+Handbag,Missouri,3,92
+Jacket,Missouri,3,119
+Socks,Missouri,3,112
+Sweater,Missouri,3,135
+Coat,Missouri,2,80
+Gloves,Missouri,2,88
+Hat,Missouri,2,146
+Hoodie,Missouri,2,94
+Shoes,Missouri,2,50
+Backpack,Missouri,1,94
+Blouse,Missouri,1,22
+Dress,Missouri,1,44
+Sandals,Missouri,1,48
+Coat,Montana,8,523
+Sweater,Montana,7,332
+Handbag,Montana,6,456
+Jeans,Montana,6,334
+Socks,Montana,6,433
+Backpack,Montana,5,226
+Belt,Montana,4,321
+Boots,Montana,4,211
+Gloves,Montana,4,246
+Pants,Montana,4,234
+Sandals,Montana,4,180
+Shirt,Montana,4,271
+Shorts,Montana,4,232
+T-shirt,Montana,4,213
+Dress,Montana,3,254
+Hoodie,Montana,3,168
+Jacket,Montana,3,141
+Scarf,Montana,3,173
+Blouse,Montana,2,123
+Hat,Montana,2,134
+Jewelry,Montana,2,127
+Shoes,Montana,2,97
+Skirt,Montana,2,174
+Sneakers,Montana,2,67
+Sunglasses,Montana,2,114
+Backpack,Nebraska,8,472
+Jewelry,Nebraska,6,382
+Sandals,Nebraska,6,286
+Boots,Nebraska,5,311
+Pants,Nebraska,5,267
+Shoes,Nebraska,5,326
+Belt,Nebraska,4,282
+Gloves,Nebraska,4,252
+Handbag,Nebraska,4,215
+Hat,Nebraska,4,311
+Shirt,Nebraska,4,354
+Sunglasses,Nebraska,4,142
+Coat,Nebraska,3,204
+Dress,Nebraska,3,151
+Jeans,Nebraska,3,247
+Scarf,Nebraska,3,91
+Shorts,Nebraska,3,113
+Socks,Nebraska,3,159
+Sweater,Nebraska,3,193
+Hoodie,Nebraska,2,77
+Skirt,Nebraska,2,189
+Blouse,Nebraska,1,45
+Jacket,Nebraska,1,58
+T-shirt,Nebraska,1,45
+Backpack,Nevada,10,649
+Belt,Nevada,7,514
+Socks,Nevada,7,383
+Jewelry,Nevada,5,331
+Shorts,Nevada,5,392
+Boots,Nevada,4,194
+Hoodie,Nevada,4,251
+Shoes,Nevada,4,299
+Sunglasses,Nevada,4,300
+Sweater,Nevada,4,290
+Blouse,Nevada,3,193
+Dress,Nevada,3,182
+Handbag,Nevada,3,175
+Jacket,Nevada,3,106
+Pants,Nevada,3,147
+Skirt,Nevada,3,241
+Sneakers,Nevada,3,169
+Coat,Nevada,2,50
+Gloves,Nevada,2,115
+Jeans,Nevada,2,121
+Shirt,Nevada,2,148
+T-shirt,Nevada,2,167
+Hat,Nevada,1,46
+Sandals,Nevada,1,51
+Blouse,New Hampshire,7,449
+Coat,New Hampshire,5,261
+Hat,New Hampshire,5,257
+Backpack,New Hampshire,4,273
+Boots,New Hampshire,4,248
+Hoodie,New Hampshire,4,245
+Jewelry,New Hampshire,4,263
+Scarf,New Hampshire,4,227
+Sunglasses,New Hampshire,4,225
+Dress,New Hampshire,3,149
+Gloves,New Hampshire,3,104
+Handbag,New Hampshire,3,183
+Shirt,New Hampshire,3,174
+T-shirt,New Hampshire,3,229
+Belt,New Hampshire,2,138
+Jacket,New Hampshire,2,118
+Jeans,New Hampshire,2,120
+Socks,New Hampshire,2,179
+Sweater,New Hampshire,2,91
+Pants,New Hampshire,1,26
+Sandals,New Hampshire,1,79
+Shoes,New Hampshire,1,59
+Skirt,New Hampshire,1,25
+Sneakers,New Hampshire,1,97
+Belt,New Jersey,7,449
+Scarf,New Jersey,6,347
+Sunglasses,New Jersey,5,358
+Hoodie,New Jersey,4,223
+Jacket,New Jersey,4,300
+Pants,New Jersey,4,239
+Shoes,New Jersey,4,172
+Shorts,New Jersey,4,207
+Socks,New Jersey,4,207
+Blouse,New Jersey,3,112
+Gloves,New Jersey,3,251
+Sneakers,New Jersey,3,110
+Sweater,New Jersey,3,185
+Backpack,New Jersey,2,90
+Coat,New Jersey,2,66
+Hat,New Jersey,2,104
+Sandals,New Jersey,2,150
+Skirt,New Jersey,2,57
+Boots,New Jersey,1,82
+Handbag,New Jersey,1,24
+Shirt,New Jersey,1,69
+Hoodie,New Mexico,6,466
+Sunglasses,New Mexico,6,401
+Belt,New Mexico,5,207
+Jacket,New Mexico,5,334
+Sandals,New Mexico,5,211
+Scarf,New Mexico,5,336
+Shoes,New Mexico,5,367
+Coat,New Mexico,4,258
+Hat,New Mexico,4,285
+Jewelry,New Mexico,4,161
+Pants,New Mexico,4,284
+Socks,New Mexico,4,176
+Backpack,New Mexico,3,188
+Shirt,New Mexico,3,240
+Sneakers,New Mexico,3,165
+Sweater,New Mexico,3,173
+T-shirt,New Mexico,3,210
+Blouse,New Mexico,2,148
+Handbag,New Mexico,2,128
+Skirt,New Mexico,2,114
+Boots,New Mexico,1,48
+Jeans,New Mexico,1,50
+Shorts,New Mexico,1,64
+Gloves,New York,6,298
+Shoes,New York,6,309
+Blouse,New York,5,299
+Jacket,New York,5,165
+Shorts,New York,5,343
+Coat,New York,4,314
+Dress,New York,4,215
+Handbag,New York,4,257
+Jeans,New York,4,271
+Jewelry,New York,4,261
+Sandals,New York,4,217
+Shirt,New York,4,250
+Sunglasses,New York,4,279
+T-shirt,New York,4,247
+Backpack,New York,3,216
+Belt,New York,3,227
+Scarf,New York,3,126
+Socks,New York,3,208
+Sweater,New York,3,198
+Boots,New York,2,150
+Hat,New York,2,89
+Hoodie,New York,2,66
+Skirt,New York,2,157
+Sneakers,New York,1,95
+Gloves,North Carolina,6,352
+Sandals,North Carolina,5,297
+Sweater,North Carolina,5,328
+T-shirt,North Carolina,5,354
+Handbag,North Carolina,4,265
+Hoodie,North Carolina,4,297
+Jacket,North Carolina,4,183
+Pants,North Carolina,4,234
+Shorts,North Carolina,4,230
+Sneakers,North Carolina,4,204
+Boots,North Carolina,3,144
+Jewelry,North Carolina,3,182
+Scarf,North Carolina,3,166
+Shirt,North Carolina,3,185
+Socks,North Carolina,3,182
+Sunglasses,North Carolina,3,147
+Backpack,North Carolina,2,105
+Belt,North Carolina,2,130
+Blouse,North Carolina,2,164
+Dress,North Carolina,2,135
+Hat,North Carolina,2,135
+Skirt,North Carolina,2,147
+Coat,North Carolina,1,90
+Jeans,North Carolina,1,22
+Shoes,North Carolina,1,64
+Jacket,North Dakota,8,540
+Coat,North Dakota,6,367
+Belt,North Dakota,5,331
+Blouse,North Dakota,5,340
+Socks,North Dakota,5,377
+Sunglasses,North Dakota,5,331
+Sweater,North Dakota,5,341
+Boots,North Dakota,4,176
+Jeans,North Dakota,4,227
+Scarf,North Dakota,4,202
+Shoes,North Dakota,4,248
+Dress,North Dakota,3,223
+Handbag,North Dakota,3,191
+Hat,North Dakota,3,169
+Hoodie,North Dakota,3,181
+Pants,North Dakota,3,184
+Jewelry,North Dakota,2,115
+Sandals,North Dakota,2,129
+Shorts,North Dakota,2,109
+T-shirt,North Dakota,2,122
+Backpack,North Dakota,1,49
+Gloves,North Dakota,1,95
+Shirt,North Dakota,1,75
+Skirt,North Dakota,1,27
+Sneakers,North Dakota,1,71
+Sandals,Ohio,6,406
+Skirt,Ohio,6,327
+Boots,Ohio,5,402
+Jewelry,Ohio,5,370
+Scarf,Ohio,5,313
+Socks,Ohio,5,271
+T-shirt,Ohio,5,331
+Gloves,Ohio,4,184
+Pants,Ohio,4,252
+Sneakers,Ohio,4,279
+Blouse,Ohio,3,169
+Dress,Ohio,3,198
+Handbag,Ohio,3,141
+Hoodie,Ohio,3,113
+Shoes,Ohio,3,234
+Sweater,Ohio,3,120
+Coat,Ohio,2,55
+Hat,Ohio,2,114
+Backpack,Ohio,1,40
+Belt,Ohio,1,45
+Jacket,Ohio,1,89
+Jeans,Ohio,1,60
+Shorts,Ohio,1,47
+Sunglasses,Ohio,1,89
+Jacket,Oklahoma,8,362
+Hoodie,Oklahoma,6,420
+Shorts,Oklahoma,6,311
+Pants,Oklahoma,5,299
+Socks,Oklahoma,5,229
+Boots,Oklahoma,4,239
+Hat,Oklahoma,4,311
+Shirt,Oklahoma,4,268
+Sunglasses,Oklahoma,4,149
+T-shirt,Oklahoma,4,325
+Handbag,Oklahoma,3,147
+Shoes,Oklahoma,3,115
+Belt,Oklahoma,2,100
+Coat,Oklahoma,2,119
+Dress,Oklahoma,2,198
+Jeans,Oklahoma,2,192
+Jewelry,Oklahoma,2,91
+Scarf,Oklahoma,2,102
+Skirt,Oklahoma,2,151
+Backpack,Oklahoma,1,55
+Blouse,Oklahoma,1,51
+Sandals,Oklahoma,1,83
+Sneakers,Oklahoma,1,39
+Sweater,Oklahoma,1,20
+Shirt,Oregon,6,340
+Socks,Oregon,6,359
+Belt,Oregon,5,195
+Blouse,Oregon,5,294
+Sneakers,Oregon,5,265
+Jeans,Oregon,4,153
+Scarf,Oregon,4,256
+T-shirt,Oregon,4,265
+Boots,Oregon,3,208
+Coat,Oregon,3,122
+Dress,Oregon,3,245
+Jacket,Oregon,3,133
+Sandals,Oregon,3,145
+Skirt,Oregon,3,146
+Sunglasses,Oregon,3,241
+Hat,Oregon,2,180
+Jewelry,Oregon,2,68
+Pants,Oregon,2,152
+Shoes,Oregon,2,95
+Sweater,Oregon,2,142
+Backpack,Oregon,1,73
+Gloves,Oregon,1,28
+Hoodie,Oregon,1,90
+Shorts,Oregon,1,48
+Scarf,Pennsylvania,6,359
+Dress,Pennsylvania,5,357
+Hat,Pennsylvania,5,241
+Skirt,Pennsylvania,5,386
+Boots,Pennsylvania,4,324
+Coat,Pennsylvania,4,240
+Sneakers,Pennsylvania,4,297
+Socks,Pennsylvania,4,246
+Sunglasses,Pennsylvania,4,255
+Sweater,Pennsylvania,4,260
+Blouse,Pennsylvania,3,221
+Gloves,Pennsylvania,3,228
+Hoodie,Pennsylvania,3,237
+Pants,Pennsylvania,3,207
+Shirt,Pennsylvania,3,166
+Belt,Pennsylvania,2,157
+Jewelry,Pennsylvania,2,122
+Shoes,Pennsylvania,2,123
+Shorts,Pennsylvania,2,128
+T-shirt,Pennsylvania,2,145
+Backpack,Pennsylvania,1,94
+Handbag,Pennsylvania,1,52
+Jeans,Pennsylvania,1,23
+Sandals,Pennsylvania,1,58
+Dress,Rhode Island,6,249
+Pants,Rhode Island,5,299
+Shorts,Rhode Island,5,326
+Jewelry,Rhode Island,4,203
+Sandals,Rhode Island,4,265
+Sweater,Rhode Island,4,249
+Belt,Rhode Island,3,122
+Boots,Rhode Island,3,198
+Gloves,Rhode Island,3,249
+Shirt,Rhode Island,3,178
+Skirt,Rhode Island,3,230
+Backpack,Rhode Island,2,161
+Blouse,Rhode Island,2,158
+Handbag,Rhode Island,2,146
+Hoodie,Rhode Island,2,47
+Jeans,Rhode Island,2,142
+Socks,Rhode Island,2,76
+Coat,Rhode Island,1,90
+Hat,Rhode Island,1,81
+Jacket,Rhode Island,1,46
+Scarf,Rhode Island,1,85
+Shoes,Rhode Island,1,99
+Sneakers,Rhode Island,1,65
+Sunglasses,Rhode Island,1,41
+T-shirt,Rhode Island,1,66
+Hat,South Carolina,6,340
+Hoodie,South Carolina,6,398
+Boots,South Carolina,5,372
+Pants,South Carolina,5,310
+Shoes,South Carolina,5,326
+Blouse,South Carolina,4,220
+Dress,South Carolina,4,228
+Scarf,South Carolina,4,327
+Shirt,South Carolina,4,247
+Sweater,South Carolina,4,168
+Belt,South Carolina,3,226
+Coat,South Carolina,3,130
+Gloves,South Carolina,3,123
+Jacket,South Carolina,3,158
+Socks,South Carolina,3,84
+Backpack,South Carolina,2,141
+Jeans,South Carolina,2,128
+Jewelry,South Carolina,2,55
+Skirt,South Carolina,2,104
+Handbag,South Carolina,1,61
+Sandals,South Carolina,1,61
+Shorts,South Carolina,1,37
+Sneakers,South Carolina,1,88
+Sunglasses,South Carolina,1,84
+T-shirt,South Carolina,1,23
+Backpack,South Dakota,5,298
+Jewelry,South Dakota,5,255
+Scarf,South Dakota,5,397
+Socks,South Dakota,5,264
+Coat,South Dakota,4,105
+Dress,South Dakota,4,324
+Jacket,South Dakota,4,286
+Jeans,South Dakota,4,193
+Blouse,South Dakota,3,181
+Boots,South Dakota,3,164
+Gloves,South Dakota,3,192
+Sandals,South Dakota,3,181
+Shorts,South Dakota,3,142
+Skirt,South Dakota,3,222
+Sneakers,South Dakota,3,147
+Sunglasses,South Dakota,3,241
+Belt,South Dakota,2,156
+Hat,South Dakota,2,116
+Pants,South Dakota,2,135
+T-shirt,South Dakota,2,87
+Hoodie,South Dakota,1,89
+Sweater,South Dakota,1,61
+Scarf,Tennessee,6,422
+Skirt,Tennessee,6,345
+Gloves,Tennessee,5,353
+Hat,Tennessee,5,341
+Boots,Tennessee,4,279
+Dress,Tennessee,4,209
+Pants,Tennessee,4,189
+T-shirt,Tennessee,4,193
+Belt,Tennessee,3,233
+Handbag,Tennessee,3,173
+Hoodie,Tennessee,3,160
+Jacket,Tennessee,3,210
+Shorts,Tennessee,3,175
+Sneakers,Tennessee,3,167
+Socks,Tennessee,3,141
+Sweater,Tennessee,3,202
+Coat,Tennessee,2,134
+Jeans,Tennessee,2,146
+Jewelry,Tennessee,2,97
+Sandals,Tennessee,2,132
+Shoes,Tennessee,2,131
+Sunglasses,Tennessee,2,165
+Backpack,Tennessee,1,79
+Blouse,Tennessee,1,26
+Shirt,Tennessee,1,70
+Shoes,Texas,8,476
+Hat,Texas,6,414
+Dress,Texas,5,227
+Handbag,Texas,5,195
+Sunglasses,Texas,5,336
+Hoodie,Texas,4,176
+Shirt,Texas,4,185
+Sweater,Texas,4,285
+Backpack,Texas,3,219
+Blouse,Texas,3,256
+Coat,Texas,3,217
+Gloves,Texas,3,118
+Jacket,Texas,3,216
+Scarf,Texas,3,208
+Sneakers,Texas,3,224
+T-shirt,Texas,3,265
+Belt,Texas,2,119
+Boots,Texas,2,62
+Jeans,Texas,2,129
+Pants,Texas,2,173
+Sandals,Texas,2,91
+Skirt,Texas,1,86
+Socks,Texas,1,35
+Shorts,Utah,10,657
+Dress,Utah,5,420
+Handbag,Utah,5,354
+Pants,Utah,5,354
+Boots,Utah,4,265
+Hat,Utah,4,219
+Jacket,Utah,4,167
+Sneakers,Utah,4,242
+Blouse,Utah,3,170
+Jewelry,Utah,3,221
+Scarf,Utah,3,262
+Shoes,Utah,3,267
+Socks,Utah,3,99
+Sunglasses,Utah,3,127
+Gloves,Utah,2,82
+Jeans,Utah,2,98
+T-shirt,Utah,2,164
+Belt,Utah,1,42
+Coat,Utah,1,59
+Hoodie,Utah,1,22
+Sandals,Utah,1,20
+Shirt,Utah,1,73
+Sweater,Utah,1,59
+Pants,Vermont,8,417
+Sneakers,Vermont,7,387
+Sweater,Vermont,7,330
+Jewelry,Vermont,6,385
+Shoes,Vermont,5,339
+Shorts,Vermont,5,311
+T-shirt,Vermont,5,241
+Belt,Vermont,4,200
+Jacket,Vermont,4,187
+Socks,Vermont,4,272
+Coat,Vermont,3,180
+Hoodie,Vermont,3,185
+Shirt,Vermont,3,154
+Sunglasses,Vermont,3,135
+Backpack,Vermont,2,119
+Blouse,Vermont,2,153
+Dress,Vermont,2,135
+Hat,Vermont,2,153
+Jeans,Vermont,2,82
+Sandals,Vermont,2,149
+Skirt,Vermont,2,146
+Boots,Vermont,1,67
+Gloves,Vermont,1,24
+Handbag,Vermont,1,65
+Scarf,Vermont,1,44
+Shorts,Virginia,6,384
+Backpack,Virginia,5,357
+Shoes,Virginia,5,404
+Skirt,Virginia,5,315
+Boots,Virginia,4,195
+Gloves,Virginia,4,253
+Hoodie,Virginia,4,234
+Shirt,Virginia,4,245
+Blouse,Virginia,3,168
+Handbag,Virginia,3,274
+Hat,Virginia,3,206
+Jacket,Virginia,3,194
+Scarf,Virginia,3,188
+Sneakers,Virginia,3,221
+Socks,Virginia,3,101
+Sunglasses,Virginia,3,100
+Dress,Virginia,2,88
+Jeans,Virginia,2,137
+Jewelry,Virginia,2,124
+Pants,Virginia,2,175
+Sandals,Virginia,2,119
+Sweater,Virginia,2,116
+T-shirt,Virginia,2,135
+Belt,Virginia,1,82
+Coat,Virginia,1,27
+Socks,Washington,7,370
+Dress,Washington,6,390
+Gloves,Washington,4,247
+Jewelry,Washington,4,235
+Skirt,Washington,4,250
+Backpack,Washington,3,196
+Belt,Washington,3,180
+Blouse,Washington,3,226
+Boots,Washington,3,246
+Coat,Washington,3,219
+Handbag,Washington,3,200
+Pants,Washington,3,151
+Sandals,Washington,3,192
+Scarf,Washington,3,170
+Shirt,Washington,3,238
+Sneakers,Washington,3,219
+T-shirt,Washington,3,136
+Hat,Washington,2,116
+Jacket,Washington,2,126
+Jeans,Washington,2,158
+Shorts,Washington,2,129
+Hoodie,Washington,1,67
+Shoes,Washington,1,59
+Sunglasses,Washington,1,63
+Sweater,Washington,1,40
+Coat,West Virginia,8,555
+Sunglasses,West Virginia,8,489
+Handbag,West Virginia,7,408
+Hoodie,West Virginia,5,301
+Sandals,West Virginia,5,325
+Blouse,West Virginia,4,285
+Boots,West Virginia,4,291
+Gloves,West Virginia,4,265
+Hat,West Virginia,4,328
+Shorts,West Virginia,4,255
+T-shirt,West Virginia,4,271
+Jeans,West Virginia,3,226
+Scarf,West Virginia,3,153
+Skirt,West Virginia,3,148
+Backpack,West Virginia,2,119
+Jewelry,West Virginia,2,63
+Pants,West Virginia,2,95
+Shirt,West Virginia,2,161
+Shoes,West Virginia,2,98
+Belt,West Virginia,1,82
+Dress,West Virginia,1,79
+Jacket,West Virginia,1,28
+Sneakers,West Virginia,1,67
+Sweater,West Virginia,1,82
+Blouse,Wisconsin,7,555
+T-shirt,Wisconsin,6,354
+Belt,Wisconsin,4,239
+Hat,Wisconsin,4,291
+Hoodie,Wisconsin,4,158
+Scarf,Wisconsin,4,184
+Shoes,Wisconsin,4,309
+Skirt,Wisconsin,4,211
+Handbag,Wisconsin,3,87
+Jacket,Wisconsin,3,120
+Jeans,Wisconsin,3,189
+Pants,Wisconsin,3,130
+Sandals,Wisconsin,3,138
+Shorts,Wisconsin,3,226
+Sneakers,Wisconsin,3,113
+Sunglasses,Wisconsin,3,134
+Boots,Wisconsin,2,172
+Dress,Wisconsin,2,86
+Gloves,Wisconsin,2,99
+Jewelry,Wisconsin,2,118
+Socks,Wisconsin,2,108
+Sweater,Wisconsin,2,104
+Backpack,Wisconsin,1,35
+Shirt,Wisconsin,1,36
+Shirt,Wyoming,6,365
+Sneakers,Wyoming,6,375
+Coat,Wyoming,5,311
+Sunglasses,Wyoming,5,335
+Backpack,Wyoming,4,305
+Blouse,Wyoming,4,295
+Gloves,Wyoming,4,262
+Hoodie,Wyoming,4,209
+Hat,Wyoming,3,134
+Jeans,Wyoming,3,165
+Pants,Wyoming,3,168
+Scarf,Wyoming,3,157
+Skirt,Wyoming,3,206
+Belt,Wyoming,2,93
+Dress,Wyoming,2,129
+Handbag,Wyoming,2,102
+Sandals,Wyoming,2,178
+Shoes,Wyoming,2,82
+Sweater,Wyoming,2,59
+T-shirt,Wyoming,2,146
+Boots,Wyoming,1,68
+Jacket,Wyoming,1,57
+Shorts,Wyoming,1,76
+Socks,Wyoming,1,32
