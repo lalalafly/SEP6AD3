@@ -1,0 +1,11 @@
+attribute,value,rating,count,percentage
+Discount Applied,No,1,0,0.0
+Discount Applied,No,2,0,0.0
+Discount Applied,No,3,84,3.78
+Discount Applied,No,4,104,4.68
+Discount Applied,No,5,44,1.98
+Discount Applied,Yes,1,0,0.0
+Discount Applied,Yes,2,0,0.0
+Discount Applied,Yes,3,78,4.65
+Discount Applied,Yes,4,77,4.59
+Discount Applied,Yes,5,24,1.43

@@ -1,0 +1,31 @@
+attribute,value,rating,count,percentage
+Frequency of Purchases,Every 3 Months,1,0,0.0
+Frequency of Purchases,Every 3 Months,2,0,0.0
+Frequency of Purchases,Every 3 Months,3,21,3.6
+Frequency of Purchases,Every 3 Months,4,22,3.77
+Frequency of Purchases,Every 3 Months,5,9,1.54
+Frequency of Purchases,Annually,1,0,0.0
+Frequency of Purchases,Annually,2,0,0.0
+Frequency of Purchases,Annually,3,21,3.67
+Frequency of Purchases,Annually,4,29,5.07
+Frequency of Purchases,Annually,5,9,1.57
+Frequency of Purchases,Quarterly,1,0,0.0
+Frequency of Purchases,Quarterly,2,0,0.0
+Frequency of Purchases,Quarterly,3,18,3.2
+Frequency of Purchases,Quarterly,4,18,3.2
+Frequency of Purchases,Quarterly,5,15,2.66
+Frequency of Purchases,Monthly,1,0,0.0
+Frequency of Purchases,Monthly,2,0,0.0
+Frequency of Purchases,Monthly,3,21,3.8
+Frequency of Purchases,Monthly,4,34,6.15
+Frequency of Purchases,Monthly,5,11,1.99
+Frequency of Purchases,Bi-Weekly,1,0,0.0
+Frequency of Purchases,Bi-Weekly,2,0,0.0
+Frequency of Purchases,Bi-Weekly,3,29,5.3
+Frequency of Purchases,Bi-Weekly,4,30,5.48
+Frequency of Purchases,Bi-Weekly,5,9,1.65
+Frequency of Purchases,Fortnightly,1,0,0.0
+Frequency of Purchases,Fortnightly,2,0,0.0
+Frequency of Purchases,Fortnightly,3,32,5.9
+Frequency of Purchases,Fortnightly,4,23,4.24
+Frequency of Purchases,Fortnightly,5,8,1.48

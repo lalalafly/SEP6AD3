@@ -1,0 +1,8 @@
+attribute,value,mean_rating,ci_lower,ci_upper,count
+Frequency of Purchases,Every 3 Months,3.77,3.71,3.82,584
+Frequency of Purchases,Annually,3.76,3.7,3.81,572
+Frequency of Purchases,Quarterly,3.73,3.67,3.79,563
+Frequency of Purchases,Monthly,3.78,3.72,3.84,553
+Frequency of Purchases,Bi-Weekly,3.71,3.65,3.77,547
+Frequency of Purchases,Fortnightly,3.76,3.7,3.81,542
+Frequency of Purchases,Weekly,3.76,3.7,3.82,539

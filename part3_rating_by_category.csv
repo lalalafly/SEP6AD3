@@ -1,0 +1,5 @@
+attribute,value,mean_rating,ci_lower,ci_upper,count
+Category,Clothing,3.72,3.69,3.76,1737
+Category,Accessories,3.77,3.73,3.81,1240
+Category,Footwear,3.79,3.73,3.85,599
+Category,Outerwear,3.75,3.67,3.82,324

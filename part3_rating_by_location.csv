@@ -1,0 +1,9 @@
+attribute,value,mean_rating,ci_lower,ci_upper,count
+Location,Montana,3.81,3.67,3.95,96
+Location,California,3.83,3.69,3.98,95
+Location,Idaho,3.78,3.64,3.92,93
+Location,Illinois,3.64,3.5,3.79,92
+Location,Alabama,3.78,3.63,3.93,89
+Location,Minnesota,3.75,3.62,3.89,88
+Location,New York,3.75,3.59,3.9,87
+Location,Nevada,3.71,3.56,3.87,87

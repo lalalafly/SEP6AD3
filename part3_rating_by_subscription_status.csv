@@ -1,0 +1,3 @@
+attribute,value,mean_rating,ci_lower,ci_upper,count
+Subscription Status,No,3.75,3.73,3.78,2847
+Subscription Status,Yes,3.74,3.7,3.79,1053

@@ -1,0 +1,6 @@
+metric,value
+Model,RandomForest
+RMSE,23.82
+MAE,20.87
+R2_Score,-0.014
+Test_Samples,780

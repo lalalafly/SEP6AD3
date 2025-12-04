@@ -1,0 +1,7 @@
+attribute,value,mean_rating,ci_lower,ci_upper,count
+Shipping Type,Free Shipping,3.72,3.66,3.77,675
+Shipping Type,Standard,3.82,3.76,3.87,654
+Shipping Type,Store Pickup,3.71,3.65,3.76,650
+Shipping Type,Next Day Air,3.72,3.66,3.78,648
+Shipping Type,Express,3.78,3.72,3.83,646
+Shipping Type,2-Day Shipping,3.76,3.71,3.82,627

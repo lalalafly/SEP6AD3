@@ -1,0 +1,31 @@
+attribute,value,rating,count,percentage
+Shipping Type,Free Shipping,1,0,0.0
+Shipping Type,Free Shipping,2,0,0.0
+Shipping Type,Free Shipping,3,32,4.74
+Shipping Type,Free Shipping,4,25,3.7
+Shipping Type,Free Shipping,5,10,1.48
+Shipping Type,Standard,1,0,0.0
+Shipping Type,Standard,2,0,0.0
+Shipping Type,Standard,3,26,3.98
+Shipping Type,Standard,4,34,5.2
+Shipping Type,Standard,5,9,1.38
+Shipping Type,Store Pickup,1,0,0.0
+Shipping Type,Store Pickup,2,0,0.0
+Shipping Type,Store Pickup,3,29,4.46
+Shipping Type,Store Pickup,4,32,4.92
+Shipping Type,Store Pickup,5,12,1.85
+Shipping Type,Next Day Air,1,0,0.0
+Shipping Type,Next Day Air,2,0,0.0
+Shipping Type,Next Day Air,3,29,4.48
+Shipping Type,Next Day Air,4,32,4.94
+Shipping Type,Next Day Air,5,9,1.39
+Shipping Type,Express,1,0,0.0
+Shipping Type,Express,2,0,0.0
+Shipping Type,Express,3,25,3.87
+Shipping Type,Express,4,27,4.18
+Shipping Type,Express,5,12,1.86
+Shipping Type,2-Day Shipping,1,0,0.0
+Shipping Type,2-Day Shipping,2,0,0.0
+Shipping Type,2-Day Shipping,3,21,3.35
+Shipping Type,2-Day Shipping,4,31,4.94
+Shipping Type,2-Day Shipping,5,16,2.55

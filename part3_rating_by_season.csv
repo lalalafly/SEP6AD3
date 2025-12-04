@@ -1,0 +1,5 @@
+attribute,value,mean_rating,ci_lower,ci_upper,count
+Season,Spring,3.79,3.75,3.84,999
+Season,Fall,3.73,3.69,3.77,975
+Season,Winter,3.75,3.71,3.8,971
+Season,Summer,3.73,3.68,3.77,955

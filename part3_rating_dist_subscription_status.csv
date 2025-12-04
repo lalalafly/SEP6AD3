@@ -1,0 +1,11 @@
+attribute,value,rating,count,percentage
+Subscription Status,No,1,0,0.0
+Subscription Status,No,2,0,0.0
+Subscription Status,No,3,118,4.14
+Subscription Status,No,4,141,4.95
+Subscription Status,No,5,56,1.97
+Subscription Status,Yes,1,0,0.0
+Subscription Status,Yes,2,0,0.0
+Subscription Status,Yes,3,44,4.18
+Subscription Status,Yes,4,40,3.8
+Subscription Status,Yes,5,12,1.14

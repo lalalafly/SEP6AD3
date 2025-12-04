@@ -1,0 +1,5 @@
+metric,value
+RMSE,0.758
+R2_Score,-0.053
+Test_Samples,780.0
+Train_Samples,3120.0
